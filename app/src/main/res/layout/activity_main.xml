@@ -17,14 +17,13 @@
             android:id="@+id/header_image"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:padding="4dp"
-            android:layout_marginTop="9dp"
             android:layout_marginStart="10dp"
+            android:layout_marginTop="9dp"
             android:contentDescription="@string/tv_heading"
+            android:padding="4dp"
             android:src="@drawable/icon_food"
-            app:layout_constraintTop_toTopOf="parent"
             app:layout_constraintStart_toStartOf="parent"
-            />
+            app:layout_constraintTop_toTopOf="parent" />
 
         <TextView
             android:id="@+id/header_title"
@@ -33,7 +32,8 @@
             android:layout_gravity="start"
             android:layout_marginStart="6dp"
             android:layout_marginTop="6dp"
-            android:fontFamily="@font/galada"
+            android:textStyle="bold"
+            android:fontFamily="@font/dosis_medium"
             android:text="@string/tv_heading"
             android:textColor="@color/black"
             android:textSize="30sp"
@@ -55,151 +55,156 @@
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintTop_toBottomOf="@id/header_title" />
 
-        <com.google.android.material.textfield.TextInputLayout
-            android:id="@+id/ed_mat_cal"
-            style="@style/Widget.Material3.TextInputLayout.OutlinedBox.Dense"
-            android:layout_width="0dp"
+
+        <LinearLayout
+            android:id="@+id/ly_input"
+            android:layout_width="match_parent"
             android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:layout_marginTop="28dp"
             android:layout_marginHorizontal="20dp"
-            android:layout_marginTop="37dp"
-            android:hint="@string/tv_hint_kalori"
-            app:boxCornerRadiusBottomEnd="9dp"
-            app:boxCornerRadiusBottomStart="9dp"
-            app:boxCornerRadiusTopEnd="9dp"
-            app:boxCornerRadiusTopStart="9dp"
-            app:boxStrokeColor="@color/black"
-            app:hintTextColor="@color/black"
+            android:background="@drawable/bg_glass"
+            app:layout_constraintTop_toBottomOf="@id/tv_main"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toBottomOf="@id/tv_main">
+            >
 
-            <EditText
-                android:id="@+id/ed_cal"
+            <com.google.android.material.textfield.TextInputLayout
+                android:id="@+id/ed_mat_cal"
+                style="@style/Widget.Material3.TextInputLayout.OutlinedBox.Dense"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:ems="10"
-                android:inputType="number" />
+                android:layout_marginHorizontal="10dp"
+                android:layout_marginTop="14dp"
+                android:hint="@string/tv_hint_kalori"
+                app:boxCornerRadiusBottomEnd="9dp"
+                app:boxCornerRadiusBottomStart="9dp"
+                app:boxCornerRadiusTopEnd="9dp"
+                app:boxCornerRadiusTopStart="9dp"
+                app:boxStrokeColor="@color/white"
+                app:hintTextColor="@color/black">
 
-            <TextView
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:layout_marginStart="2dp"
-                android:fontFamily="@font/dosis_medium"
-                android:layout_marginTop="2dp"
-                android:text="@string/tv_kalori"
-                android:textColor="@color/black" />
+                <EditText
+                    android:id="@+id/ed_cal"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:ems="10"
+                    android:inputType="number" />
 
-        </com.google.android.material.textfield.TextInputLayout>
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginStart="2dp"
+                    android:layout_marginTop="2dp"
+                    android:fontFamily="@font/dosis_medium"
+                    android:text="@string/tv_kalori"
+                    android:textColor="@color/black" />
 
-        <com.google.android.material.textfield.TextInputLayout
-            android:id="@+id/ed_mat_karbo"
-            style="@style/Widget.Material3.TextInputLayout.OutlinedBox.Dense"
-            android:layout_width="0dp"
-            android:layout_height="wrap_content"
-            android:layout_marginHorizontal="20dp"
-            android:layout_marginTop="10dp"
-            android:hint="@string/tv_hint_karbo"
-            app:boxCornerRadiusBottomEnd="9dp"
-            app:boxCornerRadiusBottomStart="9dp"
-            app:boxCornerRadiusTopEnd="9dp"
-            app:boxCornerRadiusTopStart="9dp"
-            app:boxStrokeColor="@color/black"
-            app:hintTextColor="@color/black"
-            app:layout_constraintEnd_toEndOf="parent"
-            app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toBottomOf="@id/ed_mat_cal">
+            </com.google.android.material.textfield.TextInputLayout>
 
-            <EditText
-                android:id="@+id/ed_karbo"
+            <com.google.android.material.textfield.TextInputLayout
+                android:id="@+id/ed_mat_karbo"
+                style="@style/Widget.Material3.TextInputLayout.OutlinedBox.Dense"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:ems="10"
-                android:inputType="number" />
+                android:layout_marginHorizontal="10dp"
+                android:layout_marginTop="10dp"
+                android:hint="@string/tv_hint_karbo"
+                app:boxCornerRadiusBottomEnd="9dp"
+                app:boxCornerRadiusBottomStart="9dp"
+                app:boxCornerRadiusTopEnd="9dp"
+                app:boxCornerRadiusTopStart="9dp"
+                app:boxStrokeColor="@color/white"
+                app:hintTextColor="@color/black">
 
-            <TextView
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:layout_marginStart="2dp"
-                android:layout_marginTop="2dp"
-                android:fontFamily="@font/dosis_medium"
-                android:text="@string/tv_karbo"
-                android:textColor="@color/black" />
+                <EditText
+                    android:id="@+id/ed_karbo"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:ems="10"
+                    android:inputType="number" />
 
-        </com.google.android.material.textfield.TextInputLayout>
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginStart="2dp"
+                    android:layout_marginTop="2dp"
+                    android:fontFamily="@font/dosis_medium"
+                    android:text="@string/tv_karbo"
+                    android:textColor="@color/black" />
+
+            </com.google.android.material.textfield.TextInputLayout>
 
 
-        <com.google.android.material.textfield.TextInputLayout
-            android:id="@+id/ed_mat_prot"
-            style="@style/Widget.Material3.TextInputLayout.OutlinedBox.Dense"
-            android:layout_width="0dp"
-            android:layout_height="wrap_content"
-            android:layout_marginHorizontal="20dp"
-            android:layout_marginTop="10dp"
-            android:hint="@string/tv_hint_prot"
-            app:boxCornerRadiusBottomEnd="9dp"
-            app:boxCornerRadiusBottomStart="9dp"
-            app:boxCornerRadiusTopEnd="9dp"
-            app:boxCornerRadiusTopStart="9dp"
-            app:boxStrokeColor="@color/black"
-            app:hintTextColor="@color/black"
-            app:layout_constraintEnd_toEndOf="parent"
-            app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toBottomOf="@id/ed_mat_karbo">
-
-            <EditText
-                android:id="@+id/ed_prot"
+            <com.google.android.material.textfield.TextInputLayout
+                android:id="@+id/ed_mat_prot"
+                style="@style/Widget.Material3.TextInputLayout.OutlinedBox.Dense"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:ems="10"
-                android:inputType="number" />
+                android:layout_marginHorizontal="10dp"
+                android:layout_marginTop="10dp"
+                android:hint="@string/tv_hint_prot"
+                app:boxCornerRadiusBottomEnd="9dp"
+                app:boxCornerRadiusBottomStart="9dp"
+                app:boxCornerRadiusTopEnd="9dp"
+                app:boxCornerRadiusTopStart="9dp"
+                app:boxStrokeColor="@color/white"
+                app:hintTextColor="@color/black">
 
-            <TextView
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:layout_marginStart="2dp"
-                android:fontFamily="@font/dosis_medium"
-                android:layout_marginTop="2dp"
-                android:text="@string/tv_prot"
-                android:textColor="@color/black" />
+                <EditText
+                    android:id="@+id/ed_prot"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:ems="10"
+                    android:inputType="number" />
 
-        </com.google.android.material.textfield.TextInputLayout>
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginStart="2dp"
+                    android:layout_marginTop="2dp"
+                    android:fontFamily="@font/dosis_medium"
+                    android:text="@string/tv_prot"
+                    android:textColor="@color/black" />
+
+            </com.google.android.material.textfield.TextInputLayout>
 
 
-        <com.google.android.material.textfield.TextInputLayout
-            android:id="@+id/ed_mat_lem"
-            style="@style/Widget.Material3.TextInputLayout.OutlinedBox.Dense"
-            android:layout_width="0dp"
-            android:layout_height="wrap_content"
-            android:layout_marginHorizontal="20dp"
-            android:layout_marginTop="10dp"
-            android:hint="@string/tv_hint_lemak"
-            app:boxCornerRadiusBottomEnd="9dp"
-            app:boxCornerRadiusBottomStart="9dp"
-            app:boxCornerRadiusTopEnd="9dp"
-            app:boxCornerRadiusTopStart="9dp"
-            app:boxStrokeColor="@color/black"
-            app:hintTextColor="@color/black"
-            app:layout_constraintEnd_toEndOf="parent"
-            app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toBottomOf="@id/ed_mat_prot">
-
-            <EditText
-                android:id="@+id/ed_lemak"
+            <com.google.android.material.textfield.TextInputLayout
+                android:id="@+id/ed_mat_lem"
+                style="@style/Widget.Material3.TextInputLayout.OutlinedBox.Dense"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:ems="10"
-                android:inputType="number" />
+                android:layout_marginHorizontal="10dp"
+                android:layout_marginBottom="16dp"
+                android:layout_marginTop="10dp"
+                android:hint="@string/tv_hint_lemak"
+                app:boxCornerRadiusBottomEnd="9dp"
+                app:boxCornerRadiusBottomStart="9dp"
+                app:boxCornerRadiusTopEnd="9dp"
+                app:boxCornerRadiusTopStart="9dp"
+                app:boxStrokeColor="@color/white"
+                app:hintTextColor="@color/black">
 
-            <TextView
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:layout_marginStart="2dp"
-                android:layout_marginTop="2dp"
-                android:fontFamily="@font/dosis_medium"
-                android:text="@string/tv_lemak"
-                android:textColor="@color/black" />
+                <EditText
+                    android:id="@+id/ed_lemak"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:ems="10"
+                    android:inputType="number" />
 
-        </com.google.android.material.textfield.TextInputLayout>
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginStart="2dp"
+                    android:layout_marginTop="2dp"
+                    android:fontFamily="@font/dosis_medium"
+                    android:text="@string/tv_lemak"
+                    android:textColor="@color/black" />
+
+            </com.google.android.material.textfield.TextInputLayout>
+
+        </LinearLayout>
 
 
         <Button
@@ -208,13 +213,14 @@
             android:layout_height="wrap_content"
             android:layout_marginHorizontal="20dp"
             android:layout_marginTop="30dp"
-            android:backgroundTint="@color/black"
+            android:fontFamily="@font/dosis_medium"
+            android:backgroundTint="@color/white"
             android:text="@string/txt_btn_cari"
             android:textSize="16sp"
-            android:textColor="@color/white"
+            android:textColor="@color/black"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toBottomOf="@id/ed_mat_lem" />
+            app:layout_constraintTop_toBottomOf="@id/ly_input" />
 
     </androidx.constraintlayout.widget.ConstraintLayout>
 

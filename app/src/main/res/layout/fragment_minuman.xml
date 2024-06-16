@@ -60,7 +60,6 @@
                     android:layout_weight="1"
                     android:orientation="vertical"
                     android:gravity="center"
-                    android:fontFamily="@font/dosis_medium"
                     android:padding="8dp"
                     android:background="@drawable/bg_glass">
 
