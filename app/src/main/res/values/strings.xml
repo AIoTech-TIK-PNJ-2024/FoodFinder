@@ -11,8 +11,17 @@
     <string name="tv_hint_lemak">Lemak (gram)</string>
     <string name="tv_heading">Food Finder</string>
     <string name="txt_btn_cari">Cari</string>
-    <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
     <string name="tab_makanan">Makanan</string>
     <string name="tab_minuman">Minuman</string>
+    <string name="nutrition_title">Kebutuhan Nutrisimu :</string>
+    <string name="calories">Kalori</string>
+    <string name="carbohydrate">Karbohidrat</string>
+    <string name="protein">Protein</string>
+    <string name="fat">Lemak</string>
+    <string name="output_cal">20 cal</string>
+    <string name="output_cab">124 cal</string>
+    <string name="output_protein">89 cal</string>
+    <string name="output_fat">29 cal</string>
+    <string name="tab_layout_description">Tabs Food and Beverages</string>
 </resources>

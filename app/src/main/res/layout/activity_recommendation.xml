@@ -6,7 +6,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:background="@drawable/bg_recomendation"
-    tools:context=".RecomendationActivity">
+    tools:context=".result.RecommendationActivity">
 
     <ImageView
         android:id="@+id/header_image"
@@ -49,14 +49,14 @@
         app:layout_constraintTop_toBottomOf="@id/header_title">
 
         <TextView
-            android:id="@+id/tvNutritionTitle"
+            android:id="@+id/tv_nutrition_title"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_centerHorizontal="true"
             android:layout_marginBottom="10dp"
             android:fontFamily="@font/dosis_medium"
             android:gravity="center_vertical"
-            android:text="Kebutuhan Nutrisimu :"
+            android:text="@string/nutrition_title"
             android:textColor="@color/black"
             android:textSize="20sp"
             android:textStyle="bold" />
@@ -64,7 +64,7 @@
         <LinearLayout
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:layout_below="@id/tvNutritionTitle"
+            android:layout_below="@id/tv_nutrition_title"
             android:layout_marginTop="8dp"
             android:orientation="vertical">
 
@@ -74,7 +74,7 @@
                 android:fontFamily="@font/dosis_medium"
                 android:paddingHorizontal="5dp"
                 android:paddingVertical="7dp"
-                android:text="Kalori"
+                android:text="@string/calories"
                 android:textColor="@color/black"
                 android:textSize="14sp" />
 
@@ -84,7 +84,7 @@
                 android:fontFamily="@font/dosis_medium"
                 android:paddingHorizontal="5dp"
                 android:paddingVertical="7dp"
-                android:text="Karbohidrat"
+                android:text="@string/carbohydrate"
                 android:textColor="@color/black"
                 android:textSize="14sp" />
 
@@ -94,7 +94,7 @@
                 android:fontFamily="@font/dosis_medium"
                 android:paddingHorizontal="5dp"
                 android:paddingVertical="7dp"
-                android:text="Protein"
+                android:text="@string/protein"
                 android:textColor="@color/black"
                 android:textSize="14sp" />
 
@@ -104,7 +104,7 @@
                 android:fontFamily="@font/dosis_medium"
                 android:paddingHorizontal="5dp"
                 android:paddingVertical="7dp"
-                android:text="Lemak"
+                android:text="@string/fat"
                 android:textColor="@color/black"
                 android:textSize="14sp" />
 
@@ -113,30 +113,30 @@
         <LinearLayout
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:layout_below="@id/tvNutritionTitle"
+            android:layout_below="@id/tv_nutrition_title"
             android:layout_alignParentEnd="true"
             android:layout_marginTop="8dp"
             android:orientation="vertical">
 
             <TextView
-                android:id="@+id/tv_kalori"
+                android:id="@+id/tv_calories"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:fontFamily="@font/dosis_medium"
                 android:paddingHorizontal="5dp"
                 android:paddingVertical="7dp"
-                android:text="20 cal"
+                android:text="@string/output_cal"
                 android:textColor="@color/grey"
                 android:textSize="14sp" />
 
             <TextView
-                android:id="@+id/tv_karbohidrat"
+                android:id="@+id/tv_carbohydrate"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:fontFamily="@font/dosis_medium"
                 android:paddingHorizontal="5dp"
                 android:paddingVertical="7dp"
-                android:text="124 cal"
+                android:text="@string/output_cab"
                 android:textColor="@color/grey"
                 android:textSize="14sp" />
 
@@ -147,18 +147,18 @@
                 android:fontFamily="@font/dosis_medium"
                 android:paddingHorizontal="5dp"
                 android:paddingVertical="7dp"
-                android:text="89 cal"
+                android:text="@string/output_protein"
                 android:textColor="@color/grey"
                 android:textSize="14sp" />
 
             <TextView
-                android:id="@+id/lemak"
+                android:id="@+id/tv_fat"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:fontFamily="@font/dosis_medium"
                 android:paddingHorizontal="5dp"
                 android:paddingVertical="7dp"
-                android:text="29 cal"
+                android:text="@string/output_fat"
                 android:textColor="@color/grey"
                 android:textSize="14sp" />
         </LinearLayout>
@@ -171,6 +171,7 @@
         android:layout_marginHorizontal="10dp"
         android:layout_marginTop="16dp"
         android:background="@android:color/transparent"
+        android:contentDescription="@string/tab_layout_description"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@id/nutrition_info"
@@ -179,7 +180,6 @@
         app:tabSelectedTextColor="@color/purple"
         app:tabTextColor="@color/grey" />
 
-
     <androidx.viewpager2.widget.ViewPager2
         android:id="@+id/view_pager"
         android:layout_width="match_parent"
@@ -187,4 +187,5 @@
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@id/tabs" />
+
 </androidx.constraintlayout.widget.ConstraintLayout>
