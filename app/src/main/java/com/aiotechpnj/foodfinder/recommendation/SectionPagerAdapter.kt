@@ -1,4 +1,4 @@
-package com.aiotechpnj.foodfinder.result
+package com.aiotechpnj.foodfinder.recommendation
 
 import androidx.appcompat.app.AppCompatActivity
 import androidx.fragment.app.Fragment

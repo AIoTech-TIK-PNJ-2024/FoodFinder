@@ -1,11 +1,10 @@
-package com.aiotechpnj.foodfinder.result
+package com.aiotechpnj.foodfinder.recommendation
 
 import android.os.Bundle
 import androidx.fragment.app.Fragment
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
-import com.aiotechpnj.foodfinder.R
 import com.aiotechpnj.foodfinder.databinding.FragmentMakananBinding
 
 class MakananFragment : Fragment() {

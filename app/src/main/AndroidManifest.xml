@@ -13,7 +13,7 @@
         android:theme="@style/Theme.FoodFInder"
         tools:targetApi="31">
         <activity
-            android:name=".result.RecommendationActivity"
+            android:name=".recommendation.RecommendationActivity"
             android:exported="false" />
         <activity
             android:name=".home.MainActivity"

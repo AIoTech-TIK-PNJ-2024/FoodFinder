@@ -1,4 +1,4 @@
-package com.aiotechpnj.foodfinder.result
+package com.aiotechpnj.foodfinder.recommendation
 
 import android.os.Bundle
 import androidx.fragment.app.Fragment
@@ -15,7 +15,7 @@ class MinumanFragment : Fragment() {
     override fun onCreateView(
         inflater: LayoutInflater, container: ViewGroup?,
         savedInstanceState: Bundle?
-    ): View? {
+    ): View {
         _binding = FragmentMinumanBinding.inflate(inflater, container, false)
         return binding.root
     }

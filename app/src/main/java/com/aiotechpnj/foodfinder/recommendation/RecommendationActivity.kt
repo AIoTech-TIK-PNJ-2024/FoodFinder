@@ -1,7 +1,6 @@
-package com.aiotechpnj.foodfinder.result
+package com.aiotechpnj.foodfinder.recommendation
 
 import android.os.Bundle
-import androidx.activity.enableEdgeToEdge
 import androidx.annotation.StringRes
 import androidx.appcompat.app.AppCompatActivity
 import com.aiotechpnj.foodfinder.R
@@ -16,10 +15,8 @@ class RecommendationActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         binding = ActivityRecommendationBinding.inflate(layoutInflater)
         setContentView(binding.root)
-        enableEdgeToEdge()
 
-        val sectionsPagerAdapter = SectionsPagerAdapter(this)
-        binding.viewPager.adapter = sectionsPagerAdapter
+        binding.viewPager.adapter = SectionsPagerAdapter(this)
         TabLayoutMediator(binding.tabs, binding.viewPager) { tab, position ->
             tab.text = resources.getString(TAB_TITLES[position])
         }.attach()

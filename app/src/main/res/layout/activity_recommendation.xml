@@ -6,7 +6,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:background="@drawable/bg_recomendation"
-    tools:context=".result.RecommendationActivity">
+    tools:context=".recommendation.RecommendationActivity">
 
     <ImageView
         android:id="@+id/header_image"
