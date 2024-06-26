@@ -66,6 +66,7 @@ class RecommendationActivity : AppCompatActivity() {
             // Set Data
             Glide.with(this@RecommendationActivity)
                 .load(Uri.parse(predictionData?.image))
+                .error(R.drawable.error_image)
                 .into(ivFoodImage)
 
             tvFoodTitle.text = predictionData?.name

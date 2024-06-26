@@ -231,7 +231,7 @@
                 android:contentDescription="@string/gambar_makanan_minuman"
                 android:scaleType="centerCrop"
                 android:background="@drawable/corner_item"
-                tools:src="@drawable/bakpao_babi"/>
+                tools:src="@drawable/error_image"/>
 
             <RelativeLayout
                 android:layout_width="match_parent"
