@@ -28,4 +28,8 @@
     <string name="gambar_makanan_minuman">Gambar Makanan/Minuman</string>
     <string name="hasil_prediksi">Hasil Prediksi :</string>
     <string name="karbo">Karbo</string>
+    <string name="error">Error</string>
+    <string name="oke">Oke</string>
+    <string name="empty_data">Failed to predict data, Please input all data</string>
+    <string name="failed_predict">Failed to predict data, Unknown error happened</string>
 </resources>
