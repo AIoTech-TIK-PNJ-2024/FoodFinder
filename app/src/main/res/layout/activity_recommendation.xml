@@ -69,7 +69,7 @@
             android:orientation="vertical">
 
             <TextView
-                android:layout_width="wrap_content"
+                android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:fontFamily="@font/dosis_medium"
                 android:paddingHorizontal="5dp"
@@ -79,7 +79,7 @@
                 android:textSize="14sp" />
 
             <TextView
-                android:layout_width="wrap_content"
+                android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:fontFamily="@font/dosis_medium"
                 android:paddingHorizontal="5dp"
@@ -89,7 +89,7 @@
                 android:textSize="14sp" />
 
             <TextView
-                android:layout_width="wrap_content"
+                android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:fontFamily="@font/dosis_medium"
                 android:paddingHorizontal="5dp"
@@ -99,7 +99,7 @@
                 android:textSize="14sp" />
 
             <TextView
-                android:layout_width="wrap_content"
+                android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:fontFamily="@font/dosis_medium"
                 android:paddingHorizontal="5dp"
@@ -120,72 +120,280 @@
 
             <TextView
                 android:id="@+id/tv_calories"
-                android:layout_width="wrap_content"
+                android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:fontFamily="@font/dosis_medium"
                 android:paddingHorizontal="5dp"
                 android:paddingVertical="7dp"
                 android:text="@string/output_cal"
+                android:textAlignment="textEnd"
                 android:textColor="@color/grey"
                 android:textSize="14sp" />
 
             <TextView
                 android:id="@+id/tv_carbohydrate"
-                android:layout_width="wrap_content"
+                android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:fontFamily="@font/dosis_medium"
                 android:paddingHorizontal="5dp"
                 android:paddingVertical="7dp"
                 android:text="@string/output_cab"
+                android:textAlignment="textEnd"
                 android:textColor="@color/grey"
                 android:textSize="14sp" />
 
             <TextView
                 android:id="@+id/tv_protein"
-                android:layout_width="wrap_content"
+                android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:fontFamily="@font/dosis_medium"
                 android:paddingHorizontal="5dp"
                 android:paddingVertical="7dp"
                 android:text="@string/output_protein"
+                android:textAlignment="textEnd"
                 android:textColor="@color/grey"
                 android:textSize="14sp" />
 
             <TextView
                 android:id="@+id/tv_fat"
-                android:layout_width="wrap_content"
+                android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:fontFamily="@font/dosis_medium"
                 android:paddingHorizontal="5dp"
                 android:paddingVertical="7dp"
                 android:text="@string/output_fat"
+                android:textAlignment="textEnd"
                 android:textColor="@color/grey"
                 android:textSize="14sp" />
         </LinearLayout>
     </RelativeLayout>
 
-    <com.google.android.material.tabs.TabLayout
-        android:id="@+id/tabs"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:layout_marginHorizontal="10dp"
-        android:layout_marginTop="16dp"
-        android:background="@android:color/transparent"
-        android:contentDescription="@string/tab_layout_description"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@id/nutrition_info"
-        app:tabIndicatorColor="@color/purple"
-        app:tabIndicatorHeight="4dp"
-        app:tabSelectedTextColor="@color/purple"
-        app:tabTextColor="@color/grey" />
+<!--    <com.google.android.material.tabs.TabLayout-->
+<!--        android:id="@+id/tabs"-->
+<!--        android:layout_width="match_parent"-->
+<!--        android:layout_height="wrap_content"-->
+<!--        android:layout_marginHorizontal="10dp"-->
+<!--        android:layout_marginTop="16dp"-->
+<!--        android:background="@android:color/transparent"-->
+<!--        android:contentDescription="@string/tab_layout_description"-->
+<!--        app:layout_constraintEnd_toEndOf="parent"-->
+<!--        app:layout_constraintStart_toStartOf="parent"-->
+<!--        app:layout_constraintTop_toBottomOf="@id/nutrition_info"-->
+<!--        app:tabIndicatorColor="@color/purple"-->
+<!--        app:tabIndicatorHeight="4dp"-->
+<!--        app:tabSelectedTextColor="@color/purple"-->
+<!--        app:tabTextColor="@color/grey" />-->
 
-    <androidx.viewpager2.widget.ViewPager2
-        android:id="@+id/view_pager"
+<!--    <androidx.viewpager2.widget.ViewPager2-->
+<!--        android:id="@+id/view_pager"-->
+<!--        android:layout_width="match_parent"-->
+<!--        android:layout_height="wrap_content"-->
+<!--        app:layout_constraintEnd_toEndOf="parent"-->
+<!--        app:layout_constraintStart_toStartOf="parent"-->
+<!--        app:layout_constraintTop_toBottomOf="@id/tabs" />-->
+
+    <TextView
+        android:id="@+id/tv_prediction_result"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        app:layout_constraintEnd_toEndOf="parent"
+        android:layout_marginHorizontal="20dp"
+        android:layout_marginTop="16dp"
+        android:fontFamily="@font/dosis_medium"
+        android:text="@string/hasil_prediksi"
+        android:textAlignment="center"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        app:layout_constraintTop_toBottomOf="@id/nutrition_info"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@id/tabs" />
+        app:layout_constraintEnd_toEndOf="parent"/>
+
+    <com.google.android.material.card.MaterialCardView
+        style="@style/Widget.Material3.CardView.Filled"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginHorizontal="20dp"
+        android:layout_marginTop="16dp"
+        app:layout_constraintTop_toBottomOf="@id/tv_prediction_result"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:background="@drawable/bg_glass"
+            android:gravity="center">
+
+            <ImageView
+                android:id="@+id/ivFoodImage"
+                android:layout_width="match_parent"
+                android:layout_height="200dp"
+                android:contentDescription="@string/gambar_makanan_minuman"
+                android:scaleType="centerCrop"
+                android:background="@drawable/corner_item"
+                tools:src="@drawable/bakpao_babi"/>
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="16dp">
+
+                <TextView
+                    android:id="@+id/tvFoodTitle"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textStyle="bold"
+                    android:fontFamily="@font/dosis_medium"
+                    android:textSize="20sp"
+                    android:textColor="#000"
+                    tools:text="Bakpao" />
+
+<!--                <TextView-->
+<!--                    android:layout_width="wrap_content"-->
+<!--                    android:layout_height="wrap_content"-->
+<!--                    android:layout_below="@id/tvFoodTitle"-->
+<!--                    android:layout_marginTop="2dp"-->
+<!--                    android:text="@string/tab_makanan"-->
+<!--                    android:fontFamily="@font/dosis_medium"-->
+<!--                    android:textColor="#000" />-->
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@id/tvFoodTitle"
+                    android:layout_marginTop="26dp"
+                    android:baselineAligned="false"
+                    android:orientation="horizontal"
+                    android:weightSum="4">
+
+                    <LinearLayout
+                        android:layout_width="0dp"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1"
+                        android:orientation="vertical"
+                        android:padding="8dp"
+                        android:background="@drawable/bg_glass">
+
+                        <TextView
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:text="@string/calories"
+                            android:textSize="14sp"
+                            android:fontFamily="@font/dosis_medium"
+                            android:textColor="#000"
+                            android:textStyle="bold"
+                            android:gravity="center" />
+
+                        <TextView
+                            android:id="@+id/pred_calories"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:text="@string/output_cal"
+                            android:fontFamily="@font/dosis_medium"
+                            android:textSize="14sp"
+                            android:textColor="#000"
+                            android:gravity="center" />
+                    </LinearLayout>
+
+                    <LinearLayout
+                        android:layout_width="0dp"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1"
+                        android:orientation="vertical"
+                        android:gravity="center"
+                        android:padding="8dp"
+                        android:background="@drawable/bg_glass"
+                        android:layout_marginStart="8dp">
+
+                        <TextView
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:text="@string/karbo"
+                            android:textSize="14sp"
+                            android:textColor="#000"
+                            android:textStyle="bold"
+                            android:fontFamily="@font/dosis_medium"
+                            android:gravity="center" />
+
+                        <TextView
+                            android:id="@+id/pred_carbohydrate"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:text="@string/output_cab"
+                            android:textSize="14sp"
+                            android:fontFamily="@font/dosis_medium"
+                            android:textColor="#000"
+                            android:gravity="center" />
+                    </LinearLayout>
+
+                    <LinearLayout
+                        android:layout_width="0dp"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1"
+                        android:orientation="vertical"
+                        android:gravity="center"
+                        android:padding="8dp"
+                        android:background="@drawable/bg_glass"
+                        android:layout_marginStart="8dp">
+
+                        <TextView
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:text="@string/protein"
+                            android:fontFamily="@font/dosis_medium"
+                            android:textSize="14sp"
+                            android:textColor="#000"
+                            android:textStyle="bold"
+                            android:gravity="center" />
+
+                        <TextView
+                            android:id="@+id/pred_protein"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:text="@string/output_protein"
+                            android:textSize="14sp"
+                            android:fontFamily="@font/dosis_medium"
+                            android:textColor="#000"
+                            android:gravity="center" />
+                    </LinearLayout>
+
+                    <LinearLayout
+                        android:layout_width="0dp"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1"
+                        android:orientation="vertical"
+                        android:gravity="center"
+                        android:padding="8dp"
+                        android:background="@drawable/bg_glass"
+                        android:layout_marginStart="8dp">
+
+                        <TextView
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:text="@string/fat"
+                            android:fontFamily="@font/dosis_medium"
+                            android:textSize="14sp"
+                            android:textColor="#000"
+                            android:textStyle="bold"
+                            android:gravity="center" />
+
+                        <TextView
+                            android:id="@+id/pred_fat"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:text="@string/output_fat"
+                            android:textSize="14sp"
+                            android:fontFamily="@font/dosis_medium"
+                            android:textColor="#000"
+                            android:gravity="center" />
+                    </LinearLayout>
+
+                </LinearLayout>
+
+            </RelativeLayout>
+
+        </LinearLayout>
+
+    </com.google.android.material.card.MaterialCardView>
 
 </androidx.constraintlayout.widget.ConstraintLayout>
