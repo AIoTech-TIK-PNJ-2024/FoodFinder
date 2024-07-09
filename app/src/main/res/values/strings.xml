@@ -26,7 +26,7 @@
     <string name="temp_cal">%1$s cal</string>
     <string name="temp_g">%1$s gr</string>
     <string name="gambar_makanan_minuman">Gambar Makanan/Minuman</string>
-    <string name="hasil_prediksi">Hasil Prediksi :</string>
+    <string name="hasil_prediksi">Hasil : </string>
     <string name="karbo">Karbo</string>
     <string name="error">Error</string>
     <string name="oke">Oke</string>
