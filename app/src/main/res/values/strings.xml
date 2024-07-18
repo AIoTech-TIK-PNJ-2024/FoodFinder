@@ -11,8 +11,9 @@
     <string name="tv_hint_lemak">Lemak (gram)</string>
     <string name="tv_heading">Food Finder</string>
     <string name="txt_btn_cari">Cari</string>
-    <string name="tab_makanan">Makanan</string>
-    <string name="tab_minuman">Minuman</string>
+    <string name="tab_rendah">Rendah</string>
+    <string name="tab_sedang">Sedang</string>
+    <string name="tab_tinggi">Tinggi</string>
     <string name="nutrition_title">Kebutuhan Nutrisimu :</string>
     <string name="calories">Kalori</string>
     <string name="carbohydrate">Karbohidrat</string>
@@ -32,4 +33,10 @@
     <string name="oke">Oke</string>
     <string name="empty_data">Failed to predict data, Please input all data</string>
     <string name="failed_predict">Failed to predict data, Unknown error happened</string>
+    <string name="search">Search</string>
+    <string name="hero_title">Pengukuran Nutrisi Yang Dibutuhkan</string>
+    <string name="hero_desc">Temukan berbagai makanan sesuai dengan kebutuhan nutrisimu</string>
+    <string name="daftar_title">Makanan/Minuman dengan Nilai Kalori</string>
+    <string name="fab_desc">button to search food with nutrition</string>
+    <string name="item_image">Item Image</string>
 </resources>

@@ -1,6 +1,9 @@
 package com.aiotechpnj.foodfinder.utils
 
 import android.content.Context
+import android.view.View
+import android.widget.TextView
+import androidx.recyclerview.widget.RecyclerView
 import com.aiotechpnj.foodfinder.R
 import com.google.android.material.dialog.MaterialAlertDialogBuilder
 
@@ -12,4 +15,12 @@ fun showMessage(context: Context, message: String){
             dialog.dismiss()
         }
         .show()
+}
+
+fun TextView.show(state: Boolean) {
+    visibility = if (state) View.VISIBLE else View.GONE
+}
+
+fun RecyclerView.show(state: Boolean){
+    visibility = if (state) View.VISIBLE else View.GONE
 }

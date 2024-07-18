@@ -16,6 +16,12 @@
         android:usesCleartextTraffic="true"
         tools:targetApi="31">
         <activity
+            android:name=".search.SearchActivity"
+            android:exported="false" />
+        <activity
+            android:name=".recommendation.NutritionActivity"
+            android:exported="false" />
+        <activity
             android:name=".recommendation.RecommendationActivity"
             android:exported="false" />
         <activity
@@ -23,6 +29,7 @@
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
+
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>

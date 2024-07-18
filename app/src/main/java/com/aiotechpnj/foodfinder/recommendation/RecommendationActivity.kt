@@ -3,14 +3,13 @@ package com.aiotechpnj.foodfinder.recommendation
 import android.net.Uri
 import android.os.Build
 import android.os.Bundle
-import androidx.annotation.StringRes
 import androidx.appcompat.app.AppCompatActivity
 import com.aiotechpnj.foodfinder.R
-import com.aiotechpnj.foodfinder.data.InputPredict
-import com.aiotechpnj.foodfinder.data.PredictResult
+import com.aiotechpnj.foodfinder.data.InputData
+import com.aiotechpnj.foodfinder.data.Item
 import com.aiotechpnj.foodfinder.databinding.ActivityRecommendationBinding
+import com.aiotechpnj.foodfinder.utils.identify_data
 import com.aiotechpnj.foodfinder.utils.input_data
-import com.aiotechpnj.foodfinder.utils.predict_data
 import com.bumptech.glide.Glide
 
 class RecommendationActivity : AppCompatActivity() {
@@ -24,26 +23,23 @@ class RecommendationActivity : AppCompatActivity() {
 
         showInputData()
         showPredictionData()
-//        binding.viewPager.adapter = SectionsPagerAdapter(this)
-//        TabLayoutMediator(binding.tabs, binding.viewPager) { tab, position ->
-//            tab.text = resources.getString(TAB_TITLES[position])
-//        }.attach()
-//        supportActionBar?.elevation = 0f
+
+        binding.btnBack.setOnClickListener {
+            onBackPressedDispatcher.onBackPressed()
+        }
     }
 
     private fun showInputData(){
         val dataInput = if(Build.VERSION.SDK_INT >= Build.VERSION_CODES.TIRAMISU){
-            intent.getParcelableExtra(input_data, InputPredict::class.java)
+            intent.getParcelableExtra(input_data, InputData::class.java)
         } else {
             intent.getParcelableExtra(input_data)
         }
 
         binding.apply {
-            // Template String
             val tempCal = getString(R.string.temp_cal)
             val tempG = getString(R.string.temp_g)
 
-            // Set Data
             tvCalories.text = String.format(tempCal, dataInput?.calories.toString())
             tvProtein.text = String.format(tempG, dataInput?.protein.toString())
             tvFat.text = String.format(tempG, dataInput?.fat.toString())
@@ -53,17 +49,15 @@ class RecommendationActivity : AppCompatActivity() {
 
     private fun showPredictionData(){
         val predictionData = if(Build.VERSION.SDK_INT >= Build.VERSION_CODES.TIRAMISU){
-            intent.getParcelableExtra(input_data, PredictResult::class.java)
+            intent.getParcelableExtra(identify_data, Item::class.java)
         } else {
-            intent.getParcelableExtra(predict_data)
+            intent.getParcelableExtra(identify_data)
         }
 
         binding.apply {
-            // Template String
             val tempCal = getString(R.string.temp_cal)
             val tempG = getString(R.string.temp_g)
 
-            // Set Data
             Glide.with(this@RecommendationActivity)
                 .load(Uri.parse(predictionData?.image))
                 .error(R.drawable.error_image)
@@ -75,13 +69,5 @@ class RecommendationActivity : AppCompatActivity() {
             predCarbohydrate.text = String.format(tempG, predictionData?.carbohydrate.toString())
             predFat.text = String.format(tempG, predictionData?.fat.toString())
         }
-    }
-
-    companion object {
-        @StringRes
-        private val TAB_TITLES = intArrayOf(
-            R.string.tab_makanan,
-            R.string.tab_minuman
-        )
     }
 }

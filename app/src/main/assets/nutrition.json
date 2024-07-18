@@ -1,6 +1,7 @@
 [
   {
     "id": 1,
+    "kategori": "makanan",
     "calories": 280,
     "proteins": 9.2,
     "fat": 28.4,
@@ -10,6 +11,7 @@
   },
   {
     "id": 2,
+    "kategori": "makanan",
     "calories": 513,
     "proteins": 23.7,
     "fat": 37,
@@ -19,6 +21,7 @@
   },
   {
     "id": 3,
+    "kategori": "makanan",
     "calories": 0,
     "proteins": 0,
     "fat": 0.2,
@@ -28,6 +31,7 @@
   },
   {
     "id": 4,
+    "kategori": "makanan",
     "calories": 45,
     "proteins": 1.1,
     "fat": 0.4,
@@ -37,6 +41,7 @@
   },
   {
     "id": 5,
+    "kategori": "makanan",
     "calories": 37,
     "proteins": 4.4,
     "fat": 0.5,
@@ -46,6 +51,7 @@
   },
   {
     "id": 6,
+    "kategori": "makanan",
     "calories": 85,
     "proteins": 0.9,
     "fat": 6.5,
@@ -55,6 +61,7 @@
   },
   {
     "id": 7,
+    "kategori": "makanan",
     "calories": 96,
     "proteins": 3.7,
     "fat": 0.6,
@@ -64,6 +71,7 @@
   },
   {
     "id": 8,
+    "kategori": "makanan",
     "calories": 414,
     "proteins": 26.6,
     "fat": 18.3,
@@ -73,15 +81,17 @@
   },
   {
     "id": 9,
+    "kategori": "makanan",
     "calories": 75,
     "proteins": 4.1,
     "fat": 2.1,
     "carbohydrate": 10.7,
-    "name": "Ampas tahu kukus",
+    "name": "",
     "image": "https://cdns.diadona.id/diadona.id/resized/640x320/news/2020/02/26/5346/manfaat-ampas-tahu-yang-nggak-boleh-disepelekan-orang-jepang-aja-doyan-masa-kamu-ogah-ogahan-200226f.jpg"
   },
   {
     "id": 10,
+    "kategori": "bahan",
     "calories": 67,
     "proteins": 5,
     "fat": 2.1,
@@ -91,6 +101,7 @@
   },
   {
     "id": 11,
+    "kategori": "makanan",
     "calories": 184,
     "proteins": 18.8,
     "fat": 14,
@@ -100,6 +111,7 @@
   },
   {
     "id": 12,
+    "kategori": "makanan",
     "calories": 174,
     "proteins": 19.6,
     "fat": 10,
@@ -109,6 +121,7 @@
   },
   {
     "id": 13,
+    "kategori": "makanan",
     "calories": 190,
     "proteins": 19.1,
     "fat": 12,
@@ -118,6 +131,7 @@
   },
   {
     "id": 14,
+    "kategori": "makanan",
     "calories": 99,
     "proteins": 4.6,
     "fat": 1,
@@ -127,6 +141,7 @@
   },
   {
     "id": 15,
+    "kategori": "makanan",
     "calories": 25,
     "proteins": 1.6,
     "fat": 0.2,
@@ -136,6 +151,7 @@
   },
   {
     "id": 16,
+    "kategori": "makanan",
     "calories": 30,
     "proteins": 0.5,
     "fat": 0.2,
@@ -145,15 +161,17 @@
   },
   {
     "id": 17,
+    "kategori": "makanan",
     "calories": 354,
     "proteins": 16.4,
     "fat": 31.5,
     "carbohydrate": 0,
-    "name": "Angsa",
+    "name": "Daging angsa",
     "image": "https://cdn.idntimes.com/content-images/community/2020/06/images-11-7778c46373d99fb101fe76ba287b7cca.jpeg"
   },
   {
     "id": 18,
+    "kategori": "makanan",
     "calories": 126,
     "proteins": 3.4,
     "fat": 7.9,
@@ -163,6 +181,7 @@
   },
   {
     "id": 19,
+    "kategori": "makanan",
     "calories": 58,
     "proteins": 0.3,
     "fat": 0.4,
@@ -172,6 +191,7 @@
   },
   {
     "id": 20,
+    "kategori": "makanan",
     "calories": 57,
     "proteins": 0.5,
     "fat": 0.4,
@@ -181,6 +201,7 @@
   },
   {
     "id": 21,
+    "kategori": "makanan",
     "calories": 37,
     "proteins": 0.8,
     "fat": 0.5,
@@ -190,6 +211,7 @@
   },
   {
     "id": 22,
+    "kategori": "makanan",
     "calories": 113,
     "proteins": 0.9,
     "fat": 7.2,
@@ -199,6 +221,7 @@
   },
   {
     "id": 23,
+    "kategori": "bahan",
     "calories": 102,
     "proteins": 1,
     "fat": 0.2,
@@ -208,6 +231,7 @@
   },
   {
     "id": 24,
+    "kategori": "makanan",
     "calories": 277,
     "proteins": 2.4,
     "fat": 25,
@@ -217,6 +241,7 @@
   },
   {
     "id": 25,
+    "kategori": "bahan",
     "calories": 75,
     "proteins": 0.2,
     "fat": 1.1,
@@ -226,6 +251,7 @@
   },
   {
     "id": 26,
+    "kategori": "bahan",
     "calories": 239,
     "proteins": 2.8,
     "fat": 0.6,
@@ -235,6 +261,7 @@
   },
   {
     "id": 27,
+    "kategori": "bahan",
     "calories": 135,
     "proteins": 0.8,
     "fat": 0.4,
@@ -244,6 +271,7 @@
   },
   {
     "id": 28,
+    "kategori": "bahan",
     "calories": 261,
     "proteins": 0.9,
     "fat": 1.6,
@@ -253,6 +281,7 @@
   },
   {
     "id": 29,
+    "kategori": "makanan",
     "calories": 98,
     "proteins": 3.9,
     "fat": 2.6,
@@ -262,24 +291,27 @@
   },
   {
     "id": 30,
+    "kategori": "makanan",
     "calories": 302,
     "proteins": 18.2,
     "fat": 25,
     "carbohydrate": 0,
-    "name": "Ayam",
+    "name": "Ayam mentah",
     "image": "https://images.ctfassets.net/1cj2ge3ast5f/4ETq9ybsnjCsGaailYLOGH/cf7db5b91c85f4ea1e309905a9679809/Ayam_Utuh.jpeg"
   },
   {
     "id": 31,
+    "kategori": "makanan",
     "calories": 297,
     "proteins": 35.9,
     "fat": 15.2,
     "carbohydrate": 1.6,
-    "name": "Ayam  goreng Kentuckysayap",
+    "name": "Ayam  goreng Kentucky sayap",
     "image": "https://img-global.cpcdn.com/recipes/2ecb088a495ef73a/680x482cq70/ayam-goreng-kentucky-foto-resep-utama.jpg"
   },
   {
     "id": 32,
+    "kategori": "makanan",
     "calories": 270,
     "proteins": 32.3,
     "fat": 11.2,
@@ -289,6 +321,7 @@
   },
   {
     "id": 33,
+    "kategori": "makanan",
     "calories": 75,
     "proteins": 13.8,
     "fat": 1.9,
@@ -298,6 +331,7 @@
   },
   {
     "id": 34,
+    "kategori": "makanan",
     "calories": 295,
     "proteins": 34,
     "fat": 16,
@@ -307,6 +341,7 @@
   },
   {
     "id": 35,
+    "kategori": "makanan",
     "calories": 338,
     "proteins": 35.2,
     "fat": 20.6,
@@ -316,6 +351,7 @@
   },
   {
     "id": 36,
+    "kategori": "makanan",
     "calories": 275,
     "proteins": 37.4,
     "fat": 12.2,
@@ -325,6 +361,7 @@
   },
   {
     "id": 37,
+    "kategori": "makanan",
     "calories": 298,
     "proteins": 34.2,
     "fat": 16.8,
@@ -334,6 +371,7 @@
   },
   {
     "id": 38,
+    "kategori": "makanan",
     "calories": 286,
     "proteins": 32.1,
     "fat": 16.1,
@@ -343,6 +381,7 @@
   },
   {
     "id": 39,
+    "kategori": "makanan",
     "calories": 295,
     "proteins": 39.2,
     "fat": 13.6,
@@ -352,6 +391,7 @@
   },
   {
     "id": 40,
+    "kategori": "makanan",
     "calories": 287,
     "proteins": 31,
     "fat": 15.7,
@@ -361,6 +401,7 @@
   },
   {
     "id": 41,
+    "kategori": "makanan",
     "calories": 246,
     "proteins": 37.9,
     "fat": 9,
@@ -370,6 +411,7 @@
   },
   {
     "id": 42,
+    "kategori": "makanan",
     "calories": 245,
     "proteins": 33.1,
     "fat": 11.4,
@@ -379,6 +421,7 @@
   },
   {
     "id": 43,
+    "kategori": "makanan",
     "calories": 295,
     "proteins": 37.4,
     "fat": 14.7,
@@ -388,6 +431,7 @@
   },
   {
     "id": 44,
+    "kategori": "makanan",
     "calories": 244,
     "proteins": 36.7,
     "fat": 9.2,
@@ -397,6 +441,7 @@
   },
   {
     "id": 45,
+    "kategori": "makanan",
     "calories": 283,
     "proteins": 35.7,
     "fat": 14.3,
@@ -406,15 +451,17 @@
   },
   {
     "id": 46,
+    "kategori": "makanan",
     "calories": 261,
     "proteins": 27.4,
     "fat": 16.1,
     "carbohydrate": 1.6,
-    "name": "Ayam hati segar",
+    "name": "Hati Ayam Segar",
     "image": "https://asset.kompas.com/crops/9dZTmg32w0stodtsJ52gf85QjD4=/0x0:902x601/750x500/data/photo/2021/01/26/600f9d1967e9b.jpg"
   },
   {
     "id": 47,
+    "kategori": "makanan",
     "calories": 264,
     "proteins": 18.2,
     "fat": 20.1,
@@ -424,6 +471,7 @@
   },
   {
     "id": 48,
+    "kategori": "makanan",
     "calories": 473,
     "proteins": 45.2,
     "fat": 26.3,
@@ -433,6 +481,7 @@
   },
   {
     "id": 49,
+    "kategori": "makanan",
     "calories": 113,
     "proteins": 17.6,
     "fat": 4.2,
@@ -442,6 +491,7 @@
   },
   {
     "id": 50,
+    "kategori": "makanan",
     "calories": 453,
     "proteins": 11.9,
     "fat": 45,
@@ -451,6 +501,7 @@
   },
   {
     "id": 51,
+    "kategori": "makanan",
     "calories": 371,
     "proteins": 14.1,
     "fat": 35,
@@ -460,6 +511,7 @@
   },
   {
     "id": 52,
+    "kategori": "makanan",
     "calories": 110,
     "proteins": 16.3,
     "fat": 4.6,
@@ -469,6 +521,7 @@
   },
   {
     "id": 53,
+    "kategori": "makanan",
     "calories": 129,
     "proteins": 19.7,
     "fat": 4.8,
@@ -478,6 +531,7 @@
   },
   {
     "id": 54,
+    "kategori": "makanan",
     "calories": 491,
     "proteins": 24.6,
     "fat": 16.3,
@@ -487,6 +541,7 @@
   },
   {
     "id": 55,
+    "kategori": "makanan",
     "calories": 102.9,
     "proteins": 3.3,
     "fat": 2.7,
@@ -496,6 +551,7 @@
   },
   {
     "id": 56,
+    "kategori": "makanan",
     "calories": 450,
     "proteins": 3.2,
     "fat": 13.9,
@@ -505,6 +561,7 @@
   },
   {
     "id": 57,
+    "kategori": "makanan",
     "calories": 452,
     "proteins": 1.3,
     "fat": 13.8,
@@ -514,6 +571,7 @@
   },
   {
     "id": 58,
+    "kategori": "makanan",
     "calories": 529,
     "proteins": 3.2,
     "fat": 29.1,
@@ -523,6 +581,7 @@
   },
   {
     "id": 59,
+    "kategori": "makanan",
     "calories": 523,
     "proteins": 3.2,
     "fat": 28.2,
@@ -532,6 +591,7 @@
   },
   {
     "id": 60,
+    "kategori": "makanan",
     "calories": 416,
     "proteins": 6.5,
     "fat": 9.4,
@@ -541,6 +601,7 @@
   },
   {
     "id": 61,
+    "kategori": "makanan",
     "calories": 382,
     "proteins": 0.3,
     "fat": 3.5,
@@ -550,6 +611,7 @@
   },
   {
     "id": 62,
+    "kategori": "makanan",
     "calories": 129,
     "proteins": 1.9,
     "fat": 6.6,
@@ -559,6 +621,7 @@
   },
   {
     "id": 63,
+    "kategori": "makanan",
     "calories": 272,
     "proteins": 8.7,
     "fat": 6.7,
@@ -568,6 +631,7 @@
   },
   {
     "id": 64,
+    "kategori": "makanan",
     "calories": 76,
     "proteins": 4.1,
     "fat": 2.5,
@@ -577,6 +641,7 @@
   },
   {
     "id": 65,
+    "kategori": "bahan",
     "calories": 27,
     "proteins": 2,
     "fat": 0.2,
@@ -586,6 +651,7 @@
   },
   {
     "id": 66,
+    "kategori": "makanan",
     "calories": 280,
     "proteins": 8.2,
     "fat": 10.2,
@@ -595,6 +661,7 @@
   },
   {
     "id": 67,
+    "kategori": "makanan",
     "calories": 13,
     "proteins": 0.4,
     "fat": 0.2,
@@ -604,6 +671,7 @@
   },
   {
     "id": 68,
+    "kategori": "makanan",
     "calories": 190,
     "proteins": 3.3,
     "fat": 0.3,
@@ -613,6 +681,7 @@
   },
   {
     "id": 69,
+    "kategori": "makanan",
     "calories": 159,
     "proteins": 3.1,
     "fat": 5.8,
@@ -622,6 +691,7 @@
   },
   {
     "id": 70,
+    "kategori": "bahan",
     "calories": 137,
     "proteins": 4.3,
     "fat": 4.8,
@@ -631,6 +701,7 @@
   },
   {
     "id": 71,
+    "kategori": "makanan",
     "calories": 107,
     "proteins": 2.2,
     "fat": 2.2,
@@ -640,6 +711,7 @@
   },
   {
     "id": 72,
+    "kategori": "makanan",
     "calories": 76,
     "proteins": 1.1,
     "fat": 0.9,
@@ -649,6 +721,7 @@
   },
   {
     "id": 73,
+    "kategori": "makanan",
     "calories": 110,
     "proteins": 1.4,
     "fat": 1.1,
@@ -658,6 +731,7 @@
   },
   {
     "id": 74,
+    "kategori": "makanan",
     "calories": 92,
     "proteins": 1.2,
     "fat": 0.3,
@@ -667,6 +741,7 @@
   },
   {
     "id": 75,
+    "kategori": "makanan",
     "calories": 89,
     "proteins": 1.1,
     "fat": 0.1,
@@ -676,6 +751,7 @@
   },
   {
     "id": 76,
+    "kategori": "makanan",
     "calories": 182,
     "proteins": 2.4,
     "fat": 0.4,
@@ -685,6 +761,7 @@
   },
   {
     "id": 77,
+    "kategori": "bahan",
     "calories": 45,
     "proteins": 1.4,
     "fat": 0.2,
@@ -694,6 +771,7 @@
   },
   {
     "id": 78,
+    "kategori": "bahan",
     "calories": 39,
     "proteins": 1.5,
     "fat": 0.3,
@@ -703,6 +781,7 @@
   },
   {
     "id": 79,
+    "kategori": "bahan",
     "calories": 95,
     "proteins": 4.5,
     "fat": 0.2,
@@ -712,6 +791,7 @@
   },
   {
     "id": 80,
+    "kategori": "makanan",
     "calories": 30,
     "proteins": 1.3,
     "fat": 0.7,
@@ -721,6 +801,7 @@
   },
   {
     "id": 81,
+    "kategori": "makanan",
     "calories": 51,
     "proteins": 4.6,
     "fat": 0.5,
@@ -730,6 +811,7 @@
   },
   {
     "id": 82,
+    "kategori": "makanan",
     "calories": 41,
     "proteins": 2.2,
     "fat": 0.8,
@@ -739,6 +821,7 @@
   },
   {
     "id": 83,
+    "kategori": "makanan",
     "calories": 23,
     "proteins": 1.2,
     "fat": 0.6,
@@ -748,6 +831,7 @@
   },
   {
     "id": 84,
+    "kategori": "makanan",
     "calories": 36,
     "proteins": 3.5,
     "fat": 0.5,
@@ -757,6 +841,7 @@
   },
   {
     "id": 85,
+    "kategori": "makanan",
     "calories": 102,
     "proteins": 3.7,
     "fat": 6.7,
@@ -766,6 +851,7 @@
   },
   {
     "id": 86,
+    "kategori": "makanan",
     "calories": 48,
     "proteins": 1.4,
     "fat": 4.2,
@@ -775,6 +861,7 @@
   },
   {
     "id": 87,
+    "kategori": "makanan",
     "calories": 326,
     "proteins": 16,
     "fat": 28.6,
@@ -784,6 +871,7 @@
   },
   {
     "id": 88,
+    "kategori": "makanan",
     "calories": 303,
     "proteins": 11.3,
     "fat": 27,
@@ -793,6 +881,7 @@
   },
   {
     "id": 89,
+    "kategori": "makanan",
     "calories": 300,
     "proteins": 24,
     "fat": 20.7,
@@ -802,6 +891,7 @@
   },
   {
     "id": 90,
+    "kategori": "makanan",
     "calories": 65,
     "proteins": 1.1,
     "fat": 5.2,
@@ -811,6 +901,7 @@
   },
   {
     "id": 91,
+    "kategori": "makanan",
     "calories": 258,
     "proteins": 10.6,
     "fat": 9.5,
@@ -820,6 +911,7 @@
   },
   {
     "id": 92,
+    "kategori": "makanan",
     "calories": 151,
     "proteins": 8.6,
     "fat": 3.1,
@@ -829,6 +921,7 @@
   },
   {
     "id": 93,
+    "kategori": "makanan",
     "calories": 132,
     "proteins": 9.8,
     "fat": 1.1,
@@ -838,6 +931,7 @@
   },
   {
     "id": 94,
+    "kategori": "makanan",
     "calories": 116,
     "proteins": 11.9,
     "fat": 4.9,
@@ -847,6 +941,7 @@
   },
   {
     "id": 95,
+    "kategori": "makanan",
     "calories": 78,
     "proteins": 11.4,
     "fat": 2,
@@ -856,6 +951,7 @@
   },
   {
     "id": 96,
+    "kategori": "makanan",
     "calories": 131,
     "proteins": 20.2,
     "fat": 4.3,
@@ -865,6 +961,7 @@
   },
   {
     "id": 97,
+    "kategori": "makanan",
     "calories": 36,
     "proteins": 0.4,
     "fat": 0.4,
@@ -874,6 +971,7 @@
   },
   {
     "id": 98,
+    "kategori": "makanan",
     "calories": 145,
     "proteins": 1.2,
     "fat": 0.4,
@@ -883,6 +981,7 @@
   },
   {
     "id": 99,
+    "kategori": "makanan",
     "calories": 417,
     "proteins": 25.9,
     "fat": 19.4,
@@ -892,6 +991,7 @@
   },
   {
     "id": 100,
+    "kategori": "makanan",
     "calories": 70,
     "proteins": 14.6,
     "fat": 0.8,
@@ -901,15 +1001,17 @@
   },
   {
     "id": 101,
+    "kategori": "makanan",
     "calories": 93,
     "proteins": 12.8,
     "fat": 1.5,
     "carbohydrate": 6.1,
-    "name": "Belutlaut segar",
+    "name": "Belut laut segar",
     "image": "https://mfcepusluh.bpsdmkp.kkp.go.id/asset/foto_berita/SIDAT_OK_-1.jpg"
   },
   {
     "id": 102,
+    "kategori": "makanan",
     "calories": 55,
     "proteins": 1.4,
     "fat": 0.2,
@@ -919,6 +1021,7 @@
   },
   {
     "id": 103,
+    "kategori": "makanan",
     "calories": 98,
     "proteins": 1.6,
     "fat": 0.7,
@@ -928,6 +1031,7 @@
   },
   {
     "id": 104,
+    "kategori": "makanan",
     "calories": 71,
     "proteins": 2.3,
     "fat": 0.3,
@@ -937,6 +1041,7 @@
   },
   {
     "id": 105,
+    "kategori": "makanan",
     "calories": 350,
     "proteins": 2.7,
     "fat": 1.1,
@@ -946,6 +1051,7 @@
   },
   {
     "id": 106,
+    "kategori": "makanan",
     "calories": 364,
     "proteins": 3.4,
     "fat": 0.7,
@@ -955,6 +1061,7 @@
   },
   {
     "id": 107,
+    "kategori": "makanan",
     "calories": 360,
     "proteins": 6.8,
     "fat": 0.7,
@@ -964,6 +1071,7 @@
   },
   {
     "id": 108,
+    "kategori": "makanan",
     "calories": 178,
     "proteins": 2.1,
     "fat": 0.1,
@@ -973,6 +1081,7 @@
   },
   {
     "id": 109,
+    "kategori": "makanan",
     "calories": 357,
     "proteins": 8.4,
     "fat": 1.7,
@@ -982,6 +1091,7 @@
   },
   {
     "id": 110,
+    "kategori": "makanan",
     "calories": 369,
     "proteins": 9.5,
     "fat": 1.4,
@@ -991,6 +1101,7 @@
   },
   {
     "id": 111,
+    "kategori": "makanan",
     "calories": 357,
     "proteins": 8.4,
     "fat": 1.7,
@@ -1000,6 +1111,7 @@
   },
   {
     "id": 112,
+    "kategori": "makanan",
     "calories": 351,
     "proteins": 8,
     "fat": 1.3,
@@ -1009,6 +1121,7 @@
   },
   {
     "id": 113,
+    "kategori": "makanan",
     "calories": 358,
     "proteins": 5.5,
     "fat": 0.1,
@@ -1018,6 +1131,7 @@
   },
   {
     "id": 114,
+    "kategori": "makanan",
     "calories": 307,
     "proteins": 4.8,
     "fat": 0.1,
@@ -1027,6 +1141,7 @@
   },
   {
     "id": 115,
+    "kategori": "makanan",
     "calories": 356,
     "proteins": 7,
     "fat": 0.7,
@@ -1036,6 +1151,7 @@
   },
   {
     "id": 116,
+    "kategori": "makanan",
     "calories": 181,
     "proteins": 4,
     "fat": 1.2,
@@ -1045,6 +1161,7 @@
   },
   {
     "id": 117,
+    "kategori": "makanan",
     "calories": 166,
     "proteins": 3.8,
     "fat": 1,
@@ -1054,6 +1171,7 @@
   },
   {
     "id": 118,
+    "kategori": "makanan",
     "calories": 360,
     "proteins": 8,
     "fat": 2.3,
@@ -1063,6 +1181,7 @@
   },
   {
     "id": 119,
+    "kategori": "makanan",
     "calories": 360,
     "proteins": 8,
     "fat": 2.3,
@@ -1072,6 +1191,7 @@
   },
   {
     "id": 120,
+    "kategori": "makanan",
     "calories": 362,
     "proteins": 6.7,
     "fat": 0.7,
@@ -1081,6 +1201,7 @@
   },
   {
     "id": 121,
+    "kategori": "makanan",
     "calories": 163,
     "proteins": 3,
     "fat": 0.4,
@@ -1090,6 +1211,7 @@
   },
   {
     "id": 122,
+    "kategori": "makanan",
     "calories": 172,
     "proteins": 3,
     "fat": 0.5,
@@ -1099,6 +1221,7 @@
   },
   {
     "id": 123,
+    "kategori": "makanan",
     "calories": 361,
     "proteins": 7.4,
     "fat": 0.8,
@@ -1108,6 +1231,7 @@
   },
   {
     "id": 124,
+    "kategori": "makanan",
     "calories": 361,
     "proteins": 7.4,
     "fat": 0.8,
@@ -1117,6 +1241,7 @@
   },
   {
     "id": 125,
+    "kategori": "makanan",
     "calories": 376,
     "proteins": 7.5,
     "fat": 3.8,
@@ -1126,6 +1251,7 @@
   },
   {
     "id": 126,
+    "kategori": "makanan",
     "calories": 339,
     "proteins": 7.7,
     "fat": 4.4,
@@ -1135,6 +1261,7 @@
   },
   {
     "id": 127,
+    "kategori": "makanan",
     "calories": 362,
     "proteins": 7.7,
     "fat": 4.4,
@@ -1144,6 +1271,7 @@
   },
   {
     "id": 128,
+    "kategori": "makanan",
     "calories": 359,
     "proteins": 7.5,
     "fat": 0.9,
@@ -1153,6 +1281,7 @@
   },
   {
     "id": 129,
+    "kategori": "makanan",
     "calories": 364,
     "proteins": 6.8,
     "fat": 0.6,
@@ -1162,6 +1291,7 @@
   },
   {
     "id": 130,
+    "kategori": "makanan",
     "calories": 353,
     "proteins": 6.8,
     "fat": 0.6,
@@ -1171,6 +1301,7 @@
   },
   {
     "id": 131,
+    "kategori": "makanan",
     "calories": 335,
     "proteins": 7.4,
     "fat": 1.9,
@@ -1180,6 +1311,7 @@
   },
   {
     "id": 132,
+    "kategori": "makanan",
     "calories": 363,
     "proteins": 7.6,
     "fat": 1.1,
@@ -1189,6 +1321,7 @@
   },
   {
     "id": 133,
+    "kategori": "makanan",
     "calories": 344,
     "proteins": 1.1,
     "fat": 0.2,
@@ -1198,6 +1331,7 @@
   },
   {
     "id": 134,
+    "kategori": "makanan",
     "calories": 354,
     "proteins": 7.8,
     "fat": 0.4,
@@ -1207,6 +1341,7 @@
   },
   {
     "id": 135,
+    "kategori": "makanan",
     "calories": 352,
     "proteins": 7.3,
     "fat": 0.9,
@@ -1216,6 +1351,7 @@
   },
   {
     "id": 136,
+    "kategori": "makanan",
     "calories": 145,
     "proteins": 16.3,
     "fat": 7,
@@ -1225,6 +1361,7 @@
   },
   {
     "id": 137,
+    "kategori": "makanan",
     "calories": 360,
     "proteins": 4.7,
     "fat": 0.1,
@@ -1234,6 +1371,7 @@
   },
   {
     "id": 138,
+    "kategori": "makanan",
     "calories": 154,
     "proteins": 3,
     "fat": 4.5,
@@ -1243,6 +1381,7 @@
   },
   {
     "id": 139,
+    "kategori": "makanan",
     "calories": 381,
     "proteins": 6.1,
     "fat": 3.9,
@@ -1252,6 +1391,7 @@
   },
   {
     "id": 140,
+    "kategori": "makanan",
     "calories": 354,
     "proteins": 0.5,
     "fat": 0.3,
@@ -1261,6 +1401,7 @@
   },
   {
     "id": 141,
+    "kategori": "makanan",
     "calories": 348,
     "proteins": 4.7,
     "fat": 0.1,
@@ -1270,6 +1411,7 @@
   },
   {
     "id": 142,
+    "kategori": "makanan",
     "calories": 562,
     "proteins": 21.2,
     "fat": 49.6,
@@ -1279,6 +1421,7 @@
   },
   {
     "id": 143,
+    "kategori": "makanan",
     "calories": 629,
     "proteins": 21.5,
     "fat": 56.6,
@@ -1288,6 +1431,7 @@
   },
   {
     "id": 144,
+    "kategori": "makanan",
     "calories": 262,
     "proteins": 2.3,
     "fat": 5.4,
@@ -1297,6 +1441,7 @@
   },
   {
     "id": 145,
+    "kategori": "makanan",
     "calories": 199,
     "proteins": 2.1,
     "fat": 1.5,
@@ -1306,6 +1451,7 @@
   },
   {
     "id": 146,
+    "kategori": "makanan",
     "calories": 225.7,
     "proteins": 3,
     "fat": 0.3,
@@ -1315,6 +1461,7 @@
   },
   {
     "id": 147,
+    "kategori": "minuman",
     "calories": 48,
     "proteins": 0.6,
     "fat": 0,
@@ -1324,6 +1471,7 @@
   },
   {
     "id": 148,
+    "kategori": "makanan",
     "calories": 458,
     "proteins": 6.9,
     "fat": 14.4,
@@ -1333,6 +1481,7 @@
   },
   {
     "id": 149,
+    "kategori": "makanan",
     "calories": 42,
     "proteins": 1.6,
     "fat": 0.1,
@@ -1342,6 +1491,7 @@
   },
   {
     "id": 150,
+    "kategori": "makanan",
     "calories": 51,
     "proteins": 0.3,
     "fat": 0.1,
@@ -1351,6 +1501,7 @@
   },
   {
     "id": 151,
+    "kategori": "makanan",
     "calories": 43,
     "proteins": 2.6,
     "fat": 0,
@@ -1360,6 +1511,7 @@
   },
   {
     "id": 152,
+    "kategori": "makanan",
     "calories": 245,
     "proteins": 3.4,
     "fat": 0,
@@ -1369,6 +1521,7 @@
   },
   {
     "id": 153,
+    "kategori": "makanan",
     "calories": 119,
     "proteins": 4.4,
     "fat": 3.5,
@@ -1378,6 +1531,7 @@
   },
   {
     "id": 154,
+    "kategori": "bahan",
     "calories": 23,
     "proteins": 1,
     "fat": 0.8,
@@ -1387,6 +1541,7 @@
   },
   {
     "id": 155,
+    "kategori": "bahan",
     "calories": 22,
     "proteins": 1,
     "fat": 0.3,
@@ -1396,6 +1551,7 @@
   },
   {
     "id": 156,
+    "kategori": "makanan",
     "calories": 186,
     "proteins": 11.7,
     "fat": 9.7,
@@ -1405,6 +1561,7 @@
   },
   {
     "id": 157,
+    "kategori": "makanan",
     "calories": 249,
     "proteins": 3.4,
     "fat": 0.4,
@@ -1414,6 +1571,7 @@
   },
   {
     "id": 158,
+    "kategori": "makanan",
     "calories": 400,
     "proteins": 4,
     "fat": 0.7,
@@ -1423,6 +1581,7 @@
   },
   {
     "id": 159,
+    "kategori": "makanan",
     "calories": 141,
     "proteins": 15.3,
     "fat": 3.3,
@@ -1432,6 +1591,7 @@
   },
   {
     "id": 160,
+    "kategori": "makanan",
     "calories": 23,
     "proteins": 0.8,
     "fat": 0.2,
@@ -1441,6 +1601,7 @@
   },
   {
     "id": 161,
+    "kategori": "makanan",
     "calories": 110,
     "proteins": 1.4,
     "fat": 2.1,
@@ -1450,6 +1611,7 @@
   },
   {
     "id": 162,
+    "kategori": "makanan",
     "calories": 38,
     "proteins": 1.5,
     "fat": 0.2,
@@ -1459,6 +1621,7 @@
   },
   {
     "id": 163,
+    "kategori": "makanan",
     "calories": 264,
     "proteins": 4,
     "fat": 1.1,
@@ -1468,6 +1631,7 @@
   },
   {
     "id": 164,
+    "kategori": "makanan",
     "calories": 39,
     "proteins": 0.7,
     "fat": 0.2,
@@ -1477,6 +1641,7 @@
   },
   {
     "id": 165,
+    "kategori": "makanan",
     "calories": 87,
     "proteins": 2.6,
     "fat": 2.7,
@@ -1486,6 +1651,7 @@
   },
   {
     "id": 166,
+    "kategori": "makanan",
     "calories": 71,
     "proteins": 1.7,
     "fat": 3.1,
@@ -1495,6 +1661,7 @@
   },
   {
     "id": 167,
+    "kategori": "makanan",
     "calories": 56,
     "proteins": 0.8,
     "fat": 1,
@@ -1504,6 +1671,7 @@
   },
   {
     "id": 168,
+    "kategori": "makanan",
     "calories": 55,
     "proteins": 1.2,
     "fat": 0.1,
@@ -1513,6 +1681,7 @@
   },
   {
     "id": 169,
+    "kategori": "makanan",
     "calories": 101,
     "proteins": 1.7,
     "fat": 0.6,
@@ -1522,6 +1691,7 @@
   },
   {
     "id": 170,
+    "kategori": "makanan",
     "calories": 78,
     "proteins": 0.6,
     "fat": 0.3,
@@ -1531,6 +1701,7 @@
   },
   {
     "id": 171,
+    "kategori": "makanan",
     "calories": 113,
     "proteins": 0.8,
     "fat": 0.3,
@@ -1540,6 +1711,7 @@
   },
   {
     "id": 172,
+    "kategori": "makanan",
     "calories": 29,
     "proteins": 2.1,
     "fat": 0.7,
@@ -1549,6 +1721,7 @@
   },
   {
     "id": 173,
+    "kategori": "makanan",
     "calories": 67,
     "proteins": 0.4,
     "fat": 0.2,
@@ -1558,6 +1731,7 @@
   },
   {
     "id": 174,
+    "kategori": "makanan",
     "calories": 365,
     "proteins": 49.6,
     "fat": 4.8,
@@ -1567,6 +1741,7 @@
   },
   {
     "id": 175,
+    "kategori": "makanan",
     "calories": 60,
     "proteins": 1,
     "fat": 60,
@@ -1576,6 +1751,7 @@
   },
   {
     "id": 176,
+    "kategori": "makanan",
     "calories": 167,
     "proteins": 0.2,
     "fat": 4,
@@ -1585,6 +1761,7 @@
   },
   {
     "id": 177,
+    "kategori": "makanan",
     "calories": 156,
     "proteins": 2.3,
     "fat": 0.2,
@@ -1594,6 +1771,7 @@
   },
   {
     "id": 178,
+    "kategori": "makanan",
     "calories": 72,
     "proteins": 11.4,
     "fat": 4.9,
@@ -1603,6 +1781,7 @@
   },
   {
     "id": 179,
+    "kategori": "makanan",
     "calories": 212,
     "proteins": 16.9,
     "fat": 0.2,
@@ -1612,6 +1791,7 @@
   },
   {
     "id": 180,
+    "kategori": "makanan",
     "calories": 237,
     "proteins": 14.7,
     "fat": 0.2,
@@ -1621,6 +1801,7 @@
   },
   {
     "id": 181,
+    "kategori": "makanan",
     "calories": 35,
     "proteins": 2.4,
     "fat": 0.2,
@@ -1630,6 +1811,7 @@
   },
   {
     "id": 182,
+    "kategori": "makanan",
     "calories": 60,
     "proteins": 5.1,
     "fat": 0.5,
@@ -1639,6 +1821,7 @@
   },
   {
     "id": 183,
+    "kategori": "makanan",
     "calories": 30,
     "proteins": 2.2,
     "fat": 0.2,
@@ -1648,6 +1831,7 @@
   },
   {
     "id": 184,
+    "kategori": "makanan",
     "calories": 45,
     "proteins": 2.6,
     "fat": 0.3,
@@ -1657,6 +1841,7 @@
   },
   {
     "id": 185,
+    "kategori": "makanan",
     "calories": 42,
     "proteins": 2,
     "fat": 1.1,
@@ -1666,6 +1851,7 @@
   },
   {
     "id": 186,
+    "kategori": "bahan",
     "calories": 333,
     "proteins": 29.3,
     "fat": 3.3,
@@ -1675,6 +1861,7 @@
   },
   {
     "id": 187,
+    "kategori": "bahan",
     "calories": 336,
     "proteins": 37.4,
     "fat": 13,
@@ -1684,6 +1871,7 @@
   },
   {
     "id": 188,
+    "kategori": "bahan",
     "calories": 368,
     "proteins": 23,
     "fat": 15,
@@ -1693,6 +1881,7 @@
   },
   {
     "id": 189,
+    "kategori": "makanan",
     "calories": 106,
     "proteins": 4.4,
     "fat": 6.3,
@@ -1702,6 +1891,7 @@
   },
   {
     "id": 190,
+    "kategori": "makanan",
     "calories": 141,
     "proteins": 4.4,
     "fat": 10.2,
@@ -1711,6 +1901,7 @@
   },
   {
     "id": 191,
+    "kategori": "makanan",
     "calories": 125.7,
     "proteins": 3.3,
     "fat": 1.9,
@@ -1720,15 +1911,17 @@
   },
   {
     "id": 192,
+    "kategori": "minuman",
     "calories": 281,
     "proteins": 37.5,
     "fat": 0.3,
     "carbohydrate": 32.1,
-    "name": "Burung sarang segar",
+    "name": "Sarang burung segar",
     "image": "https://premiumnest-5c4c.kxcdn.com/wp-content/uploads/2016/07/SS_white_900x600-4.jpg"
   },
   {
     "id": 193,
+    "kategori": "bahan",
     "calories": 38,
     "proteins": 1.6,
     "fat": 0.8,
@@ -1738,6 +1931,7 @@
   },
   {
     "id": 194,
+    "kategori": "bahan",
     "calories": 26,
     "proteins": 0.7,
     "fat": 0.3,
@@ -1747,6 +1941,7 @@
   },
   {
     "id": 195,
+    "kategori": "bahan",
     "calories": 367,
     "proteins": 15.9,
     "fat": 6.2,
@@ -1756,6 +1951,7 @@
   },
   {
     "id": 196,
+    "kategori": "bahan",
     "calories": 36,
     "proteins": 1,
     "fat": 0.3,
@@ -1765,6 +1961,7 @@
   },
   {
     "id": 197,
+    "kategori": "bahan",
     "calories": 120,
     "proteins": 4.7,
     "fat": 2.4,
@@ -1774,6 +1971,7 @@
   },
   {
     "id": 198,
+    "kategori": "makanan",
     "calories": 20,
     "proteins": 1.7,
     "fat": 0.4,
@@ -1783,6 +1981,7 @@
   },
   {
     "id": 199,
+    "kategori": "makanan",
     "calories": 155,
     "proteins": 20.1,
     "fat": 3.8,
@@ -1792,6 +1991,7 @@
   },
   {
     "id": 200,
+    "kategori": "makanan",
     "calories": 323,
     "proteins": 4.9,
     "fat": 11.5,
@@ -1801,6 +2001,7 @@
   },
   {
     "id": 201,
+    "kategori": "makanan",
     "calories": 102,
     "proteins": 3.2,
     "fat": 6,
@@ -1810,6 +2011,7 @@
   },
   {
     "id": 202,
+    "kategori": "bahan",
     "calories": 366,
     "proteins": 11,
     "fat": 3.3,
@@ -1819,6 +2021,7 @@
   },
   {
     "id": 203,
+    "kategori": "makanan",
     "calories": 97,
     "proteins": 5.8,
     "fat": 6.3,
@@ -1828,6 +2031,7 @@
   },
   {
     "id": 204,
+    "kategori": "makanan",
     "calories": 24,
     "proteins": 1.9,
     "fat": 0.2,
@@ -1837,6 +2041,7 @@
   },
   {
     "id": 205,
+    "kategori": "makanan",
     "calories": 460,
     "proteins": 0.8,
     "fat": 18.7,
@@ -1846,6 +2051,7 @@
   },
   {
     "id": 206,
+    "kategori": "makanan",
     "calories": 116,
     "proteins": 3,
     "fat": 0.4,
@@ -1855,6 +2061,7 @@
   },
   {
     "id": 207,
+    "kategori": "bahan",
     "calories": 330,
     "proteins": 5.2,
     "fat": 8.9,
@@ -1864,6 +2071,7 @@
   },
   {
     "id": 208,
+    "kategori": "bahan",
     "calories": 332,
     "proteins": 11,
     "fat": 3.3,
@@ -1873,6 +2081,7 @@
   },
   {
     "id": 209,
+    "kategori": "makanan",
     "calories": 462,
     "proteins": 1.2,
     "fat": 20.7,
@@ -1882,6 +2091,7 @@
   },
   {
     "id": 210,
+    "kategori": "makanan",
     "calories": 168,
     "proteins": 13,
     "fat": 9.6,
@@ -1891,6 +2101,7 @@
   },
   {
     "id": 211,
+    "kategori": "makanan",
     "calories": 143,
     "proteins": 9.8,
     "fat": 1.4,
@@ -1900,6 +2111,7 @@
   },
   {
     "id": 212,
+    "kategori": "bahan",
     "calories": 311,
     "proteins": 8,
     "fat": 4,
@@ -1909,6 +2121,7 @@
   },
   {
     "id": 213,
+    "kategori": "makanan",
     "calories": 472,
     "proteins": 2,
     "fat": 29.8,
@@ -1918,6 +2131,7 @@
   },
   {
     "id": 214,
+    "kategori": "makanan",
     "calories": 504,
     "proteins": 5.5,
     "fat": 52.9,
@@ -1927,6 +2141,7 @@
   },
   {
     "id": 215,
+    "kategori": "makanan",
     "calories": 381,
     "proteins": 9,
     "fat": 35,
@@ -1936,6 +2151,7 @@
   },
   {
     "id": 216,
+    "kategori": "makanan",
     "calories": 210,
     "proteins": 1.6,
     "fat": 6.6,
@@ -1945,6 +2161,7 @@
   },
   {
     "id": 217,
+    "kategori": "makanan",
     "calories": 241,
     "proteins": 16,
     "fat": 25,
@@ -1954,6 +2171,7 @@
   },
   {
     "id": 218,
+    "kategori": "makanan",
     "calories": 96,
     "proteins": 6.8,
     "fat": 5.9,
@@ -1963,6 +2181,7 @@
   },
   {
     "id": 219,
+    "kategori": "makanan",
     "calories": 84,
     "proteins": 6,
     "fat": 6,
@@ -1972,6 +2191,7 @@
   },
   {
     "id": 220,
+    "kategori": "makanan",
     "calories": 145,
     "proteins": 27,
     "fat": 2.3,
@@ -1981,6 +2201,7 @@
   },
   {
     "id": 221,
+    "kategori": "bahan",
     "calories": 12,
     "proteins": 0.1,
     "fat": 0.1,
@@ -1990,6 +2211,7 @@
   },
   {
     "id": 222,
+    "kategori": "makanan",
     "calories": 265,
     "proteins": 40.6,
     "fat": 10.1,
@@ -1999,6 +2221,7 @@
   },
   {
     "id": 223,
+    "kategori": "makanan",
     "calories": 75,
     "proteins": 16.1,
     "fat": 0.7,
@@ -2008,6 +2231,7 @@
   },
   {
     "id": 224,
+    "kategori": "makanan",
     "calories": 190,
     "proteins": 19.1,
     "fat": 12,
@@ -2017,6 +2241,7 @@
   },
   {
     "id": 225,
+    "kategori": "makanan",
     "calories": 191,
     "proteins": 32,
     "fat": 6,
@@ -2026,6 +2251,7 @@
   },
   {
     "id": 226,
+    "kategori": "makanan",
     "calories": 457,
     "proteins": 11.6,
     "fat": 45,
@@ -2035,6 +2261,7 @@
   },
   {
     "id": 227,
+    "kategori": "makanan",
     "calories": 376,
     "proteins": 14.1,
     "fat": 35,
@@ -2044,6 +2271,7 @@
   },
   {
     "id": 228,
+    "kategori": "makanan",
     "calories": 206,
     "proteins": 17.1,
     "fat": 14.8,
@@ -2053,6 +2281,7 @@
   },
   {
     "id": 229,
+    "kategori": "makanan",
     "calories": 154,
     "proteins": 16.6,
     "fat": 9.2,
@@ -2062,6 +2291,7 @@
   },
   {
     "id": 230,
+    "kategori": "makanan",
     "calories": 84,
     "proteins": 18.7,
     "fat": 0.5,
@@ -2071,6 +2301,7 @@
   },
   {
     "id": 231,
+    "kategori": "makanan",
     "calories": 118,
     "proteins": 18.1,
     "fat": 4.1,
@@ -2080,6 +2311,7 @@
   },
   {
     "id": 232,
+    "kategori": "makanan",
     "calories": 207,
     "proteins": 18.8,
     "fat": 14,
@@ -2089,6 +2321,7 @@
   },
   {
     "id": 233,
+    "kategori": "bahan",
     "calories": 27,
     "proteins": 1.3,
     "fat": 0.6,
@@ -2098,6 +2331,7 @@
   },
   {
     "id": 234,
+    "kategori": "bahan",
     "calories": 29,
     "proteins": 1.8,
     "fat": 0.7,
@@ -2107,6 +2341,7 @@
   },
   {
     "id": 235,
+    "kategori": "bahan",
     "calories": 41,
     "proteins": 2,
     "fat": 0.3,
@@ -2116,6 +2351,7 @@
   },
   {
     "id": 236,
+    "kategori": "bahan",
     "calories": 41,
     "proteins": 2.7,
     "fat": 1,
@@ -2125,6 +2361,7 @@
   },
   {
     "id": 237,
+    "kategori": "bahan",
     "calories": 50,
     "proteins": 4.4,
     "fat": 1.4,
@@ -2134,6 +2371,7 @@
   },
   {
     "id": 238,
+    "kategori": "bahan",
     "calories": 42,
     "proteins": 1.8,
     "fat": 0.5,
@@ -2143,6 +2381,7 @@
   },
   {
     "id": 239,
+    "kategori": "bahan",
     "calories": 122,
     "proteins": 6,
     "fat": 1,
@@ -2152,6 +2391,7 @@
   },
   {
     "id": 240,
+    "kategori": "bahan",
     "calories": 60,
     "proteins": 3.1,
     "fat": 0.3,
@@ -2161,6 +2401,7 @@
   },
   {
     "id": 241,
+    "kategori": "bahan",
     "calories": 58,
     "proteins": 2.9,
     "fat": 0.7,
@@ -2170,6 +2411,7 @@
   },
   {
     "id": 242,
+    "kategori": "bahan",
     "calories": 30,
     "proteins": 1.3,
     "fat": 0.7,
@@ -2179,6 +2421,7 @@
   },
   {
     "id": 243,
+    "kategori": "bahan",
     "calories": 50,
     "proteins": 4.6,
     "fat": 0.9,
@@ -2188,6 +2431,7 @@
   },
   {
     "id": 244,
+    "kategori": "bahan",
     "calories": 62,
     "proteins": 4.2,
     "fat": 0.9,
@@ -2197,6 +2441,7 @@
   },
   {
     "id": 245,
+    "kategori": "bahan",
     "calories": 73,
     "proteins": 4.6,
     "fat": 0.5,
@@ -2206,6 +2451,7 @@
   },
   {
     "id": 246,
+    "kategori": "bahan",
     "calories": 34,
     "proteins": 3.8,
     "fat": 0.5,
@@ -2215,6 +2461,7 @@
   },
   {
     "id": 247,
+    "kategori": "bahan",
     "calories": 93,
     "proteins": 5,
     "fat": 1.3,
@@ -2224,6 +2471,7 @@
   },
   {
     "id": 248,
+    "kategori": "bahan",
     "calories": 27,
     "proteins": 2.1,
     "fat": 0.7,
@@ -2233,6 +2481,7 @@
   },
   {
     "id": 249,
+    "kategori": "bahan",
     "calories": 36,
     "proteins": 2.9,
     "fat": 0.6,
@@ -2242,6 +2491,7 @@
   },
   {
     "id": 250,
+    "kategori": "bahan",
     "calories": 34,
     "proteins": 4.1,
     "fat": 0.4,
@@ -2251,6 +2501,7 @@
   },
   {
     "id": 251,
+    "kategori": "bahan",
     "calories": 40,
     "proteins": 3.7,
     "fat": 0.3,
@@ -2260,6 +2511,7 @@
   },
   {
     "id": 252,
+    "kategori": "bahan",
     "calories": 30,
     "proteins": 3.1,
     "fat": 0.3,
@@ -2269,6 +2521,7 @@
   },
   {
     "id": 253,
+    "kategori": "bahan",
     "calories": 92,
     "proteins": 4,
     "fat": 3.6,
@@ -2278,6 +2531,7 @@
   },
   {
     "id": 254,
+    "kategori": "bahan",
     "calories": 59,
     "proteins": 4.8,
     "fat": 1,
@@ -2287,6 +2541,7 @@
   },
   {
     "id": 255,
+    "kategori": "bahan",
     "calories": 53,
     "proteins": 5.3,
     "fat": 0.9,
@@ -2296,6 +2551,7 @@
   },
   {
     "id": 256,
+    "kategori": "bahan",
     "calories": 59,
     "proteins": 6.4,
     "fat": 1,
@@ -2305,6 +2561,7 @@
   },
   {
     "id": 257,
+    "kategori": "bahan",
     "calories": 47,
     "proteins": 5,
     "fat": 0.5,
@@ -2314,6 +2571,7 @@
   },
   {
     "id": 258,
+    "kategori": "bahan",
     "calories": 59,
     "proteins": 2.8,
     "fat": 0.3,
@@ -2323,6 +2581,7 @@
   },
   {
     "id": 259,
+    "kategori": "bahan",
     "calories": 82,
     "proteins": 6.7,
     "fat": 1.7,
@@ -2332,6 +2591,7 @@
   },
   {
     "id": 260,
+    "kategori": "bahan",
     "calories": 61,
     "proteins": 6.1,
     "fat": 0.9,
@@ -2341,6 +2601,7 @@
   },
   {
     "id": 261,
+    "kategori": "bahan",
     "calories": 46,
     "proteins": 4,
     "fat": 0.5,
@@ -2350,6 +2611,7 @@
   },
   {
     "id": 262,
+    "kategori": "bahan",
     "calories": 45,
     "proteins": 3.7,
     "fat": 0.5,
@@ -2359,6 +2621,7 @@
   },
   {
     "id": 263,
+    "kategori": "bahan",
     "calories": 48,
     "proteins": 4.5,
     "fat": 0.8,
@@ -2368,6 +2631,7 @@
   },
   {
     "id": 264,
+    "kategori": "bahan",
     "calories": 22,
     "proteins": 2.1,
     "fat": 0.5,
@@ -2377,6 +2641,7 @@
   },
   {
     "id": 265,
+    "kategori": "bahan",
     "calories": 23,
     "proteins": 3,
     "fat": 0.3,
@@ -2386,6 +2651,7 @@
   },
   {
     "id": 266,
+    "kategori": "bahan",
     "calories": 51,
     "proteins": 2.5,
     "fat": 1.1,
@@ -2395,6 +2661,7 @@
   },
   {
     "id": 267,
+    "kategori": "bahan",
     "calories": 14,
     "proteins": 1.3,
     "fat": 0.3,
@@ -2404,6 +2671,7 @@
   },
   {
     "id": 268,
+    "kategori": "bahan",
     "calories": 60,
     "proteins": 4,
     "fat": 0.4,
@@ -2413,6 +2681,7 @@
   },
   {
     "id": 269,
+    "kategori": "bahan",
     "calories": 30,
     "proteins": 3.6,
     "fat": 0.6,
@@ -2422,6 +2691,7 @@
   },
   {
     "id": 270,
+    "kategori": "bahan",
     "calories": 87,
     "proteins": 8.3,
     "fat": 1.8,
@@ -2431,6 +2701,7 @@
   },
   {
     "id": 271,
+    "kategori": "bahan",
     "calories": 76,
     "proteins": 2.8,
     "fat": 0.2,
@@ -2440,6 +2711,7 @@
   },
   {
     "id": 272,
+    "kategori": "bahan",
     "calories": 45,
     "proteins": 4.7,
     "fat": 0.5,
@@ -2449,6 +2721,7 @@
   },
   {
     "id": 273,
+    "kategori": "bahan",
     "calories": 30,
     "proteins": 2.3,
     "fat": 0.4,
@@ -2458,6 +2731,7 @@
   },
   {
     "id": 274,
+    "kategori": "bahan",
     "calories": 40,
     "proteins": 3,
     "fat": 0.8,
@@ -2467,6 +2741,7 @@
   },
   {
     "id": 275,
+    "kategori": "bahan",
     "calories": 54,
     "proteins": 3.7,
     "fat": 0.3,
@@ -2476,6 +2751,7 @@
   },
   {
     "id": 276,
+    "kategori": "bahan",
     "calories": 71,
     "proteins": 6.8,
     "fat": 1.6,
@@ -2485,6 +2761,7 @@
   },
   {
     "id": 277,
+    "kategori": "bahan",
     "calories": 99,
     "proteins": 5,
     "fat": 1.3,
@@ -2494,6 +2771,7 @@
   },
   {
     "id": 278,
+    "kategori": "bahan",
     "calories": 63,
     "proteins": 3.8,
     "fat": 1.5,
@@ -2503,6 +2781,7 @@
   },
   {
     "id": 279,
+    "kategori": "bahan",
     "calories": 166,
     "proteins": 1.7,
     "fat": 0.5,
@@ -2512,6 +2791,7 @@
   },
   {
     "id": 280,
+    "kategori": "bahan",
     "calories": 22,
     "proteins": 1,
     "fat": 0.1,
@@ -2521,6 +2801,7 @@
   },
   {
     "id": 281,
+    "kategori": "bahan",
     "calories": 22,
     "proteins": 1,
     "fat": 0.1,
@@ -2530,6 +2811,7 @@
   },
   {
     "id": 282,
+    "kategori": "bahan",
     "calories": 35,
     "proteins": 4,
     "fat": 0.3,
@@ -2539,6 +2821,7 @@
   },
   {
     "id": 283,
+    "kategori": "bahan",
     "calories": 54,
     "proteins": 2.2,
     "fat": 3.6,
@@ -2548,6 +2831,7 @@
   },
   {
     "id": 284,
+    "kategori": "bahan",
     "calories": 39,
     "proteins": 4.5,
     "fat": 0.4,
@@ -2557,6 +2841,7 @@
   },
   {
     "id": 285,
+    "kategori": "bahan",
     "calories": 53,
     "proteins": 3.4,
     "fat": 1.2,
@@ -2566,6 +2851,7 @@
   },
   {
     "id": 286,
+    "kategori": "bahan",
     "calories": 29,
     "proteins": 3.4,
     "fat": 0.1,
@@ -2575,6 +2861,7 @@
   },
   {
     "id": 287,
+    "kategori": "bahan",
     "calories": 104,
     "proteins": 3.9,
     "fat": 0.6,
@@ -2584,6 +2871,7 @@
   },
   {
     "id": 288,
+    "kategori": "bahan",
     "calories": 49,
     "proteins": 2.7,
     "fat": 1,
@@ -2593,6 +2881,7 @@
   },
   {
     "id": 289,
+    "kategori": "bahan",
     "calories": 87,
     "proteins": 8,
     "fat": 2,
@@ -2602,6 +2891,7 @@
   },
   {
     "id": 290,
+    "kategori": "bahan",
     "calories": 128,
     "proteins": 12,
     "fat": 6.5,
@@ -2611,6 +2901,7 @@
   },
   {
     "id": 291,
+    "kategori": "bahan",
     "calories": 37,
     "proteins": 2.5,
     "fat": 0.8,
@@ -2620,6 +2911,7 @@
   },
   {
     "id": 292,
+    "kategori": "bahan",
     "calories": 301,
     "proteins": 14.2,
     "fat": 10.9,
@@ -2629,6 +2921,7 @@
   },
   {
     "id": 293,
+    "kategori": "bahan",
     "calories": 62,
     "proteins": 4,
     "fat": 0.5,
@@ -2638,6 +2931,7 @@
   },
   {
     "id": 294,
+    "kategori": "bahan",
     "calories": 45,
     "proteins": 4.4,
     "fat": 8,
@@ -2647,6 +2941,7 @@
   },
   {
     "id": 295,
+    "kategori": "bahan",
     "calories": 45,
     "proteins": 4.4,
     "fat": 0.5,
@@ -2656,6 +2951,7 @@
   },
   {
     "id": 296,
+    "kategori": "bahan",
     "calories": 53,
     "proteins": 3.2,
     "fat": 2.5,
@@ -2665,6 +2961,7 @@
   },
   {
     "id": 297,
+    "kategori": "bahan",
     "calories": 68,
     "proteins": 2,
     "fat": 1,
@@ -2674,6 +2971,7 @@
   },
   {
     "id": 298,
+    "kategori": "makanan",
     "calories": 73,
     "proteins": 6.8,
     "fat": 1.2,
@@ -2683,6 +2981,7 @@
   },
   {
     "id": 299,
+    "kategori": "makanan",
     "calories": 144,
     "proteins": 12.7,
     "fat": 1.2,
@@ -2692,6 +2991,7 @@
   },
   {
     "id": 300,
+    "kategori": "makanan",
     "calories": 50,
     "proteins": 6.2,
     "fat": 1.1,
@@ -2701,6 +3001,7 @@
   },
   {
     "id": 301,
+    "kategori": "makanan",
     "calories": 74,
     "proteins": 6.3,
     "fat": 0.7,
@@ -2710,6 +3011,7 @@
   },
   {
     "id": 302,
+    "kategori": "makanan",
     "calories": 55,
     "proteins": 4,
     "fat": 0.5,
@@ -2719,6 +3021,7 @@
   },
   {
     "id": 303,
+    "kategori": "makanan",
     "calories": 31,
     "proteins": 3.7,
     "fat": 0.6,
@@ -2728,6 +3031,7 @@
   },
   {
     "id": 304,
+    "kategori": "makanan",
     "calories": 50,
     "proteins": 6.2,
     "fat": 1.1,
@@ -2737,6 +3041,7 @@
   },
   {
     "id": 305,
+    "kategori": "bahan",
     "calories": 36,
     "proteins": 2.6,
     "fat": 0.9,
@@ -2746,6 +3051,7 @@
   },
   {
     "id": 306,
+    "kategori": "makanan",
     "calories": 27,
     "proteins": 1.3,
     "fat": 0.2,
@@ -2755,6 +3061,7 @@
   },
   {
     "id": 307,
+    "kategori": "makanan",
     "calories": 59,
     "proteins": 3,
     "fat": 0.4,
@@ -2764,6 +3071,7 @@
   },
   {
     "id": 308,
+    "kategori": "bahan",
     "calories": 71,
     "proteins": 4.1,
     "fat": 2.1,
@@ -2773,6 +3081,7 @@
   },
   {
     "id": 309,
+    "kategori": "makanan",
     "calories": 27,
     "proteins": 1.3,
     "fat": 0.2,
@@ -2782,6 +3091,7 @@
   },
   {
     "id": 310,
+    "kategori": "bahan",
     "calories": 70,
     "proteins": 2.9,
     "fat": 0.3,
@@ -2791,6 +3101,7 @@
   },
   {
     "id": 311,
+    "kategori": "bahan",
     "calories": 47,
     "proteins": 2.8,
     "fat": 0.4,
@@ -2800,6 +3111,7 @@
   },
   {
     "id": 312,
+    "kategori": "makanan",
     "calories": 56,
     "proteins": 3.1,
     "fat": 0.3,
@@ -2809,6 +3121,7 @@
   },
   {
     "id": 313,
+    "kategori": "bahan",
     "calories": 62,
     "proteins": 3.7,
     "fat": 0.3,
@@ -2818,6 +3131,7 @@
   },
   {
     "id": 314,
+    "kategori": "makanan",
     "calories": 56,
     "proteins": 3.1,
     "fat": 0.3,
@@ -2827,6 +3141,7 @@
   },
   {
     "id": 315,
+    "kategori": "bahan",
     "calories": 48,
     "proteins": 3,
     "fat": 0.3,
@@ -2836,6 +3151,7 @@
   },
   {
     "id": 316,
+    "kategori": "bahan",
     "calories": 46,
     "proteins": 2.8,
     "fat": 0.2,
@@ -2845,6 +3161,7 @@
   },
   {
     "id": 317,
+    "kategori": "bahan",
     "calories": 55,
     "proteins": 1.7,
     "fat": 0.1,
@@ -2854,6 +3171,7 @@
   },
   {
     "id": 318,
+    "kategori": "makanan",
     "calories": 260,
     "proteins": 2,
     "fat": 15,
@@ -2863,6 +3181,7 @@
   },
   {
     "id": 319,
+    "kategori": "makanan",
     "calories": 382,
     "proteins": 55.7,
     "fat": 14.1,
@@ -2872,6 +3191,7 @@
   },
   {
     "id": 320,
+    "kategori": "makanan",
     "calories": 433,
     "proteins": 55,
     "fat": 9,
@@ -2881,6 +3201,7 @@
   },
   {
     "id": 321,
+    "kategori": "makanan",
     "calories": 598,
     "proteins": 74.3,
     "fat": 26.9,
@@ -2890,6 +3211,7 @@
   },
   {
     "id": 322,
+    "kategori": "makanan",
     "calories": 77,
     "proteins": 13.8,
     "fat": 1.9,
@@ -2899,6 +3221,7 @@
   },
   {
     "id": 323,
+    "kategori": "makanan",
     "calories": 104,
     "proteins": 21.9,
     "fat": 1.1,
@@ -2908,6 +3231,7 @@
   },
   {
     "id": 324,
+    "kategori": "makanan",
     "calories": 248,
     "proteins": 10,
     "fat": 2.3,
@@ -2917,6 +3241,7 @@
   },
   {
     "id": 325,
+    "kategori": "makanan",
     "calories": 395,
     "proteins": 3,
     "fat": 5.7,
@@ -2926,6 +3251,7 @@
   },
   {
     "id": 326,
+    "kategori": "makanan",
     "calories": 298,
     "proteins": 3.7,
     "fat": 2.1,
@@ -2935,6 +3261,7 @@
   },
   {
     "id": 327,
+    "kategori": "makanan",
     "calories": 368,
     "proteins": 2.6,
     "fat": 8.6,
@@ -2944,6 +3271,7 @@
   },
   {
     "id": 328,
+    "kategori": "makanan",
     "calories": 348,
     "proteins": 0.4,
     "fat": 3.8,
@@ -2953,6 +3281,7 @@
   },
   {
     "id": 329,
+    "kategori": "makanan",
     "calories": 331,
     "proteins": 1.9,
     "fat": 7.6,
@@ -2962,6 +3291,7 @@
   },
   {
     "id": 330,
+    "kategori": "makanan",
     "calories": 373,
     "proteins": 4.3,
     "fat": 16.5,
@@ -2971,6 +3301,7 @@
   },
   {
     "id": 331,
+    "kategori": "makanan",
     "calories": 17.5,
     "proteins": 3.3,
     "fat": 2.3,
@@ -2980,6 +3311,7 @@
   },
   {
     "id": 332,
+    "kategori": "makanan",
     "calories": 317,
     "proteins": 15.7,
     "fat": 27.7,
@@ -2989,6 +3321,7 @@
   },
   {
     "id": 333,
+    "kategori": "makanan",
     "calories": 202,
     "proteins": 17.1,
     "fat": 14.8,
@@ -2998,6 +3331,7 @@
   },
   {
     "id": 334,
+    "kategori": "makanan",
     "calories": 100,
     "proteins": 16.6,
     "fat": 3.3,
@@ -3007,6 +3341,7 @@
   },
   {
     "id": 335,
+    "kategori": "makanan",
     "calories": 63,
     "proteins": 1,
     "fat": 0.2,
@@ -3016,6 +3351,7 @@
   },
   {
     "id": 336,
+    "kategori": "makanan",
     "calories": 134,
     "proteins": 2.5,
     "fat": 3,
@@ -3025,6 +3361,7 @@
   },
   {
     "id": 337,
+    "kategori": "minuman",
     "calories": 80,
     "proteins": 0.5,
     "fat": 0.6,
@@ -3034,6 +3371,7 @@
   },
   {
     "id": 338,
+    "kategori": "bahan",
     "calories": 18,
     "proteins": 1,
     "fat": 0.2,
@@ -3043,6 +3381,7 @@
   },
   {
     "id": 339,
+    "kategori": "makanan",
     "calories": 98,
     "proteins": 1.4,
     "fat": 0.2,
@@ -3052,6 +3391,7 @@
   },
   {
     "id": 340,
+    "kategori": "makanan",
     "calories": 248,
     "proteins": 36.2,
     "fat": 6.9,
@@ -3061,6 +3401,7 @@
   },
   {
     "id": 341,
+    "kategori": "makanan",
     "calories": 590,
     "proteins": 18.5,
     "fat": 57,
@@ -3070,6 +3411,7 @@
   },
   {
     "id": 342,
+    "kategori": "makanan",
     "calories": 345,
     "proteins": 12,
     "fat": 1.5,
@@ -3079,6 +3421,7 @@
   },
   {
     "id": 343,
+    "kategori": "makanan",
     "calories": 403,
     "proteins": 10.6,
     "fat": 2.2,
@@ -3088,6 +3431,7 @@
   },
   {
     "id": 344,
+    "kategori": "makanan",
     "calories": 355,
     "proteins": 17.8,
     "fat": 4.6,
@@ -3097,6 +3441,7 @@
   },
   {
     "id": 345,
+    "kategori": "makanan",
     "calories": 122,
     "proteins": 3.5,
     "fat": 4.5,
@@ -3106,6 +3451,7 @@
   },
   {
     "id": 346,
+    "kategori": "makanan",
     "calories": 538,
     "proteins": 13.6,
     "fat": 30.3,
@@ -3115,6 +3461,7 @@
   },
   {
     "id": 347,
+    "kategori": "makanan",
     "calories": 524,
     "proteins": 13.3,
     "fat": 29.2,
@@ -3124,6 +3471,7 @@
   },
   {
     "id": 348,
+    "kategori": "makanan",
     "calories": 565,
     "proteins": 18.2,
     "fat": 38.4,
@@ -3133,6 +3481,7 @@
   },
   {
     "id": 349,
+    "kategori": "makanan",
     "calories": 70,
     "proteins": 0.6,
     "fat": 0,
@@ -3142,6 +3491,7 @@
   },
   {
     "id": 350,
+    "kategori": "makanan",
     "calories": 210,
     "proteins": 4,
     "fat": 12.5,
@@ -3151,6 +3501,7 @@
   },
   {
     "id": 351,
+    "kategori": "makanan",
     "calories": 156.7,
     "proteins": 3,
     "fat": 1.7,
@@ -3160,6 +3511,7 @@
   },
   {
     "id": 352,
+    "kategori": "makanan",
     "calories": 152,
     "proteins": 0,
     "fat": 0,
@@ -3169,6 +3521,7 @@
   },
   {
     "id": 353,
+    "kategori": "makanan",
     "calories": 44.8,
     "proteins": 0,
     "fat": 0,
@@ -3178,6 +3531,7 @@
   },
   {
     "id": 354,
+    "kategori": "makanan",
     "calories": 270,
     "proteins": 12.3,
     "fat": 15.9,
@@ -3187,6 +3541,7 @@
   },
   {
     "id": 355,
+    "kategori": "makanan",
     "calories": 322,
     "proteins": 2.4,
     "fat": 0.6,
@@ -3196,6 +3551,7 @@
   },
   {
     "id": 356,
+    "kategori": "makanan",
     "calories": 137,
     "proteins": 6.1,
     "fat": 3.2,
@@ -3205,6 +3561,7 @@
   },
   {
     "id": 357,
+    "kategori": "makanan",
     "calories": 88,
     "proteins": 0.8,
     "fat": 0.3,
@@ -3214,6 +3571,7 @@
   },
   {
     "id": 358,
+    "kategori": "makanan",
     "calories": 101,
     "proteins": 2.1,
     "fat": 0.2,
@@ -3223,6 +3581,7 @@
   },
   {
     "id": 359,
+    "kategori": "makanan",
     "calories": 88,
     "proteins": 0.6,
     "fat": 0.3,
@@ -3232,6 +3591,7 @@
   },
   {
     "id": 360,
+    "kategori": "makanan",
     "calories": 100,
     "proteins": 0.9,
     "fat": 0.3,
@@ -3241,6 +3601,7 @@
   },
   {
     "id": 361,
+    "kategori": "makanan",
     "calories": 18,
     "proteins": 0.8,
     "fat": 0.2,
@@ -3250,6 +3611,7 @@
   },
   {
     "id": 362,
+    "kategori": "makanan",
     "calories": 13,
     "proteins": 0.3,
     "fat": 0.6,
@@ -3259,6 +3621,7 @@
   },
   {
     "id": 363,
+    "kategori": "makanan",
     "calories": 68,
     "proteins": 0.7,
     "fat": 0.1,
@@ -3268,6 +3631,7 @@
   },
   {
     "id": 364,
+    "kategori": "makanan",
     "calories": 100,
     "proteins": 0.8,
     "fat": 0.2,
@@ -3277,6 +3641,7 @@
   },
   {
     "id": 365,
+    "kategori": "bahan",
     "calories": 95,
     "proteins": 1,
     "fat": 0.1,
@@ -3286,6 +3651,7 @@
   },
   {
     "id": 366,
+    "kategori": "makanan",
     "calories": 100,
     "proteins": 0.8,
     "fat": 0.2,
@@ -3295,6 +3661,7 @@
   },
   {
     "id": 367,
+    "kategori": "makanan",
     "calories": 77,
     "proteins": 0.6,
     "fat": 0.2,
@@ -3304,6 +3671,7 @@
   },
   {
     "id": 368,
+    "kategori": "makanan",
     "calories": 338,
     "proteins": 1.5,
     "fat": 0.7,
@@ -3313,6 +3681,7 @@
   },
   {
     "id": 369,
+    "kategori": "makanan",
     "calories": 191,
     "proteins": 4.5,
     "fat": 1.5,
@@ -3322,6 +3691,7 @@
   },
   {
     "id": 370,
+    "kategori": "makanan",
     "calories": 347,
     "proteins": 1.3,
     "fat": 0.7,
@@ -3331,6 +3701,7 @@
   },
   {
     "id": 371,
+    "kategori": "makanan",
     "calories": 195,
     "proteins": 0.4,
     "fat": 1.7,
@@ -3340,6 +3711,7 @@
   },
   {
     "id": 372,
+    "kategori": "bahan",
     "calories": 389,
     "proteins": 0,
     "fat": 0,
@@ -3349,6 +3721,7 @@
   },
   {
     "id": 373,
+    "kategori": "makanan",
     "calories": 95,
     "proteins": 1.5,
     "fat": 0.1,
@@ -3358,6 +3731,7 @@
   },
   {
     "id": 374,
+    "kategori": "makanan",
     "calories": 131,
     "proteins": 1.1,
     "fat": 0.2,
@@ -3367,6 +3741,7 @@
   },
   {
     "id": 375,
+    "kategori": "makanan",
     "calories": 274,
     "proteins": 1.7,
     "fat": 5.4,
@@ -3376,6 +3751,7 @@
   },
   {
     "id": 376,
+    "kategori": "makanan",
     "calories": 407,
     "proteins": 6.4,
     "fat": 28.2,
@@ -3385,6 +3761,7 @@
   },
   {
     "id": 377,
+    "kategori": "makanan",
     "calories": 35,
     "proteins": 1.7,
     "fat": 0.2,
@@ -3394,6 +3771,7 @@
   },
   {
     "id": 378,
+    "kategori": "makanan",
     "calories": 350,
     "proteins": 1.4,
     "fat": 14.4,
@@ -3403,6 +3781,7 @@
   },
   {
     "id": 379,
+    "kategori": "makanan",
     "calories": 462,
     "proteins": 3.1,
     "fat": 24.4,
@@ -3412,6 +3791,7 @@
   },
   {
     "id": 380,
+    "kategori": "makanan",
     "calories": 75,
     "proteins": 8.2,
     "fat": 2,
@@ -3421,6 +3801,7 @@
   },
   {
     "id": 381,
+    "kategori": "makanan",
     "calories": 360,
     "proteins": 1.3,
     "fat": 6.4,
@@ -3430,6 +3811,7 @@
   },
   {
     "id": 382,
+    "kategori": "makanan",
     "calories": 171.4,
     "proteins": 4,
     "fat": 4,
@@ -3439,6 +3821,7 @@
   },
   {
     "id": 383,
+    "kategori": "makanan",
     "calories": 144,
     "proteins": 1.1,
     "fat": 0.4,
@@ -3448,6 +3831,7 @@
   },
   {
     "id": 384,
+    "kategori": "makanan",
     "calories": 204,
     "proteins": 0.5,
     "fat": 1.4,
@@ -3457,6 +3841,7 @@
   },
   {
     "id": 385,
+    "kategori": "makanan",
     "calories": 114,
     "proteins": 16.3,
     "fat": 4.6,
@@ -3466,6 +3851,7 @@
   },
   {
     "id": 386,
+    "kategori": "makanan",
     "calories": 105,
     "proteins": 16.6,
     "fat": 3.3,
@@ -3475,6 +3861,7 @@
   },
   {
     "id": 387,
+    "kategori": "makanan",
     "calories": 141,
     "proteins": 15,
     "fat": 8.1,
@@ -3484,6 +3871,7 @@
   },
   {
     "id": 388,
+    "kategori": "makanan",
     "calories": 53,
     "proteins": 1.6,
     "fat": 1.6,
@@ -3493,6 +3881,7 @@
   },
   {
     "id": 389,
+    "kategori": "makanan",
     "calories": 160,
     "proteins": 3.3,
     "fat": 9.2,
@@ -3502,6 +3891,7 @@
   },
   {
     "id": 390,
+    "kategori": "bahan",
     "calories": 368,
     "proteins": 0,
     "fat": 0,
@@ -3511,6 +3901,7 @@
   },
   {
     "id": 391,
+    "kategori": "bahan",
     "calories": 386,
     "proteins": 3,
     "fat": 10,
@@ -3520,6 +3911,7 @@
   },
   {
     "id": 392,
+    "kategori": "bahan",
     "calories": 356,
     "proteins": 0.4,
     "fat": 0.5,
@@ -3529,6 +3921,7 @@
   },
   {
     "id": 393,
+    "kategori": "bahan",
     "calories": 394,
     "proteins": 0,
     "fat": 0,
@@ -3538,6 +3931,7 @@
   },
   {
     "id": 394,
+    "kategori": "makanan",
     "calories": 52,
     "proteins": 10,
     "fat": 0.5,
@@ -3547,6 +3941,7 @@
   },
   {
     "id": 395,
+    "kategori": "makanan",
     "calories": 106,
     "proteins": 16.5,
     "fat": 3.3,
@@ -3556,6 +3951,7 @@
   },
   {
     "id": 396,
+    "kategori": "makanan",
     "calories": 148,
     "proteins": 10,
     "fat": 9.8,
@@ -3565,6 +3961,7 @@
   },
   {
     "id": 397,
+    "kategori": "makanan",
     "calories": 126,
     "proteins": 4.2,
     "fat": 9.4,
@@ -3574,6 +3971,7 @@
   },
   {
     "id": 398,
+    "kategori": "makanan",
     "calories": 110,
     "proteins": 5.9,
     "fat": 8.2,
@@ -3583,6 +3981,7 @@
   },
   {
     "id": 399,
+    "kategori": "makanan",
     "calories": 143,
     "proteins": 4,
     "fat": 11.4,
@@ -3592,6 +3991,7 @@
   },
   {
     "id": 400,
+    "kategori": "makanan",
     "calories": 176,
     "proteins": 7.3,
     "fat": 14.9,
@@ -3601,6 +4001,7 @@
   },
   {
     "id": 401,
+    "kategori": "makanan",
     "calories": 132,
     "proteins": 9,
     "fat": 7.2,
@@ -3610,6 +4011,7 @@
   },
   {
     "id": 402,
+    "kategori": "makanan",
     "calories": 192,
     "proteins": 12.7,
     "fat": 10.1,
@@ -3619,6 +4021,7 @@
   },
   {
     "id": 403,
+    "kategori": "makanan",
     "calories": 218,
     "proteins": 0.5,
     "fat": 2.5,
@@ -3628,6 +4031,7 @@
   },
   {
     "id": 404,
+    "kategori": "makanan",
     "calories": 389,
     "proteins": 16.9,
     "fat": 35,
@@ -3637,6 +4041,7 @@
   },
   {
     "id": 405,
+    "kategori": "makanan",
     "calories": 65,
     "proteins": 10,
     "fat": 1,
@@ -3646,6 +4051,7 @@
   },
   {
     "id": 406,
+    "kategori": "makanan",
     "calories": 134,
     "proteins": 19.7,
     "fat": 4.8,
@@ -3655,6 +4061,7 @@
   },
   {
     "id": 407,
+    "kategori": "makanan",
     "calories": 136,
     "proteins": 19.7,
     "fat": 3.2,
@@ -3664,6 +4071,7 @@
   },
   {
     "id": 408,
+    "kategori": "makanan",
     "calories": 390,
     "proteins": 14.2,
     "fat": 7.4,
@@ -3673,6 +4081,7 @@
   },
   {
     "id": 409,
+    "kategori": "makanan",
     "calories": 127,
     "proteins": 1.2,
     "fat": 0.5,
@@ -3682,6 +4091,7 @@
   },
   {
     "id": 410,
+    "kategori": "makanan",
     "calories": 146,
     "proteins": 17.7,
     "fat": 5.9,
@@ -3691,6 +4101,7 @@
   },
   {
     "id": 411,
+    "kategori": "makanan",
     "calories": 380,
     "proteins": 33.6,
     "fat": 27.5,
@@ -3700,6 +4111,7 @@
   },
   {
     "id": 412,
+    "kategori": "makanan",
     "calories": 456,
     "proteins": 46.5,
     "fat": 24.4,
@@ -3709,6 +4121,7 @@
   },
   {
     "id": 413,
+    "kategori": "makanan",
     "calories": 348,
     "proteins": 18.7,
     "fat": 29.5,
@@ -3718,6 +4131,7 @@
   },
   {
     "id": 414,
+    "kategori": "makanan",
     "calories": 193,
     "proteins": 42,
     "fat": 1.5,
@@ -3727,6 +4141,7 @@
   },
   {
     "id": 415,
+    "kategori": "makanan",
     "calories": 430,
     "proteins": 58.2,
     "fat": 23.6,
@@ -3736,6 +4151,7 @@
   },
   {
     "id": 416,
+    "kategori": "makanan",
     "calories": 652,
     "proteins": 40.4,
     "fat": 54.3,
@@ -3745,6 +4161,7 @@
   },
   {
     "id": 417,
+    "kategori": "makanan",
     "calories": 319,
     "proteins": 6.9,
     "fat": 31.7,
@@ -3754,6 +4171,7 @@
   },
   {
     "id": 418,
+    "kategori": "makanan",
     "calories": 430,
     "proteins": 33.4,
     "fat": 32.4,
@@ -3763,6 +4181,7 @@
   },
   {
     "id": 419,
+    "kategori": "makanan",
     "calories": 198,
     "proteins": 19,
     "fat": 13,
@@ -3772,6 +4191,7 @@
   },
   {
     "id": 420,
+    "kategori": "makanan",
     "calories": 107,
     "proteins": 16.5,
     "fat": 3.9,
@@ -3781,6 +4201,7 @@
   },
   {
     "id": 421,
+    "kategori": "makanan",
     "calories": 112,
     "proteins": 20,
     "fat": 1.3,
@@ -3790,6 +4211,7 @@
   },
   {
     "id": 422,
+    "kategori": "makanan",
     "calories": 129,
     "proteins": 20,
     "fat": 4.8,
@@ -3799,6 +4221,7 @@
   },
   {
     "id": 423,
+    "kategori": "makanan",
     "calories": 296,
     "proteins": 17.1,
     "fat": 20.3,
@@ -3808,6 +4231,7 @@
   },
   {
     "id": 424,
+    "kategori": "makanan",
     "calories": 111,
     "proteins": 19.4,
     "fat": 0.9,
@@ -3817,6 +4241,7 @@
   },
   {
     "id": 425,
+    "kategori": "makanan",
     "calories": 78,
     "proteins": 14.5,
     "fat": 0.6,
@@ -3826,6 +4251,7 @@
   },
   {
     "id": 426,
+    "kategori": "makanan",
     "calories": 144,
     "proteins": 17.8,
     "fat": 5.8,
@@ -3835,6 +4261,7 @@
   },
   {
     "id": 427,
+    "kategori": "makanan",
     "calories": 123,
     "proteins": 15.1,
     "fat": 5.5,
@@ -3844,6 +4271,7 @@
   },
   {
     "id": 428,
+    "kategori": "makanan",
     "calories": 96,
     "proteins": 19,
     "fat": 1.7,
@@ -3853,6 +4281,7 @@
   },
   {
     "id": 429,
+    "kategori": "makanan",
     "calories": 138,
     "proteins": 14,
     "fat": 0.7,
@@ -3862,6 +4291,7 @@
   },
   {
     "id": 430,
+    "kategori": "makanan",
     "calories": 128,
     "proteins": 18,
     "fat": 3,
@@ -3871,6 +4301,7 @@
   },
   {
     "id": 431,
+    "kategori": "makanan",
     "calories": 80,
     "proteins": 14.7,
     "fat": 1.4,
@@ -3880,6 +4311,7 @@
   },
   {
     "id": 432,
+    "kategori": "makanan",
     "calories": 417,
     "proteins": 25.9,
     "fat": 19.4,
@@ -3889,6 +4321,7 @@
   },
   {
     "id": 433,
+    "kategori": "makanan",
     "calories": 82,
     "proteins": 6.7,
     "fat": 1,
@@ -3898,6 +4331,7 @@
   },
   {
     "id": 434,
+    "kategori": "makanan",
     "calories": 66,
     "proteins": 14,
     "fat": 0,
@@ -3907,6 +4341,7 @@
   },
   {
     "id": 435,
+    "kategori": "makanan",
     "calories": 90,
     "proteins": 14.9,
     "fat": 2.5,
@@ -3916,6 +4351,7 @@
   },
   {
     "id": 436,
+    "kategori": "makanan",
     "calories": 88,
     "proteins": 14.2,
     "fat": 0.7,
@@ -3925,6 +4361,7 @@
   },
   {
     "id": 437,
+    "kategori": "makanan",
     "calories": 100,
     "proteins": 14.7,
     "fat": 2.4,
@@ -3934,6 +4371,7 @@
   },
   {
     "id": 438,
+    "kategori": "makanan",
     "calories": 134,
     "proteins": 25.5,
     "fat": 1.3,
@@ -3943,6 +4381,7 @@
   },
   {
     "id": 439,
+    "kategori": "makanan",
     "calories": 204,
     "proteins": 34.2,
     "fat": 5.6,
@@ -3952,6 +4391,7 @@
   },
   {
     "id": 440,
+    "kategori": "makanan",
     "calories": 198,
     "proteins": 36.5,
     "fat": 2.2,
@@ -3961,6 +4401,7 @@
   },
   {
     "id": 441,
+    "kategori": "makanan",
     "calories": 120,
     "proteins": 11.3,
     "fat": 3.9,
@@ -3970,6 +4411,7 @@
   },
   {
     "id": 442,
+    "kategori": "makanan",
     "calories": 116,
     "proteins": 11.2,
     "fat": 1.2,
@@ -3979,6 +4421,7 @@
   },
   {
     "id": 443,
+    "kategori": "makanan",
     "calories": 86,
     "proteins": 10.2,
     "fat": 1.1,
@@ -3988,6 +4431,7 @@
   },
   {
     "id": 444,
+    "kategori": "makanan",
     "calories": 107,
     "proteins": 19.6,
     "fat": 0.7,
@@ -3997,6 +4441,7 @@
   },
   {
     "id": 445,
+    "kategori": "makanan",
     "calories": 81,
     "proteins": 11.4,
     "fat": 1.9,
@@ -4006,6 +4451,7 @@
   },
   {
     "id": 446,
+    "kategori": "makanan",
     "calories": 101,
     "proteins": 11.5,
     "fat": 4.1,
@@ -4015,6 +4461,7 @@
   },
   {
     "id": 447,
+    "kategori": "makanan",
     "calories": 109,
     "proteins": 17,
     "fat": 4,
@@ -4024,6 +4471,7 @@
   },
   {
     "id": 448,
+    "kategori": "makanan",
     "calories": 261,
     "proteins": 38.1,
     "fat": 2.3,
@@ -4033,6 +4481,7 @@
   },
   {
     "id": 449,
+    "kategori": "makanan",
     "calories": 292,
     "proteins": 58,
     "fat": 4,
@@ -4042,6 +4491,7 @@
   },
   {
     "id": 450,
+    "kategori": "makanan",
     "calories": 74,
     "proteins": 25.2,
     "fat": 1.7,
@@ -4051,6 +4501,7 @@
   },
   {
     "id": 451,
+    "kategori": "makanan",
     "calories": 267,
     "proteins": 23.1,
     "fat": 19.4,
@@ -4060,6 +4511,7 @@
   },
   {
     "id": 452,
+    "kategori": "makanan",
     "calories": 101,
     "proteins": 10.3,
     "fat": 3.7,
@@ -4069,6 +4521,7 @@
   },
   {
     "id": 453,
+    "kategori": "makanan",
     "calories": 298,
     "proteins": 46.3,
     "fat": 3.6,
@@ -4078,6 +4531,7 @@
   },
   {
     "id": 454,
+    "kategori": "makanan",
     "calories": 57,
     "proteins": 10.7,
     "fat": 0.3,
@@ -4087,6 +4541,7 @@
   },
   {
     "id": 455,
+    "kategori": "makanan",
     "calories": 77,
     "proteins": 15.6,
     "fat": 0.9,
@@ -4096,6 +4551,7 @@
   },
   {
     "id": 456,
+    "kategori": "makanan",
     "calories": 92,
     "proteins": 20,
     "fat": 0.7,
@@ -4105,6 +4561,7 @@
   },
   {
     "id": 457,
+    "kategori": "makanan",
     "calories": 82,
     "proteins": 11.4,
     "fat": 1.2,
@@ -4114,6 +4571,7 @@
   },
   {
     "id": 458,
+    "kategori": "makanan",
     "calories": 132,
     "proteins": 17,
     "fat": 6.7,
@@ -4123,6 +4581,7 @@
   },
   {
     "id": 459,
+    "kategori": "makanan",
     "calories": 162,
     "proteins": 31.7,
     "fat": 2.8,
@@ -4132,6 +4591,7 @@
   },
   {
     "id": 460,
+    "kategori": "makanan",
     "calories": 110,
     "proteins": 12.6,
     "fat": 4.2,
@@ -4141,6 +4601,7 @@
   },
   {
     "id": 461,
+    "kategori": "makanan",
     "calories": 302,
     "proteins": 70.7,
     "fat": 1.9,
@@ -4150,6 +4611,7 @@
   },
   {
     "id": 462,
+    "kategori": "makanan",
     "calories": 103,
     "proteins": 22,
     "fat": 1,
@@ -4159,6 +4621,7 @@
   },
   {
     "id": 463,
+    "kategori": "makanan",
     "calories": 70,
     "proteins": 10.8,
     "fat": 0.7,
@@ -4168,6 +4631,7 @@
   },
   {
     "id": 464,
+    "kategori": "makanan",
     "calories": 147,
     "proteins": 17.5,
     "fat": 6.5,
@@ -4177,6 +4641,7 @@
   },
   {
     "id": 465,
+    "kategori": "makanan",
     "calories": 109,
     "proteins": 22,
     "fat": 1.7,
@@ -4186,6 +4651,7 @@
   },
   {
     "id": 466,
+    "kategori": "makanan",
     "calories": 82,
     "proteins": 18,
     "fat": 1,
@@ -4195,6 +4661,7 @@
   },
   {
     "id": 467,
+    "kategori": "makanan",
     "calories": 90,
     "proteins": 20.4,
     "fat": 0.9,
@@ -4204,6 +4671,7 @@
   },
   {
     "id": 468,
+    "kategori": "makanan",
     "calories": 252,
     "proteins": 19.9,
     "fat": 19.1,
@@ -4213,6 +4681,7 @@
   },
   {
     "id": 469,
+    "kategori": "makanan",
     "calories": 112,
     "proteins": 20,
     "fat": 3,
@@ -4222,6 +4691,7 @@
   },
   {
     "id": 470,
+    "kategori": "makanan",
     "calories": 104,
     "proteins": 15.6,
     "fat": 3.2,
@@ -4231,6 +4701,7 @@
   },
   {
     "id": 471,
+    "kategori": "makanan",
     "calories": 258,
     "proteins": 40.3,
     "fat": 2.3,
@@ -4240,6 +4711,7 @@
   },
   {
     "id": 472,
+    "kategori": "makanan",
     "calories": 99,
     "proteins": 20.6,
     "fat": 1.4,
@@ -4249,6 +4721,7 @@
   },
   {
     "id": 473,
+    "kategori": "makanan",
     "calories": 86,
     "proteins": 16,
     "fat": 2,
@@ -4258,6 +4731,7 @@
   },
   {
     "id": 474,
+    "kategori": "makanan",
     "calories": 188,
     "proteins": 19.3,
     "fat": 12.2,
@@ -4267,6 +4741,7 @@
   },
   {
     "id": 475,
+    "kategori": "makanan",
     "calories": 209,
     "proteins": 15.2,
     "fat": 11.3,
@@ -4276,6 +4751,7 @@
   },
   {
     "id": 476,
+    "kategori": "makanan",
     "calories": 97,
     "proteins": 17.9,
     "fat": 2,
@@ -4285,6 +4761,7 @@
   },
   {
     "id": 477,
+    "kategori": "makanan",
     "calories": 598,
     "proteins": 74.3,
     "fat": 26.9,
@@ -4294,6 +4771,7 @@
   },
   {
     "id": 478,
+    "kategori": "makanan",
     "calories": 582,
     "proteins": 68.3,
     "fat": 15.2,
@@ -4303,6 +4781,7 @@
   },
   {
     "id": 479,
+    "kategori": "makanan",
     "calories": 416,
     "proteins": 46.9,
     "fat": 23.9,
@@ -4312,6 +4791,7 @@
   },
   {
     "id": 480,
+    "kategori": "makanan",
     "calories": 121,
     "proteins": 21.7,
     "fat": 2.8,
@@ -4321,6 +4801,7 @@
   },
   {
     "id": 481,
+    "kategori": "makanan",
     "calories": 89,
     "proteins": 18.7,
     "fat": 1,
@@ -4330,6 +4811,7 @@
   },
   {
     "id": 482,
+    "kategori": "makanan",
     "calories": 154,
     "proteins": 16.8,
     "fat": 5,
@@ -4339,6 +4821,7 @@
   },
   {
     "id": 483,
+    "kategori": "makanan",
     "calories": 125,
     "proteins": 21.3,
     "fat": 3.4,
@@ -4348,6 +4831,7 @@
   },
   {
     "id": 484,
+    "kategori": "makanan",
     "calories": 152,
     "proteins": 17.6,
     "fat": 6.1,
@@ -4357,6 +4841,7 @@
   },
   {
     "id": 485,
+    "kategori": "makanan",
     "calories": 120,
     "proteins": 14.3,
     "fat": 4.9,
@@ -4366,6 +4851,7 @@
   },
   {
     "id": 486,
+    "kategori": "makanan",
     "calories": 144,
     "proteins": 17.5,
     "fat": 6.3,
@@ -4375,6 +4861,7 @@
   },
   {
     "id": 487,
+    "kategori": "makanan",
     "calories": 132,
     "proteins": 17,
     "fat": 6.6,
@@ -4384,6 +4871,7 @@
   },
   {
     "id": 488,
+    "kategori": "makanan",
     "calories": 156,
     "proteins": 28,
     "fat": 4,
@@ -4393,6 +4881,7 @@
   },
   {
     "id": 489,
+    "kategori": "makanan",
     "calories": 176,
     "proteins": 32,
     "fat": 4.4,
@@ -4402,6 +4891,7 @@
   },
   {
     "id": 490,
+    "kategori": "makanan",
     "calories": 157,
     "proteins": 28,
     "fat": 4.2,
@@ -4411,6 +4901,7 @@
   },
   {
     "id": 491,
+    "kategori": "makanan",
     "calories": 170,
     "proteins": 31,
     "fat": 4.2,
@@ -4420,6 +4911,7 @@
   },
   {
     "id": 492,
+    "kategori": "makanan",
     "calories": 153,
     "proteins": 30,
     "fat": 2.8,
@@ -4429,6 +4921,7 @@
   },
   {
     "id": 493,
+    "kategori": "makanan",
     "calories": 142,
     "proteins": 27,
     "fat": 3,
@@ -4438,6 +4931,7 @@
   },
   {
     "id": 494,
+    "kategori": "makanan",
     "calories": 415,
     "proteins": 61.3,
     "fat": 17.6,
@@ -4447,6 +4941,7 @@
   },
   {
     "id": 495,
+    "kategori": "makanan",
     "calories": 534,
     "proteins": 40.2,
     "fat": 39.3,
@@ -4456,6 +4951,7 @@
   },
   {
     "id": 496,
+    "kategori": "makanan",
     "calories": 284,
     "proteins": 34.1,
     "fat": 9.9,
@@ -4465,6 +4961,7 @@
   },
   {
     "id": 497,
+    "kategori": "makanan",
     "calories": 113,
     "proteins": 13.9,
     "fat": 4.9,
@@ -4474,6 +4971,7 @@
   },
   {
     "id": 498,
+    "kategori": "makanan",
     "calories": 240,
     "proteins": 21.7,
     "fat": 7.7,
@@ -4483,6 +4981,7 @@
   },
   {
     "id": 499,
+    "kategori": "makanan",
     "calories": 109,
     "proteins": 19.9,
     "fat": 1.8,
@@ -4492,6 +4991,7 @@
   },
   {
     "id": 500,
+    "kategori": "makanan",
     "calories": 113,
     "proteins": 17,
     "fat": 4.5,
@@ -4501,6 +5001,7 @@
   },
   {
     "id": 501,
+    "kategori": "makanan",
     "calories": 194,
     "proteins": 38,
     "fat": 3.5,
@@ -4510,6 +5011,7 @@
   },
   {
     "id": 502,
+    "kategori": "makanan",
     "calories": 138,
     "proteins": 27,
     "fat": 3.3,
@@ -4519,6 +5021,7 @@
   },
   {
     "id": 503,
+    "kategori": "makanan",
     "calories": 100,
     "proteins": 18.8,
     "fat": 2.2,
@@ -4528,6 +5031,7 @@
   },
   {
     "id": 504,
+    "kategori": "makanan",
     "calories": 289,
     "proteins": 38,
     "fat": 14,
@@ -4537,6 +5041,7 @@
   },
   {
     "id": 505,
+    "kategori": "makanan",
     "calories": 84,
     "proteins": 15.2,
     "fat": 0.6,
@@ -4546,6 +5051,7 @@
   },
   {
     "id": 506,
+    "kategori": "makanan",
     "calories": 81,
     "proteins": 11.4,
     "fat": 1.9,
@@ -4555,6 +5061,7 @@
   },
   {
     "id": 507,
+    "kategori": "makanan",
     "calories": 199,
     "proteins": 34.1,
     "fat": 3.8,
@@ -4564,6 +5071,7 @@
   },
   {
     "id": 508,
+    "kategori": "makanan",
     "calories": 111,
     "proteins": 13.3,
     "fat": 3.4,
@@ -4573,6 +5081,7 @@
   },
   {
     "id": 509,
+    "kategori": "makanan",
     "calories": 88,
     "proteins": 15.9,
     "fat": 0.9,
@@ -4582,6 +5091,7 @@
   },
   {
     "id": 510,
+    "kategori": "makanan",
     "calories": 96,
     "proteins": 19.5,
     "fat": 1.1,
@@ -4591,6 +5101,7 @@
   },
   {
     "id": 511,
+    "kategori": "makanan",
     "calories": 95,
     "proteins": 15.8,
     "fat": 0.7,
@@ -4600,6 +5111,7 @@
   },
   {
     "id": 512,
+    "kategori": "makanan",
     "calories": 358,
     "proteins": 20.7,
     "fat": 26.4,
@@ -4609,6 +5121,7 @@
   },
   {
     "id": 513,
+    "kategori": "makanan",
     "calories": 204,
     "proteins": 16,
     "fat": 15,
@@ -4618,6 +5131,7 @@
   },
   {
     "id": 514,
+    "kategori": "makanan",
     "calories": 101,
     "proteins": 15.1,
     "fat": 4.1,
@@ -4627,6 +5141,7 @@
   },
   {
     "id": 515,
+    "kategori": "makanan",
     "calories": 316,
     "proteins": 60.1,
     "fat": 6.5,
@@ -4636,6 +5151,7 @@
   },
   {
     "id": 516,
+    "kategori": "makanan",
     "calories": 98,
     "proteins": 19.6,
     "fat": 1.7,
@@ -4645,6 +5161,7 @@
   },
   {
     "id": 517,
+    "kategori": "makanan",
     "calories": 277,
     "proteins": 60,
     "fat": 2.3,
@@ -4654,6 +5171,7 @@
   },
   {
     "id": 518,
+    "kategori": "makanan",
     "calories": 170,
     "proteins": 33.4,
     "fat": 3,
@@ -4663,6 +5181,7 @@
   },
   {
     "id": 519,
+    "kategori": "makanan",
     "calories": 331,
     "proteins": 68.7,
     "fat": 4.2,
@@ -4672,6 +5191,7 @@
   },
   {
     "id": 520,
+    "kategori": "makanan",
     "calories": 144,
     "proteins": 32.5,
     "fat": 0.6,
@@ -4681,6 +5201,7 @@
   },
   {
     "id": 521,
+    "kategori": "makanan",
     "calories": 74,
     "proteins": 10.3,
     "fat": 1.4,
@@ -4690,6 +5211,7 @@
   },
   {
     "id": 522,
+    "kategori": "makanan",
     "calories": 347,
     "proteins": 48.8,
     "fat": 6.4,
@@ -4699,6 +5221,7 @@
   },
   {
     "id": 523,
+    "kategori": "makanan",
     "calories": 82,
     "proteins": 17.4,
     "fat": 0.4,
@@ -4708,6 +5231,7 @@
   },
   {
     "id": 524,
+    "kategori": "makanan",
     "calories": 100,
     "proteins": 13.7,
     "fat": 1.5,
@@ -4717,6 +5241,7 @@
   },
   {
     "id": 525,
+    "kategori": "makanan",
     "calories": 96,
     "proteins": 19.2,
     "fat": 2,
@@ -4726,6 +5251,7 @@
   },
   {
     "id": 526,
+    "kategori": "makanan",
     "calories": 474,
     "proteins": 7.6,
     "fat": 21.6,
@@ -4735,6 +5261,7 @@
   },
   {
     "id": 527,
+    "kategori": "makanan",
     "calories": 496,
     "proteins": 30.3,
     "fat": 33.5,
@@ -4744,6 +5271,7 @@
   },
   {
     "id": 528,
+    "kategori": "makanan",
     "calories": 156,
     "proteins": 2.7,
     "fat": 1.3,
@@ -4753,6 +5281,7 @@
   },
   {
     "id": 529,
+    "kategori": "makanan",
     "calories": 361,
     "proteins": 8.7,
     "fat": 4.5,
@@ -4762,6 +5291,7 @@
   },
   {
     "id": 530,
+    "kategori": "makanan",
     "calories": 129,
     "proteins": 4.1,
     "fat": 1.3,
@@ -4771,6 +5301,7 @@
   },
   {
     "id": 531,
+    "kategori": "makanan",
     "calories": 307,
     "proteins": 7.9,
     "fat": 3.4,
@@ -4780,6 +5311,7 @@
   },
   {
     "id": 532,
+    "kategori": "makanan",
     "calories": 366,
     "proteins": 9.8,
     "fat": 7.3,
@@ -4789,6 +5321,7 @@
   },
   {
     "id": 533,
+    "kategori": "makanan",
     "calories": 355,
     "proteins": 9.2,
     "fat": 3.9,
@@ -4798,6 +5331,7 @@
   },
   {
     "id": 534,
+    "kategori": "makanan",
     "calories": 154,
     "proteins": 3.8,
     "fat": 3.5,
@@ -4807,6 +5341,7 @@
   },
   {
     "id": 535,
+    "kategori": "makanan",
     "calories": 140,
     "proteins": 4.7,
     "fat": 1.3,
@@ -4816,6 +5351,7 @@
   },
   {
     "id": 536,
+    "kategori": "makanan",
     "calories": 355,
     "proteins": 9.2,
     "fat": 3.9,
@@ -4825,6 +5361,7 @@
   },
   {
     "id": 537,
+    "kategori": "makanan",
     "calories": 35,
     "proteins": 2.2,
     "fat": 0.1,
@@ -4834,6 +5371,7 @@
   },
   {
     "id": 538,
+    "kategori": "makanan",
     "calories": 147,
     "proteins": 5.1,
     "fat": 0.7,
@@ -4843,6 +5381,7 @@
   },
   {
     "id": 539,
+    "kategori": "makanan",
     "calories": 142,
     "proteins": 5,
     "fat": 0.7,
@@ -4852,6 +5391,7 @@
   },
   {
     "id": 540,
+    "kategori": "makanan",
     "calories": 367,
     "proteins": 6.2,
     "fat": 5.1,
@@ -4861,6 +5401,7 @@
   },
   {
     "id": 541,
+    "kategori": "makanan",
     "calories": 368,
     "proteins": 5.5,
     "fat": 4.6,
@@ -4870,6 +5411,7 @@
   },
   {
     "id": 542,
+    "kategori": "makanan",
     "calories": 361,
     "proteins": 8.7,
     "fat": 4.5,
@@ -4879,6 +5421,7 @@
   },
   {
     "id": 543,
+    "kategori": "makanan",
     "calories": 129,
     "proteins": 4.1,
     "fat": 1.3,
@@ -4888,6 +5431,7 @@
   },
   {
     "id": 544,
+    "kategori": "makanan",
     "calories": 307,
     "proteins": 7.9,
     "fat": 3.4,
@@ -4897,6 +5441,7 @@
   },
   {
     "id": 545,
+    "kategori": "makanan",
     "calories": 355,
     "proteins": 9.2,
     "fat": 3.9,
@@ -4906,6 +5451,7 @@
   },
   {
     "id": 546,
+    "kategori": "makanan",
     "calories": 140,
     "proteins": 4.7,
     "fat": 1.3,
@@ -4915,6 +5461,7 @@
   },
   {
     "id": 547,
+    "kategori": "makanan",
     "calories": 175,
     "proteins": 1.8,
     "fat": 1.8,
@@ -4924,6 +5471,7 @@
   },
   {
     "id": 548,
+    "kategori": "makanan",
     "calories": 148.9,
     "proteins": 10.4,
     "fat": 10.4,
@@ -4933,6 +5481,7 @@
   },
   {
     "id": 549,
+    "kategori": "makanan",
     "calories": 374,
     "proteins": 9.4,
     "fat": 2.2,
@@ -4942,6 +5491,7 @@
   },
   {
     "id": 550,
+    "kategori": "bahan",
     "calories": 51,
     "proteins": 1.5,
     "fat": 1,
@@ -4951,6 +5501,7 @@
   },
   {
     "id": 551,
+    "kategori": "bahan",
     "calories": 289,
     "proteins": 11,
     "fat": 4,
@@ -4960,6 +5511,7 @@
   },
   {
     "id": 552,
+    "kategori": "makanan",
     "calories": 239,
     "proteins": 0.5,
     "fat": 0.6,
@@ -4969,6 +5521,7 @@
   },
   {
     "id": 553,
+    "kategori": "makanan",
     "calories": 286,
     "proteins": 48.5,
     "fat": 9.2,
@@ -4978,6 +5531,7 @@
   },
   {
     "id": 554,
+    "kategori": "makanan",
     "calories": 46,
     "proteins": 0.6,
     "fat": 0,
@@ -4987,6 +5541,7 @@
   },
   {
     "id": 555,
+    "kategori": "makanan",
     "calories": 49,
     "proteins": 0.9,
     "fat": 0.3,
@@ -4996,6 +5551,7 @@
   },
   {
     "id": 556,
+    "kategori": "makanan",
     "calories": 61,
     "proteins": 0.9,
     "fat": 0.3,
@@ -5005,6 +5561,7 @@
   },
   {
     "id": 557,
+    "kategori": "makanan",
     "calories": 56,
     "proteins": 0.6,
     "fat": 0.3,
@@ -5014,6 +5571,7 @@
   },
   {
     "id": 558,
+    "kategori": "makanan",
     "calories": 64,
     "proteins": 0.7,
     "fat": 0.6,
@@ -5023,6 +5581,7 @@
   },
   {
     "id": 559,
+    "kategori": "bahan",
     "calories": 350,
     "proteins": 6.2,
     "fat": 1.4,
@@ -5032,6 +5591,7 @@
   },
   {
     "id": 560,
+    "kategori": "makanan",
     "calories": 45,
     "proteins": 2.5,
     "fat": 3.9,
@@ -5041,6 +5601,7 @@
   },
   {
     "id": 561,
+    "kategori": "makanan",
     "calories": 296,
     "proteins": 9.4,
     "fat": 1.1,
@@ -5050,6 +5611,7 @@
   },
   {
     "id": 562,
+    "kategori": "makanan",
     "calories": 294,
     "proteins": 16,
     "fat": 0.9,
@@ -5059,6 +5621,7 @@
   },
   {
     "id": 563,
+    "kategori": "makanan",
     "calories": 21,
     "proteins": 3.8,
     "fat": 0.6,
@@ -5068,6 +5631,7 @@
   },
   {
     "id": 564,
+    "kategori": "makanan",
     "calories": 30,
     "proteins": 3.5,
     "fat": 0.2,
@@ -5077,6 +5641,7 @@
   },
   {
     "id": 565,
+    "kategori": "makanan",
     "calories": 48,
     "proteins": 2.8,
     "fat": 4.1,
@@ -5086,6 +5651,7 @@
   },
   {
     "id": 566,
+    "kategori": "makanan",
     "calories": 48,
     "proteins": 1.9,
     "fat": 3.2,
@@ -5095,6 +5661,7 @@
   },
   {
     "id": 567,
+    "kategori": "makanan",
     "calories": 30,
     "proteins": 1.9,
     "fat": 0.1,
@@ -5104,6 +5671,7 @@
   },
   {
     "id": 568,
+    "kategori": "makanan",
     "calories": 107,
     "proteins": 5.3,
     "fat": 2.2,
@@ -5113,6 +5681,7 @@
   },
   {
     "id": 569,
+    "kategori": "makanan",
     "calories": 31,
     "proteins": 1.2,
     "fat": 0.3,
@@ -5122,6 +5691,7 @@
   },
   {
     "id": 570,
+    "kategori": "makanan",
     "calories": 500,
     "proteins": 1.2,
     "fat": 25.1,
@@ -5131,6 +5701,7 @@
   },
   {
     "id": 571,
+    "kategori": "makanan",
     "calories": 48,
     "proteins": 2.5,
     "fat": 4.2,
@@ -5140,6 +5711,7 @@
   },
   {
     "id": 572,
+    "kategori": "bahan",
     "calories": 334,
     "proteins": 9.7,
     "fat": 3.5,
@@ -5149,6 +5721,7 @@
   },
   {
     "id": 573,
+    "kategori": "makanan",
     "calories": 381.7,
     "proteins": 9.5,
     "fat": 9.5,
@@ -5158,6 +5731,7 @@
   },
   {
     "id": 574,
+    "kategori": "makanan",
     "calories": 192,
     "proteins": 5.4,
     "fat": 0.3,
@@ -5167,6 +5741,7 @@
   },
   {
     "id": 575,
+    "kategori": "makanan",
     "calories": 48,
     "proteins": 0.6,
     "fat": 0.2,
@@ -5176,6 +5751,7 @@
   },
   {
     "id": 576,
+    "kategori": "makanan",
     "calories": 61,
     "proteins": 0.8,
     "fat": 0.2,
@@ -5185,6 +5761,7 @@
   },
   {
     "id": 577,
+    "kategori": "makanan",
     "calories": 44,
     "proteins": 0.8,
     "fat": 0.3,
@@ -5194,6 +5771,7 @@
   },
   {
     "id": 578,
+    "kategori": "makanan",
     "calories": 39,
     "proteins": 0.3,
     "fat": 0.3,
@@ -5203,6 +5781,7 @@
   },
   {
     "id": 579,
+    "kategori": "makanan",
     "calories": 45,
     "proteins": 0.9,
     "fat": 0.2,
@@ -5212,6 +5791,7 @@
   },
   {
     "id": 580,
+    "kategori": "makanan",
     "calories": 37,
     "proteins": 0.8,
     "fat": 0.1,
@@ -5221,6 +5801,7 @@
   },
   {
     "id": 581,
+    "kategori": "makanan",
     "calories": 49,
     "proteins": 0.7,
     "fat": 0.2,
@@ -5230,6 +5811,7 @@
   },
   {
     "id": 582,
+    "kategori": "bahan",
     "calories": 32,
     "proteins": 1.9,
     "fat": 0.3,
@@ -5239,6 +5821,7 @@
   },
   {
     "id": 583,
+    "kategori": "makanan",
     "calories": 15,
     "proteins": 15.2,
     "fat": 4.3,
@@ -5248,6 +5831,7 @@
   },
   {
     "id": 584,
+    "kategori": "bahan",
     "calories": 130,
     "proteins": 6.7,
     "fat": 0.3,
@@ -5257,6 +5841,7 @@
   },
   {
     "id": 585,
+    "kategori": "makanan",
     "calories": 133,
     "proteins": 1,
     "fat": 0.2,
@@ -5266,6 +5851,7 @@
   },
   {
     "id": 586,
+    "kategori": "makanan",
     "calories": 250,
     "proteins": 2.6,
     "fat": 2.5,
@@ -5275,6 +5861,7 @@
   },
   {
     "id": 587,
+    "kategori": "makanan",
     "calories": 356,
     "proteins": 20.5,
     "fat": 4.1,
@@ -5284,6 +5871,7 @@
   },
   {
     "id": 588,
+    "kategori": "makanan",
     "calories": 330,
     "proteins": 23.8,
     "fat": 1.4,
@@ -5293,6 +5881,7 @@
   },
   {
     "id": 589,
+    "kategori": "makanan",
     "calories": 533,
     "proteins": 27.8,
     "fat": 38.1,
@@ -5302,6 +5891,7 @@
   },
   {
     "id": 590,
+    "kategori": "makanan",
     "calories": 341,
     "proteins": 30.4,
     "fat": 3.2,
@@ -5311,6 +5901,7 @@
   },
   {
     "id": 591,
+    "kategori": "makanan",
     "calories": 400,
     "proteins": 34.4,
     "fat": 16.9,
@@ -5320,6 +5911,7 @@
   },
   {
     "id": 592,
+    "kategori": "makanan",
     "calories": 204,
     "proteins": 16.9,
     "fat": 8.8,
@@ -5329,6 +5921,7 @@
   },
   {
     "id": 593,
+    "kategori": "makanan",
     "calories": 212,
     "proteins": 17.5,
     "fat": 10,
@@ -5338,6 +5931,7 @@
   },
   {
     "id": 594,
+    "kategori": "makanan",
     "calories": 118,
     "proteins": 4.4,
     "fat": 1.5,
@@ -5347,6 +5941,7 @@
   },
   {
     "id": 595,
+    "kategori": "makanan",
     "calories": 479,
     "proteins": 12.7,
     "fat": 23.2,
@@ -5356,6 +5951,7 @@
   },
   {
     "id": 596,
+    "kategori": "makanan",
     "calories": 370,
     "proteins": 16,
     "fat": 6,
@@ -5365,6 +5961,7 @@
   },
   {
     "id": 597,
+    "kategori": "makanan",
     "calories": 161,
     "proteins": 7.7,
     "fat": 2.8,
@@ -5374,6 +5971,7 @@
   },
   {
     "id": 598,
+    "kategori": "makanan",
     "calories": 165,
     "proteins": 7.7,
     "fat": 3.1,
@@ -5383,6 +5981,7 @@
   },
   {
     "id": 599,
+    "kategori": "makanan",
     "calories": 331,
     "proteins": 25,
     "fat": 1,
@@ -5392,6 +5991,7 @@
   },
   {
     "id": 600,
+    "kategori": "makanan",
     "calories": 129,
     "proteins": 12.4,
     "fat": 0.7,
@@ -5401,6 +6001,7 @@
   },
   {
     "id": 601,
+    "kategori": "makanan",
     "calories": 336,
     "proteins": 23.1,
     "fat": 1.7,
@@ -5410,6 +6011,7 @@
   },
   {
     "id": 602,
+    "kategori": "makanan",
     "calories": 516,
     "proteins": 14.7,
     "fat": 31.1,
@@ -5419,6 +6021,7 @@
   },
   {
     "id": 603,
+    "kategori": "makanan",
     "calories": 336,
     "proteins": 20.7,
     "fat": 1.4,
@@ -5428,6 +6031,7 @@
   },
   {
     "id": 604,
+    "kategori": "makanan",
     "calories": 316,
     "proteins": 20.7,
     "fat": 1,
@@ -5437,6 +6041,7 @@
   },
   {
     "id": 605,
+    "kategori": "makanan",
     "calories": 114,
     "proteins": 7,
     "fat": 0.6,
@@ -5446,6 +6051,7 @@
   },
   {
     "id": 606,
+    "kategori": "makanan",
     "calories": 123,
     "proteins": 8.4,
     "fat": 0.6,
@@ -5455,6 +6061,7 @@
   },
   {
     "id": 607,
+    "kategori": "makanan",
     "calories": 147,
     "proteins": 9,
     "fat": 0.5,
@@ -5464,6 +6071,7 @@
   },
   {
     "id": 608,
+    "kategori": "makanan",
     "calories": 323,
     "proteins": 22.9,
     "fat": 1.5,
@@ -5473,6 +6081,7 @@
   },
   {
     "id": 609,
+    "kategori": "makanan",
     "calories": 109,
     "proteins": 8.7,
     "fat": 0.5,
@@ -5482,6 +6091,7 @@
   },
   {
     "id": 610,
+    "kategori": "makanan",
     "calories": 350,
     "proteins": 17.1,
     "fat": 1.8,
@@ -5491,6 +6101,7 @@
   },
   {
     "id": 611,
+    "kategori": "makanan",
     "calories": 339,
     "proteins": 20.8,
     "fat": 2.1,
@@ -5500,6 +6111,7 @@
   },
   {
     "id": 612,
+    "kategori": "makanan",
     "calories": 346,
     "proteins": 16.6,
     "fat": 1.7,
@@ -5509,6 +6121,7 @@
   },
   {
     "id": 613,
+    "kategori": "makanan",
     "calories": 345,
     "proteins": 22.2,
     "fat": 1.2,
@@ -5518,6 +6131,7 @@
   },
   {
     "id": 614,
+    "kategori": "makanan",
     "calories": 445,
     "proteins": 11,
     "fat": 11,
@@ -5527,6 +6141,7 @@
   },
   {
     "id": 615,
+    "kategori": "makanan",
     "calories": 98,
     "proteins": 6.7,
     "fat": 0.4,
@@ -5536,6 +6151,7 @@
   },
   {
     "id": 616,
+    "kategori": "makanan",
     "calories": 286,
     "proteins": 30.2,
     "fat": 15.6,
@@ -5545,6 +6161,7 @@
   },
   {
     "id": 617,
+    "kategori": "makanan",
     "calories": 521,
     "proteins": 32.2,
     "fat": 37.7,
@@ -5554,6 +6171,7 @@
   },
   {
     "id": 618,
+    "kategori": "makanan",
     "calories": 381,
     "proteins": 40.4,
     "fat": 16.7,
@@ -5563,6 +6181,7 @@
   },
   {
     "id": 619,
+    "kategori": "makanan",
     "calories": 75,
     "proteins": 4.1,
     "fat": 2.1,
@@ -5572,6 +6191,7 @@
   },
   {
     "id": 620,
+    "kategori": "makanan",
     "calories": 189,
     "proteins": 20.2,
     "fat": 8.2,
@@ -5581,6 +6201,7 @@
   },
   {
     "id": 621,
+    "kategori": "makanan",
     "calories": 286,
     "proteins": 30.2,
     "fat": 15.6,
@@ -5590,6 +6211,7 @@
   },
   {
     "id": 622,
+    "kategori": "makanan",
     "calories": 327,
     "proteins": 16.4,
     "fat": 4.3,
@@ -5599,6 +6221,7 @@
   },
   {
     "id": 623,
+    "kategori": "makanan",
     "calories": 355,
     "proteins": 17,
     "fat": 2.5,
@@ -5608,6 +6231,7 @@
   },
   {
     "id": 624,
+    "kategori": "makanan",
     "calories": 346,
     "proteins": 16.5,
     "fat": 1.5,
@@ -5617,6 +6241,7 @@
   },
   {
     "id": 625,
+    "kategori": "makanan",
     "calories": 22,
     "proteins": 1.1,
     "fat": 1,
@@ -5626,6 +6251,7 @@
   },
   {
     "id": 626,
+    "kategori": "makanan",
     "calories": 344,
     "proteins": 16.7,
     "fat": 2.1,
@@ -5635,6 +6261,7 @@
   },
   {
     "id": 627,
+    "kategori": "makanan",
     "calories": 336,
     "proteins": 23.1,
     "fat": 1.7,
@@ -5644,6 +6271,7 @@
   },
   {
     "id": 628,
+    "kategori": "makanan",
     "calories": 350,
     "proteins": 13.9,
     "fat": 3,
@@ -5653,6 +6281,7 @@
   },
   {
     "id": 629,
+    "kategori": "makanan",
     "calories": 314,
     "proteins": 22.1,
     "fat": 1.1,
@@ -5662,6 +6291,7 @@
   },
   {
     "id": 630,
+    "kategori": "makanan",
     "calories": 158,
     "proteins": 10.3,
     "fat": 0.9,
@@ -5671,6 +6301,7 @@
   },
   {
     "id": 631,
+    "kategori": "makanan",
     "calories": 171,
     "proteins": 11,
     "fat": 2.2,
@@ -5680,6 +6311,7 @@
   },
   {
     "id": 632,
+    "kategori": "makanan",
     "calories": 144,
     "proteins": 10,
     "fat": 1,
@@ -5689,6 +6321,7 @@
   },
   {
     "id": 633,
+    "kategori": "makanan",
     "calories": 280,
     "proteins": 16.7,
     "fat": 1.6,
@@ -5698,6 +6331,7 @@
   },
   {
     "id": 634,
+    "kategori": "makanan",
     "calories": 629,
     "proteins": 20.4,
     "fat": 56.3,
@@ -5707,6 +6341,7 @@
   },
   {
     "id": 635,
+    "kategori": "makanan",
     "calories": 616,
     "proteins": 16.3,
     "fat": 48.4,
@@ -5716,6 +6351,7 @@
   },
   {
     "id": 636,
+    "kategori": "makanan",
     "calories": 480,
     "proteins": 18.4,
     "fat": 19.1,
@@ -5725,6 +6361,7 @@
   },
   {
     "id": 637,
+    "kategori": "makanan",
     "calories": 44,
     "proteins": 2.7,
     "fat": 0.3,
@@ -5734,6 +6371,7 @@
   },
   {
     "id": 638,
+    "kategori": "makanan",
     "calories": 357,
     "proteins": 17.3,
     "fat": 1.5,
@@ -5743,6 +6381,7 @@
   },
   {
     "id": 639,
+    "kategori": "makanan",
     "calories": 39,
     "proteins": 3,
     "fat": 0.6,
@@ -5752,6 +6391,7 @@
   },
   {
     "id": 640,
+    "kategori": "makanan",
     "calories": 150,
     "proteins": 2.5,
     "fat": 12.5,
@@ -5761,6 +6401,7 @@
   },
   {
     "id": 641,
+    "kategori": "makanan",
     "calories": 37,
     "proteins": 3.1,
     "fat": 0.2,
@@ -5770,6 +6411,7 @@
   },
   {
     "id": 642,
+    "kategori": "makanan",
     "calories": 484,
     "proteins": 8.8,
     "fat": 26.1,
@@ -5779,6 +6421,7 @@
   },
   {
     "id": 643,
+    "kategori": "makanan",
     "calories": 488,
     "proteins": 25.6,
     "fat": 25.6,
@@ -5788,6 +6431,7 @@
   },
   {
     "id": 644,
+    "kategori": "makanan",
     "calories": 535,
     "proteins": 27.8,
     "fat": 38.1,
@@ -5797,6 +6441,7 @@
   },
   {
     "id": 645,
+    "kategori": "makanan",
     "calories": 564,
     "proteins": 25.5,
     "fat": 44.4,
@@ -5806,6 +6451,7 @@
   },
   {
     "id": 646,
+    "kategori": "minuman",
     "calories": 561,
     "proteins": 25.5,
     "fat": 43.8,
@@ -5815,6 +6461,7 @@
   },
   {
     "id": 647,
+    "kategori": "makanan",
     "calories": 525,
     "proteins": 27.9,
     "fat": 42.7,
@@ -5824,6 +6471,7 @@
   },
   {
     "id": 648,
+    "kategori": "makanan",
     "calories": 385,
     "proteins": 14,
     "fat": 31,
@@ -5833,6 +6481,7 @@
   },
   {
     "id": 649,
+    "kategori": "makanan",
     "calories": 360,
     "proteins": 13.5,
     "fat": 31.2,
@@ -5842,6 +6491,7 @@
   },
   {
     "id": 650,
+    "kategori": "makanan",
     "calories": 513,
     "proteins": 17.5,
     "fat": 32.5,
@@ -5851,6 +6501,7 @@
   },
   {
     "id": 651,
+    "kategori": "makanan",
     "calories": 569,
     "proteins": 28.8,
     "fat": 48.4,
@@ -5860,6 +6511,7 @@
   },
   {
     "id": 652,
+    "kategori": "makanan",
     "calories": 559,
     "proteins": 26.9,
     "fat": 44.2,
@@ -5869,6 +6521,7 @@
   },
   {
     "id": 653,
+    "kategori": "makanan",
     "calories": 561,
     "proteins": 25.5,
     "fat": 43.8,
@@ -5878,6 +6531,7 @@
   },
   {
     "id": 654,
+    "kategori": "makanan",
     "calories": 748,
     "proteins": 20.8,
     "fat": 20.8,
@@ -5887,6 +6541,7 @@
   },
   {
     "id": 655,
+    "kategori": "makanan",
     "calories": 331,
     "proteins": 24.4,
     "fat": 1.9,
@@ -5896,6 +6551,7 @@
   },
   {
     "id": 656,
+    "kategori": "makanan",
     "calories": 138,
     "proteins": 10.7,
     "fat": 1.1,
@@ -5905,6 +6561,7 @@
   },
   {
     "id": 657,
+    "kategori": "makanan",
     "calories": 342,
     "proteins": 22.9,
     "fat": 1.4,
@@ -5914,6 +6571,7 @@
   },
   {
     "id": 658,
+    "kategori": "makanan",
     "calories": 138,
     "proteins": 10.7,
     "fat": 1.1,
@@ -5923,6 +6581,7 @@
   },
   {
     "id": 659,
+    "kategori": "makanan",
     "calories": 451,
     "proteins": 11.2,
     "fat": 20.2,
@@ -5932,6 +6591,7 @@
   },
   {
     "id": 660,
+    "kategori": "makanan",
     "calories": 351,
     "proteins": 12.2,
     "fat": 1.2,
@@ -5941,6 +6601,7 @@
   },
   {
     "id": 661,
+    "kategori": "makanan",
     "calories": 358,
     "proteins": 23.4,
     "fat": 2.4,
@@ -5950,15 +6611,17 @@
   },
   {
     "id": 662,
+    "kategori": "makanan",
     "calories": 354,
     "proteins": 12.8,
     "fat": 1.8,
     "carbohydrate": 69.3,
     "name": "Kacang urei kering",
-    "image": "1200px-Painted_Pony_Bean.JPG (1200×900) (wikimedia.org)"
+    "image": "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/full//110/MTA-93384587/no-brand_kacang-merah-kering-1kg-_full01.jpg"
   },
   {
     "id": 663,
+    "kategori": "makanan",
     "calories": 110,
     "proteins": 4.5,
     "fat": 6.9,
@@ -5968,6 +6631,7 @@
   },
   {
     "id": 664,
+    "kategori": "makanan",
     "calories": 413,
     "proteins": 28.7,
     "fat": 19.8,
@@ -5977,6 +6641,7 @@
   },
   {
     "id": 665,
+    "kategori": "makanan",
     "calories": 92,
     "proteins": 20,
     "fat": 0.7,
@@ -5986,6 +6651,7 @@
   },
   {
     "id": 666,
+    "kategori": "bahan",
     "calories": 66,
     "proteins": 2.8,
     "fat": 6.8,
@@ -5995,6 +6661,7 @@
   },
   {
     "id": 667,
+    "kategori": "makanan",
     "calories": 163,
     "proteins": 16.5,
     "fat": 9,
@@ -6004,6 +6671,7 @@
   },
   {
     "id": 668,
+    "kategori": "makanan",
     "calories": 122,
     "proteins": 13.8,
     "fat": 5.7,
@@ -6013,6 +6681,7 @@
   },
   {
     "id": 669,
+    "kategori": "makanan",
     "calories": 157,
     "proteins": 8.1,
     "fat": 8.8,
@@ -6022,6 +6691,7 @@
   },
   {
     "id": 670,
+    "kategori": "makanan",
     "calories": 193,
     "proteins": 10.6,
     "fat": 12.4,
@@ -6031,6 +6701,7 @@
   },
   {
     "id": 671,
+    "kategori": "makanan",
     "calories": 149,
     "proteins": 16.6,
     "fat": 9.2,
@@ -6040,6 +6711,7 @@
   },
   {
     "id": 672,
+    "kategori": "makanan",
     "calories": 164,
     "proteins": 3,
     "fat": 2.4,
@@ -6049,6 +6721,7 @@
   },
   {
     "id": 673,
+    "kategori": "makanan",
     "calories": 29,
     "proteins": 3,
     "fat": 0.3,
@@ -6058,6 +6731,7 @@
   },
   {
     "id": 674,
+    "kategori": "makanan",
     "calories": 30,
     "proteins": 3.2,
     "fat": 0.7,
@@ -6067,6 +6741,7 @@
   },
   {
     "id": 675,
+    "kategori": "makanan",
     "calories": 22,
     "proteins": 2.5,
     "fat": 0.6,
@@ -6076,6 +6751,7 @@
   },
   {
     "id": 676,
+    "kategori": "makanan",
     "calories": 43,
     "proteins": 1.8,
     "fat": 0.2,
@@ -6085,6 +6761,7 @@
   },
   {
     "id": 677,
+    "kategori": "makanan",
     "calories": 52,
     "proteins": 1.8,
     "fat": 3.6,
@@ -6094,6 +6771,7 @@
   },
   {
     "id": 678,
+    "kategori": "makanan",
     "calories": 38,
     "proteins": 2.4,
     "fat": 2,
@@ -6103,6 +6781,7 @@
   },
   {
     "id": 679,
+    "kategori": "makanan",
     "calories": 42,
     "proteins": 3.3,
     "fat": 0.2,
@@ -6112,6 +6791,7 @@
   },
   {
     "id": 680,
+    "kategori": "makanan",
     "calories": 41,
     "proteins": 2,
     "fat": 0.3,
@@ -6121,6 +6801,7 @@
   },
   {
     "id": 681,
+    "kategori": "makanan",
     "calories": 158,
     "proteins": 4.4,
     "fat": 3.2,
@@ -6130,6 +6811,7 @@
   },
   {
     "id": 682,
+    "kategori": "makanan",
     "calories": 25,
     "proteins": 2.3,
     "fat": 0.2,
@@ -6139,6 +6821,7 @@
   },
   {
     "id": 683,
+    "kategori": "makanan",
     "calories": 146.7,
     "proteins": 5.9,
     "fat": 5.9,
@@ -6148,6 +6831,7 @@
   },
   {
     "id": 684,
+    "kategori": "makanan",
     "calories": 92,
     "proteins": 2.2,
     "fat": 3.3,
@@ -6157,6 +6841,7 @@
   },
   {
     "id": 685,
+    "kategori": "makanan",
     "calories": 292,
     "proteins": 11.2,
     "fat": 11.2,
@@ -6166,6 +6851,7 @@
   },
   {
     "id": 686,
+    "kategori": "makanan",
     "calories": 73,
     "proteins": 16.4,
     "fat": 0.3,
@@ -6175,6 +6861,7 @@
   },
   {
     "id": 687,
+    "kategori": "bahan",
     "calories": 275,
     "proteins": 12.6,
     "fat": 14.8,
@@ -6184,6 +6871,7 @@
   },
   {
     "id": 688,
+    "kategori": "makanan",
     "calories": 356,
     "proteins": 9,
     "fat": 8.5,
@@ -6193,6 +6881,7 @@
   },
   {
     "id": 689,
+    "kategori": "bahan",
     "calories": 120,
     "proteins": 3.5,
     "fat": 2.5,
@@ -6202,6 +6891,7 @@
   },
   {
     "id": 690,
+    "kategori": "bahan",
     "calories": 46,
     "proteins": 5.7,
     "fat": 1.3,
@@ -6211,6 +6901,7 @@
   },
   {
     "id": 691,
+    "kategori": "makanan",
     "calories": 464,
     "proteins": 1.2,
     "fat": 18.6,
@@ -6220,6 +6911,7 @@
   },
   {
     "id": 692,
+    "kategori": "makanan",
     "calories": 405,
     "proteins": 32.8,
     "fat": 17,
@@ -6229,6 +6921,7 @@
   },
   {
     "id": 693,
+    "kategori": "makanan",
     "calories": 35,
     "proteins": 2.9,
     "fat": 0.2,
@@ -6238,6 +6931,7 @@
   },
   {
     "id": 694,
+    "kategori": "makanan",
     "calories": 32,
     "proteins": 2.9,
     "fat": 0.2,
@@ -6247,6 +6941,7 @@
   },
   {
     "id": 695,
+    "kategori": "bahan",
     "calories": 34,
     "proteins": 0.9,
     "fat": 1,
@@ -6256,6 +6951,7 @@
   },
   {
     "id": 696,
+    "kategori": "makanan",
     "calories": 47,
     "proteins": 0.5,
     "fat": 0.2,
@@ -6265,6 +6961,7 @@
   },
   {
     "id": 697,
+    "kategori": "makanan",
     "calories": 326,
     "proteins": 22.8,
     "fat": 20.3,
@@ -6274,6 +6971,7 @@
   },
   {
     "id": 698,
+    "kategori": "makanan",
     "calories": 590,
     "proteins": 27,
     "fat": 49,
@@ -6283,6 +6981,7 @@
   },
   {
     "id": 699,
+    "kategori": "bahan",
     "calories": 623,
     "proteins": 2,
     "fat": 52.1,
@@ -6292,6 +6991,7 @@
   },
   {
     "id": 700,
+    "kategori": "minuman",
     "calories": 17,
     "proteins": 0.2,
     "fat": 0.1,
@@ -6301,6 +7001,7 @@
   },
   {
     "id": 701,
+    "kategori": "makanan",
     "calories": 68,
     "proteins": 1,
     "fat": 0.9,
@@ -6310,6 +7011,7 @@
   },
   {
     "id": 702,
+    "kategori": "makanan",
     "calories": 180,
     "proteins": 4,
     "fat": 15,
@@ -6319,6 +7021,7 @@
   },
   {
     "id": 703,
+    "kategori": "makanan",
     "calories": 359,
     "proteins": 3.4,
     "fat": 34.7,
@@ -6328,6 +7031,7 @@
   },
   {
     "id": 704,
+    "kategori": "makanan",
     "calories": 214,
     "proteins": 5.4,
     "fat": 5.4,
@@ -6337,6 +7041,7 @@
   },
   {
     "id": 705,
+    "kategori": "makanan",
     "calories": 111,
     "proteins": 1.5,
     "fat": 0.3,
@@ -6346,6 +7051,7 @@
   },
   {
     "id": 706,
+    "kategori": "makanan",
     "calories": 142,
     "proteins": 16.9,
     "fat": 7.8,
@@ -6355,6 +7061,7 @@
   },
   {
     "id": 707,
+    "kategori": "makanan",
     "calories": 48,
     "proteins": 1,
     "fat": 0.2,
@@ -6364,6 +7071,7 @@
   },
   {
     "id": 708,
+    "kategori": "makanan",
     "calories": 380,
     "proteins": 48.9,
     "fat": 13.8,
@@ -6373,6 +7081,7 @@
   },
   {
     "id": 709,
+    "kategori": "bahan",
     "calories": 44,
     "proteins": 1.8,
     "fat": 0.6,
@@ -6382,6 +7091,7 @@
   },
   {
     "id": 710,
+    "kategori": "bahan",
     "calories": 636,
     "proteins": 19,
     "fat": 63,
@@ -6391,6 +7101,7 @@
   },
   {
     "id": 711,
+    "kategori": "bahan",
     "calories": 657,
     "proteins": 15,
     "fat": 66,
@@ -6400,15 +7111,17 @@
   },
   {
     "id": 712,
+    "kategori": "bahan",
     "calories": 616,
     "proteins": 13.9,
     "fat": 56.2,
     "carbohydrate": 13.7,
     "name": "Kenari banda kering",
-    "image": "13_20211016_144252_0012.jpg (1024×576) (wp.com)"
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4EvPY-yF_CRus4byJ6_MnQwV62kIvRfEiZA&s"
   },
   {
     "id": 713,
+    "kategori": "makanan",
     "calories": 83,
     "proteins": 2,
     "fat": 0.1,
@@ -6418,6 +7131,7 @@
   },
   {
     "id": 714,
+    "kategori": "makanan",
     "calories": 142,
     "proteins": 0.9,
     "fat": 0.4,
@@ -6427,6 +7141,7 @@
   },
   {
     "id": 715,
+    "kategori": "makanan",
     "calories": 64,
     "proteins": 12,
     "fat": 1,
@@ -6436,6 +7151,7 @@
   },
   {
     "id": 716,
+    "kategori": "minuman",
     "calories": 204,
     "proteins": 2.6,
     "fat": 20,
@@ -6445,6 +7161,7 @@
   },
   {
     "id": 717,
+    "kategori": "makanan",
     "calories": 151,
     "proteins": 13.8,
     "fat": 3.8,
@@ -6454,6 +7171,7 @@
   },
   {
     "id": 718,
+    "kategori": "makanan",
     "calories": 59,
     "proteins": 18,
     "fat": 1.1,
@@ -6463,6 +7181,7 @@
   },
   {
     "id": 719,
+    "kategori": "makanan",
     "calories": 393,
     "proteins": 38.9,
     "fat": 13.3,
@@ -6472,6 +7191,7 @@
   },
   {
     "id": 720,
+    "kategori": "makanan",
     "calories": 357,
     "proteins": 41.1,
     "fat": 10,
@@ -6481,6 +7201,7 @@
   },
   {
     "id": 721,
+    "kategori": "makanan",
     "calories": 79,
     "proteins": 18.7,
     "fat": 0.5,
@@ -6490,6 +7211,7 @@
   },
   {
     "id": 722,
+    "kategori": "makanan",
     "calories": 475,
     "proteins": 1.6,
     "fat": 25.5,
@@ -6499,6 +7221,7 @@
   },
   {
     "id": 723,
+    "kategori": "makanan",
     "calories": 137,
     "proteins": 1.3,
     "fat": 1.1,
@@ -6508,6 +7231,7 @@
   },
   {
     "id": 724,
+    "kategori": "makanan",
     "calories": 586,
     "proteins": 4.9,
     "fat": 40.6,
@@ -6517,6 +7241,7 @@
   },
   {
     "id": 725,
+    "kategori": "makanan",
     "calories": 446,
     "proteins": 2.8,
     "fat": 14.5,
@@ -6526,6 +7251,7 @@
   },
   {
     "id": 726,
+    "kategori": "makanan",
     "calories": 448,
     "proteins": 2.7,
     "fat": 18.8,
@@ -6535,6 +7261,7 @@
   },
   {
     "id": 727,
+    "kategori": "makanan",
     "calories": 485,
     "proteins": 1.7,
     "fat": 22.2,
@@ -6544,6 +7271,7 @@
   },
   {
     "id": 728,
+    "kategori": "makanan",
     "calories": 598,
     "proteins": 8.3,
     "fat": 43.8,
@@ -6553,6 +7281,7 @@
   },
   {
     "id": 729,
+    "kategori": "makanan",
     "calories": 478,
     "proteins": 0.9,
     "fat": 20.7,
@@ -6562,6 +7291,7 @@
   },
   {
     "id": 730,
+    "kategori": "makanan",
     "calories": 481,
     "proteins": 2.2,
     "fat": 19.7,
@@ -6571,6 +7301,7 @@
   },
   {
     "id": 731,
+    "kategori": "makanan",
     "calories": 581,
     "proteins": 12.1,
     "fat": 40.6,
@@ -6580,24 +7311,27 @@
   },
   {
     "id": 732,
+    "kategori": "makanan",
     "calories": 542,
     "proteins": 40.3,
     "fat": 42.4,
     "carbohydrate": 11.6,
     "name": "Keripik tempe abadi murni",
-    "image": "8597be9ee32588c99d9ad731093cd18a (640×640) (shopee.co.id)"
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYxOZVaLVOtX4LFeEDV2iSKo8NlLT4A9nSig&s"
   },
   {
     "id": 733,
+    "kategori": "makanan",
     "calories": 510,
     "proteins": 12.3,
     "fat": 27.9,
     "carbohydrate": 52.4,
     "name": "Keripik tempe abadi sedang",
-    "image": "kripik_tempe_abadi.jpg (600×450) (bukalapak.com)"
+    "image": "https://down-id.img.susercontent.com/file/a907306909e2bc515173f00e51cfe82c"
   },
   {
     "id": 734,
+    "kategori": "makanan",
     "calories": 529,
     "proteins": 20.8,
     "fat": 31.7,
@@ -6607,6 +7341,7 @@
   },
   {
     "id": 735,
+    "kategori": "makanan",
     "calories": 486,
     "proteins": 0.2,
     "fat": 23.9,
@@ -6616,6 +7351,7 @@
   },
   {
     "id": 736,
+    "kategori": "bahan",
     "calories": 26,
     "proteins": 1.7,
     "fat": 0.4,
@@ -6625,6 +7361,7 @@
   },
   {
     "id": 737,
+    "kategori": "makanan",
     "calories": 350,
     "proteins": 0.5,
     "fat": 0.2,
@@ -6634,6 +7371,7 @@
   },
   {
     "id": 738,
+    "kategori": "makanan",
     "calories": 444,
     "proteins": 6.9,
     "fat": 14.6,
@@ -6643,6 +7381,7 @@
   },
   {
     "id": 739,
+    "kategori": "makanan",
     "calories": 342,
     "proteins": 16,
     "fat": 0.4,
@@ -6652,6 +7391,7 @@
   },
   {
     "id": 740,
+    "kategori": "makanan",
     "calories": 325,
     "proteins": 1.8,
     "fat": 0.4,
@@ -6661,6 +7401,7 @@
   },
   {
     "id": 741,
+    "kategori": "makanan",
     "calories": 504,
     "proteins": 5.6,
     "fat": 28.1,
@@ -6670,6 +7411,7 @@
   },
   {
     "id": 742,
+    "kategori": "makanan",
     "calories": 356,
     "proteins": 9.7,
     "fat": 1.1,
@@ -6679,6 +7421,7 @@
   },
   {
     "id": 743,
+    "kategori": "makanan",
     "calories": 422,
     "proteins": 83,
     "fat": 4,
@@ -6688,6 +7431,7 @@
   },
   {
     "id": 744,
+    "kategori": "makanan",
     "calories": 345,
     "proteins": 12,
     "fat": 1.5,
@@ -6697,6 +7441,7 @@
   },
   {
     "id": 745,
+    "kategori": "makanan",
     "calories": 431,
     "proteins": 11.1,
     "fat": 16.2,
@@ -6706,6 +7451,7 @@
   },
   {
     "id": 746,
+    "kategori": "makanan",
     "calories": 439,
     "proteins": 10,
     "fat": 16.4,
@@ -6715,6 +7461,7 @@
   },
   {
     "id": 747,
+    "kategori": "makanan",
     "calories": 485,
     "proteins": 11.5,
     "fat": 24.5,
@@ -6724,6 +7471,7 @@
   },
   {
     "id": 748,
+    "kategori": "makanan",
     "calories": 476,
     "proteins": 0.1,
     "fat": 21.1,
@@ -6733,6 +7481,7 @@
   },
   {
     "id": 749,
+    "kategori": "makanan",
     "calories": 46.7,
     "proteins": 17.3,
     "fat": 17.3,
@@ -6742,6 +7491,7 @@
   },
   {
     "id": 750,
+    "kategori": "makanan",
     "calories": 340,
     "proteins": 30,
     "fat": 30,
@@ -6751,6 +7501,7 @@
   },
   {
     "id": 751,
+    "kategori": "makanan",
     "calories": 359,
     "proteins": 17.2,
     "fat": 68.2,
@@ -6760,6 +7511,7 @@
   },
   {
     "id": 752,
+    "kategori": "makanan",
     "calories": 477,
     "proteins": 4.7,
     "fat": 20.5,
@@ -6769,6 +7521,7 @@
   },
   {
     "id": 753,
+    "kategori": "makanan",
     "calories": 588,
     "proteins": 53.7,
     "fat": 40.9,
@@ -6778,6 +7531,7 @@
   },
   {
     "id": 754,
+    "kategori": "makanan",
     "calories": 78,
     "proteins": 0.8,
     "fat": 0.4,
@@ -6787,6 +7541,7 @@
   },
   {
     "id": 755,
+    "kategori": "makanan",
     "calories": 181,
     "proteins": 4,
     "fat": 1.2,
@@ -6796,6 +7551,7 @@
   },
   {
     "id": 756,
+    "kategori": "makanan",
     "calories": 163,
     "proteins": 3,
     "fat": 0.4,
@@ -6805,6 +7561,7 @@
   },
   {
     "id": 757,
+    "kategori": "makanan",
     "calories": 340,
     "proteins": 11,
     "fat": 11,
@@ -6814,6 +7571,7 @@
   },
   {
     "id": 758,
+    "kategori": "makanan",
     "calories": 157,
     "proteins": 0.8,
     "fat": 0.3,
@@ -6823,6 +7581,7 @@
   },
   {
     "id": 759,
+    "kategori": "makanan",
     "calories": 154,
     "proteins": 1,
     "fat": 0.3,
@@ -6832,6 +7591,7 @@
   },
   {
     "id": 760,
+    "kategori": "makanan",
     "calories": 153,
     "proteins": 1.2,
     "fat": 0.3,
@@ -6841,6 +7601,7 @@
   },
   {
     "id": 761,
+    "kategori": "makanan",
     "calories": 12,
     "proteins": 0.7,
     "fat": 0.1,
@@ -6850,6 +7611,7 @@
   },
   {
     "id": 762,
+    "kategori": "makanan",
     "calories": 9,
     "proteins": 0.5,
     "fat": 0.1,
@@ -6859,6 +7621,7 @@
   },
   {
     "id": 763,
+    "kategori": "makanan",
     "calories": 153,
     "proteins": 7.9,
     "fat": 7.7,
@@ -6868,6 +7631,7 @@
   },
   {
     "id": 764,
+    "kategori": "bahan",
     "calories": 404,
     "proteins": 14.1,
     "fat": 16.1,
@@ -6877,6 +7641,7 @@
   },
   {
     "id": 765,
+    "kategori": "makanan",
     "calories": 212,
     "proteins": 4,
     "fat": 4.6,
@@ -6886,6 +7651,7 @@
   },
   {
     "id": 766,
+    "kategori": "makanan",
     "calories": 109.6,
     "proteins": 2.6,
     "fat": 2.6,
@@ -6895,6 +7661,7 @@
   },
   {
     "id": 767,
+    "kategori": "bahan",
     "calories": 310,
     "proteins": 10,
     "fat": 24,
@@ -6904,6 +7671,7 @@
   },
   {
     "id": 768,
+    "kategori": "makanan",
     "calories": 73,
     "proteins": 16.4,
     "fat": 0.3,
@@ -6913,6 +7681,7 @@
   },
   {
     "id": 769,
+    "kategori": "makanan",
     "calories": 86,
     "proteins": 1.6,
     "fat": 0.2,
@@ -6922,6 +7691,7 @@
   },
   {
     "id": 770,
+    "kategori": "makanan",
     "calories": 99,
     "proteins": 3.3,
     "fat": 0.1,
@@ -6931,6 +7701,7 @@
   },
   {
     "id": 771,
+    "kategori": "makanan",
     "calories": 25,
     "proteins": 2.4,
     "fat": 0.2,
@@ -6940,6 +7711,7 @@
   },
   {
     "id": 772,
+    "kategori": "makanan",
     "calories": 24,
     "proteins": 1.4,
     "fat": 0.2,
@@ -6949,6 +7721,7 @@
   },
   {
     "id": 773,
+    "kategori": "minuman",
     "calories": 352,
     "proteins": 17.4,
     "fat": 1.3,
@@ -6958,6 +7731,7 @@
   },
   {
     "id": 774,
+    "kategori": "bahan",
     "calories": 129,
     "proteins": 12.3,
     "fat": 0.5,
@@ -6967,15 +7741,17 @@
   },
   {
     "id": 775,
+    "kategori": "bahan",
     "calories": 356,
     "proteins": 20.5,
     "fat": 4.1,
     "carbohydrate": 61.6,
     "name": "Koro andong kering",
-    "image": "AF079.jpg (360×360) (andrafarm.co.id)"
+    "image": "https://m.andrafarm.com/_andra_farm/gambar_kelompok/a136.jpg"
   },
   {
     "id": 776,
+    "kategori": "bahan",
     "calories": 332,
     "proteins": 24,
     "fat": 3,
@@ -6985,6 +7761,7 @@
   },
   {
     "id": 777,
+    "kategori": "bahan",
     "calories": 141,
     "proteins": 10.2,
     "fat": 1.3,
@@ -6994,6 +7771,7 @@
   },
   {
     "id": 778,
+    "kategori": "bahan",
     "calories": 125,
     "proteins": 8.3,
     "fat": 0.7,
@@ -7003,6 +7781,7 @@
   },
   {
     "id": 779,
+    "kategori": "bahan",
     "calories": 33,
     "proteins": 2.7,
     "fat": 0.2,
@@ -7012,6 +7791,7 @@
   },
   {
     "id": 780,
+    "kategori": "bahan",
     "calories": 344,
     "proteins": 12.5,
     "fat": 2.1,
@@ -7021,6 +7801,7 @@
   },
   {
     "id": 781,
+    "kategori": "bahan",
     "calories": 338,
     "proteins": 22.2,
     "fat": 1.5,
@@ -7030,6 +7811,7 @@
   },
   {
     "id": 782,
+    "kategori": "bahan",
     "calories": 38,
     "proteins": 3,
     "fat": 0.3,
@@ -7039,6 +7821,7 @@
   },
   {
     "id": 783,
+    "kategori": "bahan",
     "calories": 46,
     "proteins": 3,
     "fat": 0.3,
@@ -7048,6 +7831,7 @@
   },
   {
     "id": 784,
+    "kategori": "makanan",
     "calories": 46,
     "proteins": 2.2,
     "fat": 1.5,
@@ -7057,6 +7841,7 @@
   },
   {
     "id": 785,
+    "kategori": "makanan",
     "calories": 366,
     "proteins": 4.2,
     "fat": 4.3,
@@ -7066,6 +7851,7 @@
   },
   {
     "id": 786,
+    "kategori": "makanan",
     "calories": 370,
     "proteins": 8,
     "fat": 1,
@@ -7075,6 +7861,7 @@
   },
   {
     "id": 787,
+    "kategori": "bahan",
     "calories": 315,
     "proteins": 2.1,
     "fat": 1.4,
@@ -7084,6 +7871,7 @@
   },
   {
     "id": 788,
+    "kategori": "makanan",
     "calories": 542,
     "proteins": 40.3,
     "fat": 42.4,
@@ -7093,6 +7881,7 @@
   },
   {
     "id": 789,
+    "kategori": "bahan",
     "calories": 21,
     "proteins": 1.7,
     "fat": 0.4,
@@ -7102,6 +7891,7 @@
   },
   {
     "id": 790,
+    "kategori": "bahan",
     "calories": 45,
     "proteins": 2.2,
     "fat": 0.3,
@@ -7111,6 +7901,7 @@
   },
   {
     "id": 791,
+    "kategori": "bahan",
     "calories": 42,
     "proteins": 3.8,
     "fat": 0.6,
@@ -7120,6 +7911,7 @@
   },
   {
     "id": 792,
+    "kategori": "makanan",
     "calories": 113,
     "proteins": 18.1,
     "fat": 4.1,
@@ -7129,6 +7921,7 @@
   },
   {
     "id": 793,
+    "kategori": "makanan",
     "calories": 440,
     "proteins": 3.8,
     "fat": 18.5,
@@ -7138,6 +7931,7 @@
   },
   {
     "id": 794,
+    "kategori": "makanan",
     "calories": 186.7,
     "proteins": 1.6,
     "fat": 1.6,
@@ -7147,6 +7941,7 @@
   },
   {
     "id": 795,
+    "kategori": "makanan",
     "calories": 338,
     "proteins": 1.5,
     "fat": 1.2,
@@ -7156,6 +7951,7 @@
   },
   {
     "id": 796,
+    "kategori": "makanan",
     "calories": 240,
     "proteins": 1,
     "fat": 4,
@@ -7165,6 +7961,7 @@
   },
   {
     "id": 797,
+    "kategori": "makanan",
     "calories": 425,
     "proteins": 1.6,
     "fat": 8.8,
@@ -7174,6 +7971,7 @@
   },
   {
     "id": 798,
+    "kategori": "makanan",
     "calories": 591,
     "proteins": 5.6,
     "fat": 42.1,
@@ -7183,6 +7981,7 @@
   },
   {
     "id": 799,
+    "kategori": "makanan",
     "calories": 366,
     "proteins": 4.2,
     "fat": 4.3,
@@ -7192,6 +7991,7 @@
   },
   {
     "id": 800,
+    "kategori": "makanan",
     "calories": 291,
     "proteins": 3.6,
     "fat": 11.1,
@@ -7201,6 +8001,7 @@
   },
   {
     "id": 801,
+    "kategori": "makanan",
     "calories": 182,
     "proteins": 1,
     "fat": 1,
@@ -7210,6 +8011,7 @@
   },
   {
     "id": 802,
+    "kategori": "makanan",
     "calories": 126.7,
     "proteins": 0.7,
     "fat": 0.7,
@@ -7219,6 +8021,7 @@
   },
   {
     "id": 803,
+    "kategori": "makanan",
     "calories": 296,
     "proteins": 1.4,
     "fat": 1.4,
@@ -7228,6 +8031,7 @@
   },
   {
     "id": 804,
+    "kategori": "makanan",
     "calories": 304,
     "proteins": 5.3,
     "fat": 7,
@@ -7237,6 +8041,7 @@
   },
   {
     "id": 805,
+    "kategori": "makanan",
     "calories": 217,
     "proteins": 1.2,
     "fat": 0.5,
@@ -7246,6 +8051,7 @@
   },
   {
     "id": 806,
+    "kategori": "makanan",
     "calories": 393.3,
     "proteins": 2.7,
     "fat": 2.7,
@@ -7255,6 +8061,7 @@
   },
   {
     "id": 807,
+    "kategori": "makanan",
     "calories": 380,
     "proteins": 1,
     "fat": 1,
@@ -7264,6 +8071,7 @@
   },
   {
     "id": 808,
+    "kategori": "makanan",
     "calories": 221,
     "proteins": 7.5,
     "fat": 10.2,
@@ -7273,6 +8081,7 @@
   },
   {
     "id": 809,
+    "kategori": "makanan",
     "calories": 180,
     "proteins": 5,
     "fat": 5,
@@ -7282,6 +8091,7 @@
   },
   {
     "id": 810,
+    "kategori": "makanan",
     "calories": 512,
     "proteins": 26,
     "fat": 26,
@@ -7291,6 +8101,7 @@
   },
   {
     "id": 811,
+    "kategori": "makanan",
     "calories": 247,
     "proteins": 2.9,
     "fat": 4.2,
@@ -7300,6 +8111,7 @@
   },
   {
     "id": 812,
+    "kategori": "bahan",
     "calories": 111,
     "proteins": 4.5,
     "fat": 1.1,
@@ -7309,6 +8121,7 @@
   },
   {
     "id": 813,
+    "kategori": "bahan",
     "calories": 22,
     "proteins": 0.4,
     "fat": 0.2,
@@ -7318,6 +8131,7 @@
   },
   {
     "id": 814,
+    "kategori": "bahan",
     "calories": 63,
     "proteins": 2,
     "fat": 2.7,
@@ -7327,6 +8141,7 @@
   },
   {
     "id": 815,
+    "kategori": "makanan",
     "calories": 83,
     "proteins": 19.1,
     "fat": 0.2,
@@ -7336,6 +8151,7 @@
   },
   {
     "id": 816,
+    "kategori": "makanan",
     "calories": 515,
     "proteins": 30.6,
     "fat": 42.1,
@@ -7345,6 +8161,7 @@
   },
   {
     "id": 817,
+    "kategori": "bahan",
     "calories": 242,
     "proteins": 19,
     "fat": 17,
@@ -7354,6 +8171,7 @@
   },
   {
     "id": 818,
+    "kategori": "makanan",
     "calories": 17,
     "proteins": 0.6,
     "fat": 0.2,
@@ -7363,6 +8181,7 @@
   },
   {
     "id": 819,
+    "kategori": "makanan",
     "calories": 51,
     "proteins": 1.7,
     "fat": 0.5,
@@ -7372,6 +8191,7 @@
   },
   {
     "id": 820,
+    "kategori": "makanan",
     "calories": 26,
     "proteins": 0.6,
     "fat": 0.1,
@@ -7381,6 +8201,7 @@
   },
   {
     "id": 821,
+    "kategori": "makanan",
     "calories": 32,
     "proteins": 1.1,
     "fat": 0.1,
@@ -7390,6 +8211,7 @@
   },
   {
     "id": 822,
+    "kategori": "makanan",
     "calories": 166.3,
     "proteins": 2.7,
     "fat": 3.9,
@@ -7399,6 +8221,7 @@
   },
   {
     "id": 823,
+    "kategori": "makanan",
     "calories": 85,
     "proteins": 5.7,
     "fat": 0.3,
@@ -7408,6 +8231,7 @@
   },
   {
     "id": 824,
+    "kategori": "bahan",
     "calories": 148,
     "proteins": 10.6,
     "fat": 0.5,
@@ -7417,6 +8241,7 @@
   },
   {
     "id": 825,
+    "kategori": "bahan",
     "calories": 142,
     "proteins": 11,
     "fat": 2.5,
@@ -7426,6 +8251,7 @@
   },
   {
     "id": 826,
+    "kategori": "bahan",
     "calories": 367,
     "proteins": 46.4,
     "fat": 5.4,
@@ -7435,6 +8261,7 @@
   },
   {
     "id": 827,
+    "kategori": "bahan",
     "calories": 336,
     "proteins": 23.8,
     "fat": 1.2,
@@ -7444,6 +8271,7 @@
   },
   {
     "id": 828,
+    "kategori": "makanan",
     "calories": 56,
     "proteins": 0.9,
     "fat": 0.2,
@@ -7453,6 +8281,7 @@
   },
   {
     "id": 829,
+    "kategori": "makanan",
     "calories": 34,
     "proteins": 2.2,
     "fat": 0.3,
@@ -7462,6 +8291,7 @@
   },
   {
     "id": 830,
+    "kategori": "makanan",
     "calories": 422,
     "proteins": 0.9,
     "fat": 10.8,
@@ -7471,6 +8301,7 @@
   },
   {
     "id": 831,
+    "kategori": "makanan",
     "calories": 389,
     "proteins": 6.6,
     "fat": 15.7,
@@ -7480,6 +8311,7 @@
   },
   {
     "id": 832,
+    "kategori": "makanan",
     "calories": 174,
     "proteins": 17,
     "fat": 10,
@@ -7489,6 +8321,7 @@
   },
   {
     "id": 833,
+    "kategori": "makanan",
     "calories": 141,
     "proteins": 23,
     "fat": 1.5,
@@ -7498,6 +8331,7 @@
   },
   {
     "id": 834,
+    "kategori": "makanan",
     "calories": 159,
     "proteins": 5,
     "fat": 10.9,
@@ -7507,6 +8341,7 @@
   },
   {
     "id": 835,
+    "kategori": "makanan",
     "calories": 207,
     "proteins": 7.4,
     "fat": 15.4,
@@ -7516,6 +8351,7 @@
   },
   {
     "id": 836,
+    "kategori": "makanan",
     "calories": 405,
     "proteins": 4.8,
     "fat": 5.1,
@@ -7525,6 +8361,7 @@
   },
   {
     "id": 837,
+    "kategori": "makanan",
     "calories": 15,
     "proteins": 1,
     "fat": 0.4,
@@ -7534,6 +8371,7 @@
   },
   {
     "id": 838,
+    "kategori": "makanan",
     "calories": 902,
     "proteins": 0,
     "fat": 100,
@@ -7543,6 +8381,7 @@
   },
   {
     "id": 839,
+    "kategori": "makanan",
     "calories": 630,
     "proteins": 9.1,
     "fat": 65,
@@ -7552,6 +8391,7 @@
   },
   {
     "id": 840,
+    "kategori": "makanan",
     "calories": 372,
     "proteins": 12,
     "fat": 29.4,
@@ -7561,6 +8401,7 @@
   },
   {
     "id": 841,
+    "kategori": "makanan",
     "calories": 818,
     "proteins": 1.5,
     "fat": 90,
@@ -7570,6 +8411,7 @@
   },
   {
     "id": 842,
+    "kategori": "makanan",
     "calories": 34,
     "proteins": 0.5,
     "fat": 0.8,
@@ -7579,15 +8421,17 @@
   },
   {
     "id": 843,
+    "kategori": "minuman",
     "calories": 36,
     "proteins": 0,
     "fat": 0,
     "carbohydrate": 10,
-    "name": "Lemon Squasih",
+    "name": "Lemon Squash",
     "image": "https://i0.wp.com/blog.duniamasak.com/wp-content/uploads/Manfaat-dari-Citrus-Squash.jpg?fit=900%2C520&ssl=1"
   },
   {
     "id": 844,
+    "kategori": "minuman",
     "calories": 30,
     "proteins": 0,
     "fat": 0,
@@ -7597,6 +8441,7 @@
   },
   {
     "id": 845,
+    "kategori": "makanan",
     "calories": 221.3,
     "proteins": 3.8,
     "fat": 3.6,
@@ -7606,6 +8451,7 @@
   },
   {
     "id": 846,
+    "kategori": "makanan",
     "calories": 320,
     "proteins": 3.5,
     "fat": 5.7,
@@ -7615,6 +8461,7 @@
   },
   {
     "id": 847,
+    "kategori": "makanan",
     "calories": 181,
     "proteins": 2.8,
     "fat": 1.2,
@@ -7624,6 +8471,7 @@
   },
   {
     "id": 848,
+    "kategori": "makanan",
     "calories": 33,
     "proteins": 1.9,
     "fat": 0.1,
@@ -7633,6 +8481,7 @@
   },
   {
     "id": 849,
+    "kategori": "makanan",
     "calories": 240,
     "proteins": 7.8,
     "fat": 0.5,
@@ -7642,6 +8491,7 @@
   },
   {
     "id": 850,
+    "kategori": "makanan",
     "calories": 387,
     "proteins": 16,
     "fat": 22,
@@ -7651,6 +8501,7 @@
   },
   {
     "id": 851,
+    "kategori": "makanan",
     "calories": 79,
     "proteins": 2.3,
     "fat": 5.2,
@@ -7660,6 +8511,7 @@
   },
   {
     "id": 852,
+    "kategori": "makanan",
     "calories": 19,
     "proteins": 0.9,
     "fat": 0.1,
@@ -7669,6 +8521,7 @@
   },
   {
     "id": 853,
+    "kategori": "makanan",
     "calories": 217,
     "proteins": 11,
     "fat": 1.7,
@@ -7678,6 +8531,7 @@
   },
   {
     "id": 854,
+    "kategori": "makanan",
     "calories": 27,
     "proteins": 0.4,
     "fat": 0.2,
@@ -7687,6 +8541,7 @@
   },
   {
     "id": 855,
+    "kategori": "makanan",
     "calories": 163.3,
     "proteins": 2.8,
     "fat": 2.2,
@@ -7696,6 +8551,7 @@
   },
   {
     "id": 856,
+    "kategori": "makanan",
     "calories": 38,
     "proteins": 1.1,
     "fat": 0.3,
@@ -7705,6 +8561,7 @@
   },
   {
     "id": 857,
+    "kategori": "makanan",
     "calories": 164,
     "proteins": 1.8,
     "fat": 2.1,
@@ -7714,6 +8571,7 @@
   },
   {
     "id": 858,
+    "kategori": "bahan",
     "calories": 294,
     "proteins": 0.3,
     "fat": 0,
@@ -7723,6 +8581,7 @@
   },
   {
     "id": 859,
+    "kategori": "bahan",
     "calories": 341,
     "proteins": 0.3,
     "fat": 0,
@@ -7732,6 +8591,7 @@
   },
   {
     "id": 860,
+    "kategori": "makanan",
     "calories": 363,
     "proteins": 8.7,
     "fat": 0.4,
@@ -7741,6 +8601,7 @@
   },
   {
     "id": 861,
+    "kategori": "makanan",
     "calories": 63,
     "proteins": 2.4,
     "fat": 0.4,
@@ -7750,6 +8611,7 @@
   },
   {
     "id": 862,
+    "kategori": "makanan",
     "calories": 44,
     "proteins": 0.7,
     "fat": 0.2,
@@ -7759,6 +8621,7 @@
   },
   {
     "id": 863,
+    "kategori": "makanan",
     "calories": 63,
     "proteins": 0.5,
     "fat": 0.2,
@@ -7768,6 +8631,7 @@
   },
   {
     "id": 864,
+    "kategori": "makanan",
     "calories": 46,
     "proteins": 0.4,
     "fat": 0.2,
@@ -7777,6 +8641,7 @@
   },
   {
     "id": 865,
+    "kategori": "makanan",
     "calories": 72,
     "proteins": 0.8,
     "fat": 0.2,
@@ -7786,6 +8651,7 @@
   },
   {
     "id": 866,
+    "kategori": "makanan",
     "calories": 56,
     "proteins": 0.4,
     "fat": 0.2,
@@ -7795,6 +8661,7 @@
   },
   {
     "id": 867,
+    "kategori": "makanan",
     "calories": 86,
     "proteins": 0.7,
     "fat": 0.5,
@@ -7804,6 +8671,7 @@
   },
   {
     "id": 868,
+    "kategori": "makanan",
     "calories": 133,
     "proteins": 1,
     "fat": 0.1,
@@ -7813,6 +8681,7 @@
   },
   {
     "id": 869,
+    "kategori": "makanan",
     "calories": 59,
     "proteins": 0.5,
     "fat": 0.4,
@@ -7822,6 +8691,7 @@
   },
   {
     "id": 870,
+    "kategori": "makanan",
     "calories": 52,
     "proteins": 0.7,
     "fat": 0,
@@ -7831,6 +8701,7 @@
   },
   {
     "id": 871,
+    "kategori": "makanan",
     "calories": 63,
     "proteins": 0.6,
     "fat": 0.6,
@@ -7840,6 +8711,7 @@
   },
   {
     "id": 872,
+    "kategori": "bahan",
     "calories": 720,
     "proteins": 0.6,
     "fat": 81,
@@ -7849,6 +8721,7 @@
   },
   {
     "id": 873,
+    "kategori": "makanan",
     "calories": 144,
     "proteins": 3.5,
     "fat": 1.2,
@@ -7858,6 +8731,7 @@
   },
   {
     "id": 874,
+    "kategori": "minuman",
     "calories": 217,
     "proteins": 2.5,
     "fat": 1,
@@ -7867,6 +8741,7 @@
   },
   {
     "id": 875,
+    "kategori": "minuman",
     "calories": 104,
     "proteins": 1.2,
     "fat": 0.5,
@@ -7876,15 +8751,17 @@
   },
   {
     "id": 876,
+    "kategori": "makanan",
     "calories": 265.3,
     "proteins": 4.7,
     "fat": 5.5,
     "carbohydrate": 49.3,
-    "name": "Martabak  manis",
+    "name": "Martabak manis",
     "image": "https://tasteofnusa.com/wp-content/uploads/2022/03/martabak-manis-12-720x720.jpg"
   },
   {
     "id": 877,
+    "kategori": "makanan",
     "calories": 153,
     "proteins": 4.5,
     "fat": 4.2,
@@ -7894,6 +8771,7 @@
   },
   {
     "id": 878,
+    "kategori": "makanan",
     "calories": 278,
     "proteins": 5.1,
     "fat": 8.6,
@@ -7903,6 +8781,7 @@
   },
   {
     "id": 879,
+    "kategori": "makanan",
     "calories": 200,
     "proteins": 8.9,
     "fat": 5.1,
@@ -7912,6 +8791,7 @@
   },
   {
     "id": 880,
+    "kategori": "makanan",
     "calories": 369,
     "proteins": 2.1,
     "fat": 7,
@@ -7921,6 +8801,7 @@
   },
   {
     "id": 881,
+    "kategori": "makanan",
     "calories": 90,
     "proteins": 1.2,
     "fat": 0.1,
@@ -7930,6 +8811,7 @@
   },
   {
     "id": 882,
+    "kategori": "bahan",
     "calories": 276,
     "proteins": 0,
     "fat": 0.1,
@@ -7939,6 +8821,7 @@
   },
   {
     "id": 883,
+    "kategori": "bahan",
     "calories": 66,
     "proteins": 5,
     "fat": 0.7,
@@ -7948,6 +8831,7 @@
   },
   {
     "id": 884,
+    "kategori": "makanan",
     "calories": 37,
     "proteins": 0.6,
     "fat": 0.4,
@@ -7957,6 +8841,7 @@
   },
   {
     "id": 885,
+    "kategori": "makanan",
     "calories": 322,
     "proteins": 55.8,
     "fat": 2,
@@ -7966,6 +8851,7 @@
   },
   {
     "id": 886,
+    "kategori": "bahan",
     "calories": 725,
     "proteins": 0.5,
     "fat": 81.6,
@@ -7975,6 +8861,7 @@
   },
   {
     "id": 887,
+    "kategori": "makanan",
     "calories": 65,
     "proteins": 1.7,
     "fat": 0.2,
@@ -7984,6 +8871,7 @@
   },
   {
     "id": 888,
+    "kategori": "bahan",
     "calories": 359,
     "proteins": 11.5,
     "fat": 6.8,
@@ -7993,6 +8881,7 @@
   },
   {
     "id": 889,
+    "kategori": "makanan",
     "calories": 88,
     "proteins": 0.6,
     "fat": 3.3,
@@ -8002,6 +8891,7 @@
   },
   {
     "id": 890,
+    "kategori": "makanan",
     "calories": 71,
     "proteins": 0.2,
     "fat": 0.8,
@@ -8011,6 +8901,7 @@
   },
   {
     "id": 891,
+    "kategori": "makanan",
     "calories": 339,
     "proteins": 10,
     "fat": 1.7,
@@ -8020,6 +8911,7 @@
   },
   {
     "id": 892,
+    "kategori": "makanan",
     "calories": 113,
     "proteins": 3,
     "fat": 3.2,
@@ -8029,6 +8921,7 @@
   },
   {
     "id": 893,
+    "kategori": "makanan",
     "calories": 102,
     "proteins": 6.2,
     "fat": 3.9,
@@ -8038,6 +8931,7 @@
   },
   {
     "id": 894,
+    "kategori": "makanan",
     "calories": 114,
     "proteins": 5.3,
     "fat": 3,
@@ -8047,6 +8941,7 @@
   },
   {
     "id": 895,
+    "kategori": "makanan",
     "calories": 86,
     "proteins": 0.6,
     "fat": 3.3,
@@ -8056,6 +8951,7 @@
   },
   {
     "id": 896,
+    "kategori": "makanan",
     "calories": 353,
     "proteins": 0.3,
     "fat": 0,
@@ -8065,6 +8961,7 @@
   },
   {
     "id": 897,
+    "kategori": "makanan",
     "calories": 102,
     "proteins": 3,
     "fat": 2.1,
@@ -8074,6 +8971,7 @@
   },
   {
     "id": 898,
+    "kategori": "makanan",
     "calories": 468,
     "proteins": 7.6,
     "fat": 20.4,
@@ -8083,6 +8981,7 @@
   },
   {
     "id": 899,
+    "kategori": "makanan",
     "calories": 337,
     "proteins": 7.9,
     "fat": 11.8,
@@ -8092,6 +8991,7 @@
   },
   {
     "id": 900,
+    "kategori": "makanan",
     "calories": 105,
     "proteins": 5.9,
     "fat": 4.9,
@@ -8101,6 +9001,7 @@
   },
   {
     "id": 901,
+    "kategori": "makanan",
     "calories": 190,
     "proteins": 0.2,
     "fat": 0.4,
@@ -8110,6 +9011,7 @@
   },
   {
     "id": 902,
+    "kategori": "bahan",
     "calories": 902,
     "proteins": 0,
     "fat": 100,
@@ -8119,6 +9021,7 @@
   },
   {
     "id": 903,
+    "kategori": "bahan",
     "calories": 902,
     "proteins": 0,
     "fat": 100,
@@ -8128,6 +9031,7 @@
   },
   {
     "id": 904,
+    "kategori": "bahan",
     "calories": 902,
     "proteins": 0,
     "fat": 100,
@@ -8137,6 +9041,7 @@
   },
   {
     "id": 905,
+    "kategori": "bahan",
     "calories": 883,
     "proteins": 0,
     "fat": 99.9,
@@ -8146,6 +9051,7 @@
   },
   {
     "id": 906,
+    "kategori": "bahan",
     "calories": 870,
     "proteins": 1,
     "fat": 98,
@@ -8155,6 +9061,7 @@
   },
   {
     "id": 907,
+    "kategori": "bahan",
     "calories": 902,
     "proteins": 0,
     "fat": 100,
@@ -8164,6 +9071,7 @@
   },
   {
     "id": 908,
+    "kategori": "bahan",
     "calories": 902,
     "proteins": 0,
     "fat": 100,
@@ -8173,6 +9081,7 @@
   },
   {
     "id": 909,
+    "kategori": "bahan",
     "calories": 884,
     "proteins": 0,
     "fat": 100,
@@ -8182,6 +9091,7 @@
   },
   {
     "id": 910,
+    "kategori": "makanan",
     "calories": 345,
     "proteins": 8.5,
     "fat": 2.2,
@@ -8191,6 +9101,7 @@
   },
   {
     "id": 911,
+    "kategori": "makanan",
     "calories": 218,
     "proteins": 0.8,
     "fat": 16,
@@ -8200,6 +9111,7 @@
   },
   {
     "id": 912,
+    "kategori": "makanan",
     "calories": 128,
     "proteins": 8,
     "fat": 10,
@@ -8209,6 +9121,7 @@
   },
   {
     "id": 913,
+    "kategori": "makanan",
     "calories": 33,
     "proteins": 2.3,
     "fat": 0.5,
@@ -8218,6 +9131,7 @@
   },
   {
     "id": 914,
+    "kategori": "makanan",
     "calories": 330,
     "proteins": 17.8,
     "fat": 23.4,
@@ -8227,6 +9141,7 @@
   },
   {
     "id": 915,
+    "kategori": "makanan",
     "calories": 478,
     "proteins": 38.3,
     "fat": 33.9,
@@ -8236,6 +9151,7 @@
   },
   {
     "id": 916,
+    "kategori": "makanan",
     "calories": 52,
     "proteins": 0.4,
     "fat": 0.2,
@@ -8245,6 +9161,7 @@
   },
   {
     "id": 917,
+    "kategori": "makanan",
     "calories": 58,
     "proteins": 0.7,
     "fat": 0.2,
@@ -8254,6 +9171,7 @@
   },
   {
     "id": 918,
+    "kategori": "makanan",
     "calories": 165,
     "proteins": 4.2,
     "fat": 0.1,
@@ -8263,6 +9181,7 @@
   },
   {
     "id": 919,
+    "kategori": "makanan",
     "calories": 106,
     "proteins": 1.2,
     "fat": 0.3,
@@ -8272,6 +9191,7 @@
   },
   {
     "id": 920,
+    "kategori": "makanan",
     "calories": 51,
     "proteins": 2,
     "fat": 0.4,
@@ -8281,6 +9201,7 @@
   },
   {
     "id": 921,
+    "kategori": "makanan",
     "calories": 180,
     "proteins": 3,
     "fat": 0.3,
@@ -8290,6 +9211,7 @@
   },
   {
     "id": 922,
+    "kategori": "makanan",
     "calories": 149,
     "proteins": 2.8,
     "fat": 0.4,
@@ -8299,6 +9221,7 @@
   },
   {
     "id": 923,
+    "kategori": "makanan",
     "calories": 192,
     "proteins": 3.8,
     "fat": 8.8,
@@ -8308,6 +9231,7 @@
   },
   {
     "id": 924,
+    "kategori": "makanan",
     "calories": 276,
     "proteins": 3.2,
     "fat": 3.2,
@@ -8317,6 +9241,7 @@
   },
   {
     "id": 925,
+    "kategori": "makanan",
     "calories": 190,
     "proteins": 4.7,
     "fat": 7.5,
@@ -8326,6 +9251,7 @@
   },
   {
     "id": 926,
+    "kategori": "makanan",
     "calories": 357,
     "proteins": 8.8,
     "fat": 0.5,
@@ -8335,6 +9261,7 @@
   },
   {
     "id": 927,
+    "kategori": "makanan",
     "calories": 207,
     "proteins": 3.5,
     "fat": 5,
@@ -8344,6 +9271,7 @@
   },
   {
     "id": 928,
+    "kategori": "makanan",
     "calories": 155,
     "proteins": 10.3,
     "fat": 4.2,
@@ -8353,6 +9281,7 @@
   },
   {
     "id": 929,
+    "kategori": "makanan",
     "calories": 120,
     "proteins": 2.4,
     "fat": 0.4,
@@ -8362,6 +9291,7 @@
   },
   {
     "id": 930,
+    "kategori": "makanan",
     "calories": 253.3,
     "proteins": 4.3,
     "fat": 21,
@@ -8371,6 +9301,7 @@
   },
   {
     "id": 931,
+    "kategori": "makanan",
     "calories": 196,
     "proteins": 14.5,
     "fat": 8.3,
@@ -8380,6 +9311,7 @@
   },
   {
     "id": 932,
+    "kategori": "makanan",
     "calories": 600,
     "proteins": 14,
     "fat": 41.7,
@@ -8389,6 +9321,7 @@
   },
   {
     "id": 933,
+    "kategori": "makanan",
     "calories": 387,
     "proteins": 5.3,
     "fat": 7.6,
@@ -8398,6 +9331,7 @@
   },
   {
     "id": 934,
+    "kategori": "makanan",
     "calories": 9,
     "proteins": 2.1,
     "fat": 6,
@@ -8407,6 +9341,7 @@
   },
   {
     "id": 935,
+    "kategori": "makanan",
     "calories": 187,
     "proteins": 13,
     "fat": 6,
@@ -8416,6 +9351,7 @@
   },
   {
     "id": 936,
+    "kategori": "makanan",
     "calories": 376,
     "proteins": 14.9,
     "fat": 6,
@@ -8425,6 +9361,7 @@
   },
   {
     "id": 937,
+    "kategori": "makanan",
     "calories": 363.3,
     "proteins": 19.3,
     "fat": 19.3,
@@ -8434,6 +9371,7 @@
   },
   {
     "id": 938,
+    "kategori": "makanan",
     "calories": 284,
     "proteins": 12,
     "fat": 14.4,
@@ -8443,6 +9381,7 @@
   },
   {
     "id": 939,
+    "kategori": "makanan",
     "calories": 306.7,
     "proteins": 9,
     "fat": 18,
@@ -8452,6 +9391,7 @@
   },
   {
     "id": 940,
+    "kategori": "makanan",
     "calories": 351,
     "proteins": 11,
     "fat": 5.3,
@@ -8461,6 +9401,7 @@
   },
   {
     "id": 941,
+    "kategori": "makanan",
     "calories": 132,
     "proteins": 12.7,
     "fat": 3.8,
@@ -8470,6 +9411,7 @@
   },
   {
     "id": 942,
+    "kategori": "makanan",
     "calories": 187,
     "proteins": 13,
     "fat": 6,
@@ -8479,6 +9421,7 @@
   },
   {
     "id": 943,
+    "kategori": "makanan",
     "calories": 368,
     "proteins": 6.8,
     "fat": 32,
@@ -8488,6 +9431,7 @@
   },
   {
     "id": 944,
+    "kategori": "makanan",
     "calories": 320,
     "proteins": 7.3,
     "fat": 18.7,
@@ -8497,6 +9441,7 @@
   },
   {
     "id": 945,
+    "kategori": "makanan",
     "calories": 40,
     "proteins": 2,
     "fat": 2,
@@ -8506,6 +9451,7 @@
   },
   {
     "id": 946,
+    "kategori": "makanan",
     "calories": 76,
     "proteins": 5.2,
     "fat": 1.8,
@@ -8515,6 +9461,7 @@
   },
   {
     "id": 947,
+    "kategori": "makanan",
     "calories": 288.6,
     "proteins": 8.3,
     "fat": 8.9,
@@ -8524,6 +9471,7 @@
   },
   {
     "id": 948,
+    "kategori": "makanan",
     "calories": 115,
     "proteins": 1.5,
     "fat": 6,
@@ -8533,6 +9481,7 @@
   },
   {
     "id": 949,
+    "kategori": "makanan",
     "calories": 111,
     "proteins": 0.3,
     "fat": 2.7,
@@ -8542,6 +9491,7 @@
   },
   {
     "id": 950,
+    "kategori": "makanan",
     "calories": 940,
     "proteins": 36,
     "fat": 42,
@@ -8551,6 +9501,7 @@
   },
   {
     "id": 951,
+    "kategori": "makanan",
     "calories": 117,
     "proteins": 13.7,
     "fat": 5,
@@ -8560,6 +9511,7 @@
   },
   {
     "id": 952,
+    "kategori": "makanan",
     "calories": 125,
     "proteins": 10.4,
     "fat": 8.6,
@@ -8569,6 +9521,7 @@
   },
   {
     "id": 953,
+    "kategori": "makanan",
     "calories": 351,
     "proteins": 0.9,
     "fat": 0.9,
@@ -8578,6 +9531,7 @@
   },
   {
     "id": 954,
+    "kategori": "makanan",
     "calories": 342,
     "proteins": 2.3,
     "fat": 0.1,
@@ -8587,6 +9541,7 @@
   },
   {
     "id": 955,
+    "kategori": "makanan",
     "calories": 77,
     "proteins": 3.5,
     "fat": 4.6,
@@ -8596,6 +9551,7 @@
   },
   {
     "id": 956,
+    "kategori": "bahan",
     "calories": 494,
     "proteins": 7.5,
     "fat": 36.4,
@@ -8605,6 +9561,7 @@
   },
   {
     "id": 957,
+    "kategori": "makanan",
     "calories": 42,
     "proteins": 0.3,
     "fat": 0.2,
@@ -8614,6 +9571,7 @@
   },
   {
     "id": 958,
+    "kategori": "makanan",
     "calories": 460,
     "proteins": 28.5,
     "fat": 35.2,
@@ -8623,6 +9581,7 @@
   },
   {
     "id": 959,
+    "kategori": "makanan",
     "calories": 133.8,
     "proteins": 3,
     "fat": 1.6,
@@ -8632,6 +9591,7 @@
   },
   {
     "id": 960,
+    "kategori": "makanan",
     "calories": 61,
     "proteins": 0.2,
     "fat": 0.1,
@@ -8641,6 +9601,7 @@
   },
   {
     "id": 961,
+    "kategori": "makanan",
     "calories": 87,
     "proteins": 10.5,
     "fat": 2.5,
@@ -8650,6 +9611,7 @@
   },
   {
     "id": 962,
+    "kategori": "makanan",
     "calories": 29,
     "proteins": 1.1,
     "fat": 0.3,
@@ -8659,6 +9621,7 @@
   },
   {
     "id": 963,
+    "kategori": "makanan",
     "calories": 16,
     "proteins": 0.8,
     "fat": 0.2,
@@ -8668,6 +9631,7 @@
   },
   {
     "id": 964,
+    "kategori": "makanan",
     "calories": 19,
     "proteins": 1,
     "fat": 0.4,
@@ -8677,6 +9641,7 @@
   },
   {
     "id": 965,
+    "kategori": "makanan",
     "calories": 307,
     "proteins": 4.5,
     "fat": 13.3,
@@ -8686,6 +9651,7 @@
   },
   {
     "id": 966,
+    "kategori": "bahan",
     "calories": 362,
     "proteins": 0.5,
     "fat": 0.3,
@@ -8695,6 +9661,7 @@
   },
   {
     "id": 967,
+    "kategori": "makanan",
     "calories": 23,
     "proteins": 1.8,
     "fat": 0.3,
@@ -8704,6 +9671,7 @@
   },
   {
     "id": 968,
+    "kategori": "makanan",
     "calories": 156,
     "proteins": 28,
     "fat": 4,
@@ -8713,6 +9681,7 @@
   },
   {
     "id": 969,
+    "kategori": "makanan",
     "calories": 75,
     "proteins": 2.5,
     "fat": 2.8,
@@ -8722,6 +9691,7 @@
   },
   {
     "id": 970,
+    "kategori": "makanan",
     "calories": 219,
     "proteins": 19.7,
     "fat": 13.6,
@@ -8731,6 +9701,7 @@
   },
   {
     "id": 971,
+    "kategori": "makanan",
     "calories": 162,
     "proteins": 4.9,
     "fat": 3,
@@ -8740,6 +9711,7 @@
   },
   {
     "id": 972,
+    "kategori": "makanan",
     "calories": 156,
     "proteins": 4.2,
     "fat": 1.4,
@@ -8749,6 +9721,7 @@
   },
   {
     "id": 973,
+    "kategori": "makanan",
     "calories": 152,
     "proteins": 4.5,
     "fat": 2.3,
@@ -8758,6 +9731,7 @@
   },
   {
     "id": 974,
+    "kategori": "makanan",
     "calories": 211,
     "proteins": 12.3,
     "fat": 6.1,
@@ -8767,6 +9741,7 @@
   },
   {
     "id": 975,
+    "kategori": "makanan",
     "calories": 243,
     "proteins": 5.2,
     "fat": 7.3,
@@ -8776,6 +9751,7 @@
   },
   {
     "id": 976,
+    "kategori": "makanan",
     "calories": 173,
     "proteins": 7.2,
     "fat": 1.2,
@@ -8785,6 +9761,7 @@
   },
   {
     "id": 977,
+    "kategori": "makanan",
     "calories": 372,
     "proteins": 7.8,
     "fat": 36.3,
@@ -8794,6 +9771,7 @@
   },
   {
     "id": 978,
+    "kategori": "makanan",
     "calories": 174,
     "proteins": 13.1,
     "fat": 12.2,
@@ -8803,6 +9781,7 @@
   },
   {
     "id": 979,
+    "kategori": "makanan",
     "calories": 19,
     "proteins": 0.6,
     "fat": 0.1,
@@ -8812,6 +9791,7 @@
   },
   {
     "id": 980,
+    "kategori": "makanan",
     "calories": 275,
     "proteins": 11.6,
     "fat": 11.6,
@@ -8821,6 +9801,7 @@
   },
   {
     "id": 981,
+    "kategori": "makanan",
     "calories": 26,
     "proteins": 2.1,
     "fat": 0.1,
@@ -8830,6 +9811,7 @@
   },
   {
     "id": 982,
+    "kategori": "makanan",
     "calories": 46,
     "proteins": 0.5,
     "fat": 12,
@@ -8839,6 +9821,7 @@
   },
   {
     "id": 983,
+    "kategori": "makanan",
     "calories": 76,
     "proteins": 5.2,
     "fat": 1.8,
@@ -8848,6 +9831,7 @@
   },
   {
     "id": 984,
+    "kategori": "makanan",
     "calories": 400,
     "proteins": 0,
     "fat": 0,
@@ -8857,6 +9841,7 @@
   },
   {
     "id": 985,
+    "kategori": "makanan",
     "calories": 142,
     "proteins": 10.4,
     "fat": 2,
@@ -8866,6 +9851,7 @@
   },
   {
     "id": 986,
+    "kategori": "makanan",
     "calories": 50,
     "proteins": 3.7,
     "fat": 1,
@@ -8875,6 +9861,7 @@
   },
   {
     "id": 987,
+    "kategori": "makanan",
     "calories": 161,
     "proteins": 20,
     "fat": 0.2,
@@ -8884,6 +9871,7 @@
   },
   {
     "id": 988,
+    "kategori": "makanan",
     "calories": 220,
     "proteins": 15,
     "fat": 0.1,
@@ -8893,6 +9881,7 @@
   },
   {
     "id": 989,
+    "kategori": "makanan",
     "calories": 345,
     "proteins": 23.8,
     "fat": 1.4,
@@ -8902,6 +9891,7 @@
   },
   {
     "id": 990,
+    "kategori": "makanan",
     "calories": 220,
     "proteins": 15,
     "fat": 0.9,
@@ -8911,6 +9901,7 @@
   },
   {
     "id": 991,
+    "kategori": "makanan",
     "calories": 514,
     "proteins": 1,
     "fat": 27.8,
@@ -8920,6 +9911,7 @@
   },
   {
     "id": 992,
+    "kategori": "makanan",
     "calories": 107,
     "proteins": 15.9,
     "fat": 0.6,
@@ -8929,6 +9921,7 @@
   },
   {
     "id": 993,
+    "kategori": "makanan",
     "calories": 157,
     "proteins": 28,
     "fat": 4.2,
@@ -8938,6 +9931,7 @@
   },
   {
     "id": 994,
+    "kategori": "makanan",
     "calories": 170,
     "proteins": 31,
     "fat": 4.2,
@@ -8947,6 +9941,7 @@
   },
   {
     "id": 995,
+    "kategori": "makanan",
     "calories": 153,
     "proteins": 30,
     "fat": 2.8,
@@ -8956,6 +9951,7 @@
   },
   {
     "id": 996,
+    "kategori": "makanan",
     "calories": 142,
     "proteins": 27,
     "fat": 3,
@@ -8965,6 +9961,7 @@
   },
   {
     "id": 997,
+    "kategori": "makanan",
     "calories": 124,
     "proteins": 9.5,
     "fat": 9.6,
@@ -8974,6 +9971,7 @@
   },
   {
     "id": 998,
+    "kategori": "makanan",
     "calories": 99,
     "proteins": 1.2,
     "fat": 0.2,
@@ -8983,6 +9981,7 @@
   },
   {
     "id": 999,
+    "kategori": "makanan",
     "calories": 68,
     "proteins": 1.3,
     "fat": 0.2,
@@ -8992,6 +9991,7 @@
   },
   {
     "id": 1000,
+    "kategori": "makanan",
     "calories": 120,
     "proteins": 1.1,
     "fat": 0.2,
@@ -9001,6 +10001,7 @@
   },
   {
     "id": 1001,
+    "kategori": "makanan",
     "calories": 127,
     "proteins": 2.1,
     "fat": 0.3,
@@ -9010,6 +10011,7 @@
   },
   {
     "id": 1002,
+    "kategori": "makanan",
     "calories": 220,
     "proteins": 2.3,
     "fat": 2.3,
@@ -9019,6 +10021,7 @@
   },
   {
     "id": 1003,
+    "kategori": "makanan",
     "calories": 115,
     "proteins": 1.9,
     "fat": 0.2,
@@ -9028,6 +10031,7 @@
   },
   {
     "id": 1004,
+    "kategori": "makanan",
     "calories": 117,
     "proteins": 2,
     "fat": 0.3,
@@ -9037,6 +10041,7 @@
   },
   {
     "id": 1005,
+    "kategori": "makanan",
     "calories": 100,
     "proteins": 1.4,
     "fat": 0.5,
@@ -9046,6 +10051,7 @@
   },
   {
     "id": 1006,
+    "kategori": "makanan",
     "calories": 109,
     "proteins": 0.8,
     "fat": 0.5,
@@ -9055,6 +10061,7 @@
   },
   {
     "id": 1007,
+    "kategori": "makanan",
     "calories": 145,
     "proteins": 1.1,
     "fat": 0.3,
@@ -9064,6 +10071,7 @@
   },
   {
     "id": 1008,
+    "kategori": "makanan",
     "calories": 96,
     "proteins": 1,
     "fat": 0.2,
@@ -9073,6 +10081,7 @@
   },
   {
     "id": 1009,
+    "kategori": "makanan",
     "calories": 99,
     "proteins": 1.3,
     "fat": 0.2,
@@ -9082,6 +10091,7 @@
   },
   {
     "id": 1010,
+    "kategori": "makanan",
     "calories": 127,
     "proteins": 1.4,
     "fat": 0.2,
@@ -9091,6 +10101,7 @@
   },
   {
     "id": 1011,
+    "kategori": "makanan",
     "calories": 127,
     "proteins": 1.4,
     "fat": 0.2,
@@ -9100,6 +10111,7 @@
   },
   {
     "id": 1012,
+    "kategori": "makanan",
     "calories": 134,
     "proteins": 1.1,
     "fat": 0.5,
@@ -9109,6 +10121,7 @@
   },
   {
     "id": 1013,
+    "kategori": "makanan",
     "calories": 120,
     "proteins": 1.2,
     "fat": 0.2,
@@ -9118,6 +10131,7 @@
   },
   {
     "id": 1014,
+    "kategori": "minuman",
     "calories": 118,
     "proteins": 1.2,
     "fat": 0.2,
@@ -9127,6 +10141,7 @@
   },
   {
     "id": 1015,
+    "kategori": "makanan",
     "calories": 98,
     "proteins": 1.3,
     "fat": 1.2,
@@ -9136,6 +10151,7 @@
   },
   {
     "id": 1016,
+    "kategori": "makanan",
     "calories": 625,
     "proteins": 1,
     "fat": 0,
@@ -9145,6 +10161,7 @@
   },
   {
     "id": 1017,
+    "kategori": "makanan",
     "calories": 113,
     "proteins": 1.2,
     "fat": 0.2,
@@ -9154,6 +10171,7 @@
   },
   {
     "id": 1018,
+    "kategori": "bahan",
     "calories": 45,
     "proteins": 2.2,
     "fat": 0.3,
@@ -9163,6 +10181,7 @@
   },
   {
     "id": 1019,
+    "kategori": "makanan",
     "calories": 33,
     "proteins": 4.5,
     "fat": 0.4,
@@ -9172,6 +10191,7 @@
   },
   {
     "id": 1020,
+    "kategori": "makanan",
     "calories": 216,
     "proteins": 2.6,
     "fat": 3.1,
@@ -9181,6 +10201,7 @@
   },
   {
     "id": 1021,
+    "kategori": "makanan",
     "calories": 224,
     "proteins": 26.2,
     "fat": 11.3,
@@ -9190,6 +10211,7 @@
   },
   {
     "id": 1022,
+    "kategori": "makanan",
     "calories": 104,
     "proteins": 1.9,
     "fat": 4.1,
@@ -9199,6 +10221,7 @@
   },
   {
     "id": 1023,
+    "kategori": "makanan",
     "calories": 25,
     "proteins": 1.5,
     "fat": 0.5,
@@ -9208,6 +10231,7 @@
   },
   {
     "id": 1024,
+    "kategori": "bahan",
     "calories": 76,
     "proteins": 4.1,
     "fat": 1.1,
@@ -9217,6 +10241,7 @@
   },
   {
     "id": 1025,
+    "kategori": "bahan",
     "calories": 76,
     "proteins": 3.6,
     "fat": 0.3,
@@ -9226,6 +10251,7 @@
   },
   {
     "id": 1026,
+    "kategori": "makanan",
     "calories": 163,
     "proteins": 2.2,
     "fat": 6.5,
@@ -9235,6 +10261,7 @@
   },
   {
     "id": 1027,
+    "kategori": "makanan",
     "calories": 200,
     "proteins": 1,
     "fat": 2.4,
@@ -9244,6 +10271,7 @@
   },
   {
     "id": 1028,
+    "kategori": "bahan",
     "calories": 136,
     "proteins": 43,
     "fat": 2.4,
@@ -9253,6 +10281,7 @@
   },
   {
     "id": 1029,
+    "kategori": "makanan",
     "calories": 76,
     "proteins": 12.1,
     "fat": 2,
@@ -9262,6 +10291,7 @@
   },
   {
     "id": 1030,
+    "kategori": "makanan",
     "calories": 69,
     "proteins": 0.9,
     "fat": 0.1,
@@ -9271,6 +10301,7 @@
   },
   {
     "id": 1031,
+    "kategori": "makanan",
     "calories": 11,
     "proteins": 0,
     "fat": 0,
@@ -9280,6 +10311,7 @@
   },
   {
     "id": 1032,
+    "kategori": "makanan",
     "calories": 76,
     "proteins": 0.5,
     "fat": 0.2,
@@ -9289,6 +10321,7 @@
   },
   {
     "id": 1033,
+    "kategori": "makanan",
     "calories": 4,
     "proteins": 0,
     "fat": 0,
@@ -9298,6 +10331,7 @@
   },
   {
     "id": 1034,
+    "kategori": "makanan",
     "calories": 295,
     "proteins": 7.3,
     "fat": 8.5,
@@ -9307,6 +10341,7 @@
   },
   {
     "id": 1035,
+    "kategori": "makanan",
     "calories": 394,
     "proteins": 2.2,
     "fat": 8.8,
@@ -9316,6 +10351,7 @@
   },
   {
     "id": 1036,
+    "kategori": "makanan",
     "calories": 350,
     "proteins": 0.9,
     "fat": 0.4,
@@ -9325,6 +10361,7 @@
   },
   {
     "id": 1037,
+    "kategori": "makanan",
     "calories": 60,
     "proteins": 5.4,
     "fat": 2.5,
@@ -9334,6 +10371,7 @@
   },
   {
     "id": 1038,
+    "kategori": "makanan",
     "calories": 81,
     "proteins": 16.2,
     "fat": 1.2,
@@ -9343,6 +10381,7 @@
   },
   {
     "id": 1039,
+    "kategori": "makanan",
     "calories": 299,
     "proteins": 29.4,
     "fat": 3.6,
@@ -9352,6 +10391,7 @@
   },
   {
     "id": 1040,
+    "kategori": "makanan",
     "calories": 81,
     "proteins": 16.2,
     "fat": 1.2,
@@ -9361,6 +10401,7 @@
   },
   {
     "id": 1041,
+    "kategori": "makanan",
     "calories": 27,
     "proteins": 0.6,
     "fat": 0.3,
@@ -9370,6 +10411,7 @@
   },
   {
     "id": 1042,
+    "kategori": "makanan",
     "calories": 320,
     "proteins": 7.2,
     "fat": 4.2,
@@ -9379,6 +10421,7 @@
   },
   {
     "id": 1043,
+    "kategori": "makanan",
     "calories": 451,
     "proteins": 11.2,
     "fat": 20.2,
@@ -9388,6 +10431,7 @@
   },
   {
     "id": 1044,
+    "kategori": "makanan",
     "calories": 497,
     "proteins": 17,
     "fat": 27.6,
@@ -9397,6 +10441,7 @@
   },
   {
     "id": 1045,
+    "kategori": "makanan",
     "calories": 193,
     "proteins": 22.6,
     "fat": 7.9,
@@ -9406,6 +10451,7 @@
   },
   {
     "id": 1046,
+    "kategori": "makanan",
     "calories": 471,
     "proteins": 4.7,
     "fat": 21.8,
@@ -9415,6 +10461,7 @@
   },
   {
     "id": 1047,
+    "kategori": "bahan",
     "calories": 75,
     "proteins": 1.6,
     "fat": 0.6,
@@ -9424,6 +10471,7 @@
   },
   {
     "id": 1048,
+    "kategori": "makanan",
     "calories": 335,
     "proteins": 5.3,
     "fat": 3.5,
@@ -9433,6 +10481,7 @@
   },
   {
     "id": 1049,
+    "kategori": "makanan",
     "calories": 341,
     "proteins": 5.5,
     "fat": 16.2,
@@ -9442,6 +10491,7 @@
   },
   {
     "id": 1050,
+    "kategori": "makanan",
     "calories": 350,
     "proteins": 7.5,
     "fat": 2,
@@ -9451,6 +10501,7 @@
   },
   {
     "id": 1051,
+    "kategori": "makanan",
     "calories": 248,
     "proteins": 8,
     "fat": 1.2,
@@ -9460,6 +10511,7 @@
   },
   {
     "id": 1052,
+    "kategori": "makanan",
     "calories": 249,
     "proteins": 7.9,
     "fat": 1.5,
@@ -9469,6 +10521,7 @@
   },
   {
     "id": 1053,
+    "kategori": "makanan",
     "calories": 153,
     "proteins": 11.3,
     "fat": 8.4,
@@ -9478,6 +10531,7 @@
   },
   {
     "id": 1054,
+    "kategori": "makanan",
     "calories": 41,
     "proteins": 1.4,
     "fat": 0.3,
@@ -9487,6 +10541,7 @@
   },
   {
     "id": 1055,
+    "kategori": "makanan",
     "calories": 536,
     "proteins": 40.5,
     "fat": 41.5,
@@ -9496,6 +10551,7 @@
   },
   {
     "id": 1056,
+    "kategori": "makanan",
     "calories": 110,
     "proteins": 11.5,
     "fat": 2,
@@ -9505,6 +10561,7 @@
   },
   {
     "id": 1057,
+    "kategori": "makanan",
     "calories": 198,
     "proteins": 24.6,
     "fat": 10.7,
@@ -9514,6 +10571,7 @@
   },
   {
     "id": 1058,
+    "kategori": "bahan",
     "calories": 449,
     "proteins": 30.6,
     "fat": 25.5,
@@ -9523,6 +10581,7 @@
   },
   {
     "id": 1059,
+    "kategori": "makanan",
     "calories": 338,
     "proteins": 0.6,
     "fat": 0.3,
@@ -9532,6 +10591,7 @@
   },
   {
     "id": 1060,
+    "kategori": "makanan",
     "calories": 355,
     "proteins": 0.6,
     "fat": 1.1,
@@ -9541,6 +10601,7 @@
   },
   {
     "id": 1061,
+    "kategori": "makanan",
     "calories": 231,
     "proteins": 0.6,
     "fat": 0.2,
@@ -9550,6 +10611,7 @@
   },
   {
     "id": 1062,
+    "kategori": "makanan",
     "calories": 291,
     "proteins": 0.5,
     "fat": 4,
@@ -9559,6 +10621,7 @@
   },
   {
     "id": 1063,
+    "kategori": "makanan",
     "calories": 230,
     "proteins": 0.6,
     "fat": 0.2,
@@ -9568,6 +10631,7 @@
   },
   {
     "id": 1064,
+    "kategori": "makanan",
     "calories": 452,
     "proteins": 2.8,
     "fat": 14.8,
@@ -9577,6 +10641,7 @@
   },
   {
     "id": 1065,
+    "kategori": "makanan",
     "calories": 347,
     "proteins": 0.9,
     "fat": 0.3,
@@ -9586,6 +10651,7 @@
   },
   {
     "id": 1066,
+    "kategori": "makanan",
     "calories": 364,
     "proteins": 0.1,
     "fat": 0.2,
@@ -9595,6 +10661,7 @@
   },
   {
     "id": 1067,
+    "kategori": "makanan",
     "calories": 362,
     "proteins": 0.5,
     "fat": 0.3,
@@ -9604,6 +10671,7 @@
   },
   {
     "id": 1068,
+    "kategori": "makanan",
     "calories": 354,
     "proteins": 0.8,
     "fat": 8.3,
@@ -9613,6 +10681,7 @@
   },
   {
     "id": 1069,
+    "kategori": "makanan",
     "calories": 57,
     "proteins": 0.5,
     "fat": 0.1,
@@ -9622,6 +10691,7 @@
   },
   {
     "id": 1070,
+    "kategori": "makanan",
     "calories": 55,
     "proteins": 0.4,
     "fat": 0.2,
@@ -9631,6 +10701,7 @@
   },
   {
     "id": 1071,
+    "kategori": "makanan",
     "calories": 87,
     "proteins": 0.8,
     "fat": 0.4,
@@ -9640,6 +10711,7 @@
   },
   {
     "id": 1072,
+    "kategori": "makanan",
     "calories": 281,
     "proteins": 2.4,
     "fat": 0.7,
@@ -9649,6 +10721,7 @@
   },
   {
     "id": 1073,
+    "kategori": "bahan",
     "calories": 122,
     "proteins": 2,
     "fat": 10,
@@ -9658,6 +10731,7 @@
   },
   {
     "id": 1074,
+    "kategori": "bahan",
     "calories": 324,
     "proteins": 4.2,
     "fat": 34.3,
@@ -9667,6 +10741,7 @@
   },
   {
     "id": 1075,
+    "kategori": "bahan",
     "calories": 324,
     "proteins": 4.2,
     "fat": 34.3,
@@ -9676,6 +10751,7 @@
   },
   {
     "id": 1076,
+    "kategori": "bahan",
     "calories": 98,
     "proteins": 2,
     "fat": 0.4,
@@ -9685,6 +10761,7 @@
   },
   {
     "id": 1077,
+    "kategori": "makanan",
     "calories": 212,
     "proteins": 18,
     "fat": 10.6,
@@ -9694,6 +10771,7 @@
   },
   {
     "id": 1078,
+    "kategori": "makanan",
     "calories": 108,
     "proteins": 17.6,
     "fat": 4.2,
@@ -9703,6 +10781,7 @@
   },
   {
     "id": 1079,
+    "kategori": "makanan",
     "calories": 182,
     "proteins": 32,
     "fat": 6,
@@ -9712,6 +10791,7 @@
   },
   {
     "id": 1080,
+    "kategori": "makanan",
     "calories": 301,
     "proteins": 55,
     "fat": 9,
@@ -9721,6 +10801,7 @@
   },
   {
     "id": 1081,
+    "kategori": "makanan",
     "calories": 273,
     "proteins": 17.5,
     "fat": 22,
@@ -9730,6 +10811,7 @@
   },
   {
     "id": 1082,
+    "kategori": "makanan",
     "calories": 289,
     "proteins": 16,
     "fat": 25,
@@ -9739,6 +10821,7 @@
   },
   {
     "id": 1083,
+    "kategori": "makanan",
     "calories": 174,
     "proteins": 19.6,
     "fat": 10,
@@ -9748,6 +10831,7 @@
   },
   {
     "id": 1084,
+    "kategori": "makanan",
     "calories": 201,
     "proteins": 18.8,
     "fat": 14,
@@ -9757,6 +10841,7 @@
   },
   {
     "id": 1085,
+    "kategori": "makanan",
     "calories": 448,
     "proteins": 14.5,
     "fat": 42.3,
@@ -9766,6 +10851,7 @@
   },
   {
     "id": 1086,
+    "kategori": "makanan",
     "calories": 183,
     "proteins": 12,
     "fat": 14.4,
@@ -9775,6 +10861,7 @@
   },
   {
     "id": 1087,
+    "kategori": "makanan",
     "calories": 98,
     "proteins": 21.9,
     "fat": 1.1,
@@ -9784,6 +10871,7 @@
   },
   {
     "id": 1088,
+    "kategori": "makanan",
     "calories": 137,
     "proteins": 15,
     "fat": 8.1,
@@ -9793,6 +10881,7 @@
   },
   {
     "id": 1089,
+    "kategori": "makanan",
     "calories": 274,
     "proteins": 16,
     "fat": 22,
@@ -9802,6 +10891,7 @@
   },
   {
     "id": 1090,
+    "kategori": "makanan",
     "calories": 84,
     "proteins": 10.5,
     "fat": 4.6,
@@ -9811,6 +10901,7 @@
   },
   {
     "id": 1091,
+    "kategori": "makanan",
     "calories": 132,
     "proteins": 19.7,
     "fat": 3.2,
@@ -9820,6 +10911,7 @@
   },
   {
     "id": 1092,
+    "kategori": "makanan",
     "calories": 123,
     "proteins": 10.4,
     "fat": 8.6,
@@ -9829,6 +10921,7 @@
   },
   {
     "id": 1093,
+    "kategori": "makanan",
     "calories": 360,
     "proteins": 57.3,
     "fat": 6,
@@ -9838,6 +10931,7 @@
   },
   {
     "id": 1094,
+    "kategori": "makanan",
     "calories": 268,
     "proteins": 23.9,
     "fat": 12.7,
@@ -9847,6 +10941,7 @@
   },
   {
     "id": 1095,
+    "kategori": "makanan",
     "calories": 126,
     "proteins": 14,
     "fat": 7.2,
@@ -9856,6 +10951,7 @@
   },
   {
     "id": 1096,
+    "kategori": "bahan",
     "calories": 281,
     "proteins": 37.5,
     "fat": 0.3,
@@ -9865,6 +10961,7 @@
   },
   {
     "id": 1097,
+    "kategori": "makanan",
     "calories": 338,
     "proteins": 21.1,
     "fat": 27,
@@ -9874,6 +10971,7 @@
   },
   {
     "id": 1098,
+    "kategori": "bahan",
     "calories": 344,
     "proteins": 30,
     "fat": 20,
@@ -9883,6 +10981,7 @@
   },
   {
     "id": 1099,
+    "kategori": "makanan",
     "calories": 166,
     "proteins": 2.3,
     "fat": 2.8,
@@ -9892,6 +10991,7 @@
   },
   {
     "id": 1100,
+    "kategori": "makanan",
     "calories": 283,
     "proteins": 12.1,
     "fat": 16.8,
@@ -9901,6 +11001,7 @@
   },
   {
     "id": 1101,
+    "kategori": "makanan",
     "calories": 110,
     "proteins": 15.5,
     "fat": 0.5,
@@ -9910,6 +11011,7 @@
   },
   {
     "id": 1102,
+    "kategori": "makanan",
     "calories": 179,
     "proteins": 22.5,
     "fat": 3.5,
@@ -9919,6 +11021,7 @@
   },
   {
     "id": 1103,
+    "kategori": "makanan",
     "calories": 274,
     "proteins": 12.9,
     "fat": 18.6,
@@ -9928,6 +11031,7 @@
   },
   {
     "id": 1104,
+    "kategori": "makanan",
     "calories": 126.7,
     "proteins": 14,
     "fat": 7.3,
@@ -9937,6 +11041,7 @@
   },
   {
     "id": 1105,
+    "kategori": "makanan",
     "calories": 22,
     "proteins": 2.3,
     "fat": 0.3,
@@ -9946,6 +11051,7 @@
   },
   {
     "id": 1106,
+    "kategori": "makanan",
     "calories": 9,
     "proteins": 1,
     "fat": 0.1,
@@ -9955,6 +11061,7 @@
   },
   {
     "id": 1107,
+    "kategori": "makanan",
     "calories": 30,
     "proteins": 1.9,
     "fat": 0.5,
@@ -9964,6 +11071,7 @@
   },
   {
     "id": 1108,
+    "kategori": "makanan",
     "calories": 19,
     "proteins": 1.3,
     "fat": 0.2,
@@ -9973,6 +11081,7 @@
   },
   {
     "id": 1109,
+    "kategori": "makanan",
     "calories": 92,
     "proteins": 0.5,
     "fat": 1.1,
@@ -9982,6 +11091,7 @@
   },
   {
     "id": 1110,
+    "kategori": "makanan",
     "calories": 64,
     "proteins": 1,
     "fat": 3.1,
@@ -9991,6 +11101,7 @@
   },
   {
     "id": 1111,
+    "kategori": "makanan",
     "calories": 111,
     "proteins": 0.9,
     "fat": 2.3,
@@ -10000,6 +11111,7 @@
   },
   {
     "id": 1112,
+    "kategori": "makanan",
     "calories": 92,
     "proteins": 0.5,
     "fat": 1.1,
@@ -10009,6 +11121,7 @@
   },
   {
     "id": 1113,
+    "kategori": "makanan",
     "calories": 29,
     "proteins": 0.7,
     "fat": 0.6,
@@ -10018,6 +11131,7 @@
   },
   {
     "id": 1114,
+    "kategori": "makanan",
     "calories": 49,
     "proteins": 1.7,
     "fat": 0.3,
@@ -10027,6 +11141,7 @@
   },
   {
     "id": 1115,
+    "kategori": "makanan",
     "calories": 178,
     "proteins": 2.6,
     "fat": 13.9,
@@ -10036,6 +11151,7 @@
   },
   {
     "id": 1116,
+    "kategori": "makanan",
     "calories": 133,
     "proteins": 7.3,
     "fat": 6.6,
@@ -10045,6 +11161,7 @@
   },
   {
     "id": 1117,
+    "kategori": "makanan",
     "calories": 64,
     "proteins": 2.1,
     "fat": 0.6,
@@ -10054,6 +11171,7 @@
   },
   {
     "id": 1118,
+    "kategori": "makanan",
     "calories": 36,
     "proteins": 2.7,
     "fat": 0.7,
@@ -10063,6 +11181,7 @@
   },
   {
     "id": 1119,
+    "kategori": "makanan",
     "calories": 49,
     "proteins": 3.1,
     "fat": 2.5,
@@ -10072,6 +11191,7 @@
   },
   {
     "id": 1120,
+    "kategori": "makanan",
     "calories": 27,
     "proteins": 1.3,
     "fat": 2,
@@ -10081,6 +11201,7 @@
   },
   {
     "id": 1121,
+    "kategori": "makanan",
     "calories": 67,
     "proteins": 5.2,
     "fat": 2.9,
@@ -10090,6 +11211,7 @@
   },
   {
     "id": 1122,
+    "kategori": "makanan",
     "calories": 57,
     "proteins": 5.4,
     "fat": 2.6,
@@ -10099,6 +11221,7 @@
   },
   {
     "id": 1123,
+    "kategori": "makanan",
     "calories": 15,
     "proteins": 1.2,
     "fat": 0.2,
@@ -10108,6 +11231,7 @@
   },
   {
     "id": 1124,
+    "kategori": "makanan",
     "calories": 17,
     "proteins": 1.7,
     "fat": 0.3,
@@ -10117,6 +11241,7 @@
   },
   {
     "id": 1125,
+    "kategori": "makanan",
     "calories": 19,
     "proteins": 2.7,
     "fat": 0.2,
@@ -10126,6 +11251,7 @@
   },
   {
     "id": 1126,
+    "kategori": "makanan",
     "calories": 20,
     "proteins": 1,
     "fat": 0.1,
@@ -10135,6 +11261,7 @@
   },
   {
     "id": 1127,
+    "kategori": "makanan",
     "calories": 28,
     "proteins": 0.5,
     "fat": 0.2,
@@ -10144,6 +11271,7 @@
   },
   {
     "id": 1128,
+    "kategori": "makanan",
     "calories": 192.5,
     "proteins": 4.5,
     "fat": 6,
@@ -10153,6 +11281,7 @@
   },
   {
     "id": 1129,
+    "kategori": "bahan",
     "calories": 64,
     "proteins": 0.6,
     "fat": 0.3,
@@ -10162,6 +11291,7 @@
   },
   {
     "id": 1130,
+    "kategori": "bahan",
     "calories": 353,
     "proteins": 0.7,
     "fat": 0.2,
@@ -10171,6 +11301,7 @@
   },
   {
     "id": 1131,
+    "kategori": "makanan",
     "calories": 88,
     "proteins": 7.9,
     "fat": 1.6,
@@ -10180,6 +11311,7 @@
   },
   {
     "id": 1132,
+    "kategori": "bahan",
     "calories": 298,
     "proteins": 8,
     "fat": 23.8,
@@ -10189,6 +11321,7 @@
   },
   {
     "id": 1133,
+    "kategori": "makanan",
     "calories": 478,
     "proteins": 2.5,
     "fat": 21.2,
@@ -10198,6 +11331,7 @@
   },
   {
     "id": 1134,
+    "kategori": "minuman",
     "calories": 213,
     "proteins": 0,
     "fat": 0,
@@ -10207,6 +11341,7 @@
   },
   {
     "id": 1135,
+    "kategori": "makanan",
     "calories": 88,
     "proteins": 3.2,
     "fat": 8,
@@ -10216,6 +11351,7 @@
   },
   {
     "id": 1136,
+    "kategori": "makanan",
     "calories": 474,
     "proteins": 11.2,
     "fat": 42.5,
@@ -10225,6 +11361,7 @@
   },
   {
     "id": 1137,
+    "kategori": "makanan",
     "calories": 81,
     "proteins": 5.1,
     "fat": 4.5,
@@ -10234,6 +11371,7 @@
   },
   {
     "id": 1138,
+    "kategori": "makanan",
     "calories": 285,
     "proteins": 1,
     "fat": 18,
@@ -10243,6 +11381,7 @@
   },
   {
     "id": 1139,
+    "kategori": "makanan",
     "calories": 146,
     "proteins": 1.2,
     "fat": 0.3,
@@ -10252,6 +11391,7 @@
   },
   {
     "id": 1140,
+    "kategori": "makanan",
     "calories": 173,
     "proteins": 0.5,
     "fat": 0.1,
@@ -10261,6 +11401,7 @@
   },
   {
     "id": 1141,
+    "kategori": "makanan",
     "calories": 95.3,
     "proteins": 4.4,
     "fat": 2.2,
@@ -10270,6 +11411,7 @@
   },
   {
     "id": 1142,
+    "kategori": "makanan",
     "calories": 65,
     "proteins": 1,
     "fat": 0.3,
@@ -10279,6 +11421,7 @@
   },
   {
     "id": 1143,
+    "kategori": "bahan",
     "calories": 213,
     "proteins": 0,
     "fat": 0,
@@ -10288,6 +11431,7 @@
   },
   {
     "id": 1144,
+    "kategori": "makanan",
     "calories": 71,
     "proteins": 7.5,
     "fat": 3.6,
@@ -10297,6 +11441,7 @@
   },
   {
     "id": 1145,
+    "kategori": "makanan",
     "calories": 49,
     "proteins": 5.8,
     "fat": 0.5,
@@ -10306,6 +11451,7 @@
   },
   {
     "id": 1146,
+    "kategori": "makanan",
     "calories": 68,
     "proteins": 9,
     "fat": 1.9,
@@ -10315,6 +11461,7 @@
   },
   {
     "id": 1147,
+    "kategori": "makanan",
     "calories": 34,
     "proteins": 5.5,
     "fat": 0.8,
@@ -10324,6 +11471,7 @@
   },
   {
     "id": 1148,
+    "kategori": "makanan",
     "calories": 71,
     "proteins": 7.4,
     "fat": 2.6,
@@ -10333,6 +11481,7 @@
   },
   {
     "id": 1149,
+    "kategori": "makanan",
     "calories": 12,
     "proteins": 0.5,
     "fat": 0.1,
@@ -10342,6 +11491,7 @@
   },
   {
     "id": 1150,
+    "kategori": "makanan",
     "calories": 15,
     "proteins": 0.6,
     "fat": 0.1,
@@ -10351,6 +11501,7 @@
   },
   {
     "id": 1151,
+    "kategori": "makanan",
     "calories": 89,
     "proteins": 7.2,
     "fat": 5,
@@ -10360,6 +11511,7 @@
   },
   {
     "id": 1152,
+    "kategori": "makanan",
     "calories": 42,
     "proteins": 3.9,
     "fat": 1.7,
@@ -10369,6 +11521,7 @@
   },
   {
     "id": 1153,
+    "kategori": "makanan",
     "calories": 110,
     "proteins": 2.9,
     "fat": 9.5,
@@ -10378,6 +11531,7 @@
   },
   {
     "id": 1154,
+    "kategori": "makanan",
     "calories": 135,
     "proteins": 2.5,
     "fat": 8.8,
@@ -10387,6 +11541,7 @@
   },
   {
     "id": 1155,
+    "kategori": "makanan",
     "calories": 127.5,
     "proteins": 2.6,
     "fat": 9.4,
@@ -10396,6 +11551,7 @@
   },
   {
     "id": 1156,
+    "kategori": "makanan",
     "calories": 92,
     "proteins": 11.8,
     "fat": 4.3,
@@ -10405,6 +11561,7 @@
   },
   {
     "id": 1157,
+    "kategori": "makanan",
     "calories": 38,
     "proteins": 2.6,
     "fat": 2.3,
@@ -10414,6 +11571,7 @@
   },
   {
     "id": 1158,
+    "kategori": "makanan",
     "calories": 60,
     "proteins": 3.5,
     "fat": 4.5,
@@ -10423,6 +11581,7 @@
   },
   {
     "id": 1159,
+    "kategori": "makanan",
     "calories": 127,
     "proteins": 5.9,
     "fat": 6.6,
@@ -10432,6 +11591,7 @@
   },
   {
     "id": 1160,
+    "kategori": "makanan",
     "calories": 94,
     "proteins": 3,
     "fat": 6.8,
@@ -10441,6 +11601,7 @@
   },
   {
     "id": 1161,
+    "kategori": "makanan",
     "calories": 75,
     "proteins": 3.6,
     "fat": 5.2,
@@ -10450,6 +11611,7 @@
   },
   {
     "id": 1162,
+    "kategori": "makanan",
     "calories": 80,
     "proteins": 3.2,
     "fat": 3.5,
@@ -10459,6 +11621,7 @@
   },
   {
     "id": 1163,
+    "kategori": "makanan",
     "calories": 86,
     "proteins": 2.3,
     "fat": 8.5,
@@ -10468,6 +11631,7 @@
   },
   {
     "id": 1164,
+    "kategori": "makanan",
     "calories": 117.1,
     "proteins": 0.4,
     "fat": 8.6,
@@ -10477,6 +11641,7 @@
   },
   {
     "id": 1165,
+    "kategori": "makanan",
     "calories": 139,
     "proteins": 7.4,
     "fat": 2.1,
@@ -10486,6 +11651,7 @@
   },
   {
     "id": 1166,
+    "kategori": "makanan",
     "calories": 101,
     "proteins": 1.7,
     "fat": 0.6,
@@ -10495,6 +11661,7 @@
   },
   {
     "id": 1167,
+    "kategori": "makanan",
     "calories": 75,
     "proteins": 5.6,
     "fat": 0.4,
@@ -10504,6 +11671,7 @@
   },
   {
     "id": 1168,
+    "kategori": "makanan",
     "calories": 119,
     "proteins": 1.4,
     "fat": 0.2,
@@ -10513,6 +11681,7 @@
   },
   {
     "id": 1169,
+    "kategori": "makanan",
     "calories": 126,
     "proteins": 1.6,
     "fat": 0.2,
@@ -10522,6 +11691,7 @@
   },
   {
     "id": 1170,
+    "kategori": "bahan",
     "calories": 418,
     "proteins": 19,
     "fat": 9,
@@ -10531,6 +11701,7 @@
   },
   {
     "id": 1171,
+    "kategori": "bahan",
     "calories": 513,
     "proteins": 24.6,
     "fat": 30,
@@ -10540,6 +11711,7 @@
   },
   {
     "id": 1172,
+    "kategori": "minuman",
     "calories": 64,
     "proteins": 4.3,
     "fat": 2.3,
@@ -10549,6 +11721,7 @@
   },
   {
     "id": 1173,
+    "kategori": "minuman",
     "calories": 41,
     "proteins": 3.5,
     "fat": 2.5,
@@ -10558,6 +11731,7 @@
   },
   {
     "id": 1174,
+    "kategori": "bahan",
     "calories": 336,
     "proteins": 8.2,
     "fat": 10,
@@ -10567,6 +11741,7 @@
   },
   {
     "id": 1175,
+    "kategori": "bahan",
     "calories": 138,
     "proteins": 7,
     "fat": 7.9,
@@ -10576,6 +11751,7 @@
   },
   {
     "id": 1176,
+    "kategori": "minuman",
     "calories": 160,
     "proteins": 6.3,
     "fat": 12,
@@ -10585,6 +11761,7 @@
   },
   {
     "id": 1177,
+    "kategori": "minuman",
     "calories": 61,
     "proteins": 3.2,
     "fat": 3.5,
@@ -10594,6 +11771,7 @@
   },
   {
     "id": 1178,
+    "kategori": "minuman",
     "calories": 36,
     "proteins": 3.5,
     "fat": 0.1,
@@ -10603,6 +11781,7 @@
   },
   {
     "id": 1179,
+    "kategori": "bahan",
     "calories": 359,
     "proteins": 35.6,
     "fat": 1,
@@ -10612,6 +11791,7 @@
   },
   {
     "id": 1180,
+    "kategori": "minuman",
     "calories": 36,
     "proteins": 3.5,
     "fat": 0.1,
@@ -10621,6 +11801,7 @@
   },
   {
     "id": 1181,
+    "kategori": "minuman",
     "calories": 87,
     "proteins": 5.3,
     "fat": 5.2,
@@ -10630,6 +11811,7 @@
   },
   {
     "id": 1182,
+    "kategori": "makanan",
     "calories": 90,
     "proteins": 1.5,
     "fat": 0.1,
@@ -10639,6 +11821,7 @@
   },
   {
     "id": 1183,
+    "kategori": "makanan",
     "calories": 69,
     "proteins": 1,
     "fat": 0.1,
@@ -10648,6 +11831,7 @@
   },
   {
     "id": 1184,
+    "kategori": "makanan",
     "calories": 74,
     "proteins": 1.4,
     "fat": 0.1,
@@ -10657,6 +11841,7 @@
   },
   {
     "id": 1185,
+    "kategori": "makanan",
     "calories": 347,
     "proteins": 0.5,
     "fat": 0.9,
@@ -10666,6 +11851,7 @@
   },
   {
     "id": 1186,
+    "kategori": "makanan",
     "calories": 68,
     "proteins": 7.8,
     "fat": 4.6,
@@ -10675,6 +11861,7 @@
   },
   {
     "id": 1187,
+    "kategori": "makanan",
     "calories": 115,
     "proteins": 9.7,
     "fat": 8.5,
@@ -10684,6 +11871,7 @@
   },
   {
     "id": 1188,
+    "kategori": "makanan",
     "calories": 328,
     "proteins": 12.6,
     "fat": 19.9,
@@ -10693,15 +11881,17 @@
   },
   {
     "id": 1189,
+    "kategori": "makanan",
     "calories": 148,
     "proteins": 13.8,
     "fat": 8.5,
     "carbohydrate": 4,
-    "name": "Takwa",
+    "name": "Tahu Takwa",
     "image": "https://cdn.idntimes.com/content-images/community/2020/10/118291206-1002092246870647-2962160802061132133-n-1-5c6484eccc2b0af148d9d1c7e92d2417.jpg"
   },
   {
     "id": 1190,
+    "kategori": "makanan",
     "calories": 120,
     "proteins": 1.5,
     "fat": 0.3,
@@ -10711,6 +11901,7 @@
   },
   {
     "id": 1191,
+    "kategori": "makanan",
     "calories": 163,
     "proteins": 2.3,
     "fat": 0.5,
@@ -10720,6 +11911,7 @@
   },
   {
     "id": 1192,
+    "kategori": "makanan",
     "calories": 115,
     "proteins": 1.8,
     "fat": 0.5,
@@ -10729,6 +11921,7 @@
   },
   {
     "id": 1193,
+    "kategori": "makanan",
     "calories": 120,
     "proteins": 1.5,
     "fat": 0.3,
@@ -10738,6 +11931,7 @@
   },
   {
     "id": 1194,
+    "kategori": "makanan",
     "calories": 98,
     "proteins": 1.9,
     "fat": 0.2,
@@ -10747,6 +11941,7 @@
   },
   {
     "id": 1195,
+    "kategori": "makanan",
     "calories": 166,
     "proteins": 10.4,
     "fat": 4.9,
@@ -10756,6 +11951,7 @@
   },
   {
     "id": 1196,
+    "kategori": "makanan",
     "calories": 88,
     "proteins": 3.2,
     "fat": 2.1,
@@ -10765,6 +11961,7 @@
   },
   {
     "id": 1197,
+    "kategori": "makanan",
     "calories": 76,
     "proteins": 9,
     "fat": 2.6,
@@ -10774,6 +11971,7 @@
   },
   {
     "id": 1198,
+    "kategori": "makanan",
     "calories": 28,
     "proteins": 3,
     "fat": 0.8,
@@ -10783,6 +11981,7 @@
   },
   {
     "id": 1199,
+    "kategori": "makanan",
     "calories": 34,
     "proteins": 3.7,
     "fat": 1.2,
@@ -10792,6 +11991,7 @@
   },
   {
     "id": 1200,
+    "kategori": "makanan",
     "calories": 104,
     "proteins": 12.9,
     "fat": 6.8,
@@ -10801,6 +12001,7 @@
   },
   {
     "id": 1201,
+    "kategori": "makanan",
     "calories": 99,
     "proteins": 1.7,
     "fat": 0.3,
@@ -10810,6 +12011,7 @@
   },
   {
     "id": 1202,
+    "kategori": "makanan",
     "calories": 166,
     "proteins": 3.8,
     "fat": 1,
@@ -10819,6 +12021,7 @@
   },
   {
     "id": 1203,
+    "kategori": "makanan",
     "calories": 172,
     "proteins": 3,
     "fat": 0.5,
@@ -10828,6 +12031,7 @@
   },
   {
     "id": 1204,
+    "kategori": "makanan",
     "calories": 169,
     "proteins": 1.4,
     "fat": 0.3,
@@ -10837,6 +12041,7 @@
   },
   {
     "id": 1205,
+    "kategori": "makanan",
     "calories": 358,
     "proteins": 7.5,
     "fat": 4.3,
@@ -10846,6 +12051,7 @@
   },
   {
     "id": 1206,
+    "kategori": "bahan",
     "calories": 277,
     "proteins": 9.1,
     "fat": 4.7,
@@ -10855,6 +12061,7 @@
   },
   {
     "id": 1207,
+    "kategori": "bahan",
     "calories": 25,
     "proteins": 4.6,
     "fat": 0.4,
@@ -10864,6 +12071,7 @@
   },
   {
     "id": 1208,
+    "kategori": "makanan",
     "calories": 83,
     "proteins": 10.4,
     "fat": 3.4,
@@ -10873,6 +12081,7 @@
   },
   {
     "id": 1209,
+    "kategori": "minuman",
     "calories": 132,
     "proteins": 19.5,
     "fat": 0.7,
@@ -10882,6 +12091,7 @@
   },
   {
     "id": 1210,
+    "kategori": "bahan",
     "calories": 300,
     "proteins": 28.3,
     "fat": 4.8,
@@ -10891,6 +12101,7 @@
   },
   {
     "id": 1211,
+    "kategori": "bahan",
     "calories": 299,
     "proteins": 24.1,
     "fat": 3.5,
@@ -10900,6 +12111,7 @@
   },
   {
     "id": 1212,
+    "kategori": "makanan",
     "calories": 34,
     "proteins": 2,
     "fat": 0.1,
@@ -10909,6 +12121,7 @@
   },
   {
     "id": 1213,
+    "kategori": "makanan",
     "calories": 294,
     "proteins": 8.3,
     "fat": 1.7,
@@ -10918,6 +12131,7 @@
   },
   {
     "id": 1214,
+    "kategori": "makanan",
     "calories": 53,
     "proteins": 1.9,
     "fat": 0.9,
@@ -10927,6 +12141,7 @@
   },
   {
     "id": 1215,
+    "kategori": "makanan",
     "calories": 162,
     "proteins": 12.8,
     "fat": 11.5,
@@ -10936,6 +12151,7 @@
   },
   {
     "id": 1216,
+    "kategori": "makanan",
     "calories": 361,
     "proteins": 19.3,
     "fat": 31.9,
@@ -10945,6 +12161,7 @@
   },
   {
     "id": 1217,
+    "kategori": "makanan",
     "calories": 50,
     "proteins": 10.8,
     "fat": 0,
@@ -10954,6 +12171,7 @@
   },
   {
     "id": 1218,
+    "kategori": "makanan",
     "calories": 383,
     "proteins": 15.1,
     "fat": 32.9,
@@ -10963,6 +12181,7 @@
   },
   {
     "id": 1219,
+    "kategori": "makanan",
     "calories": 251,
     "proteins": 16.3,
     "fat": 19.4,
@@ -10972,6 +12191,7 @@
   },
   {
     "id": 1220,
+    "kategori": "makanan",
     "calories": 179,
     "proteins": 13.6,
     "fat": 13.3,
@@ -10981,6 +12201,7 @@
   },
   {
     "id": 1221,
+    "kategori": "makanan",
     "calories": 386,
     "proteins": 17,
     "fat": 35,
@@ -10990,6 +12211,7 @@
   },
   {
     "id": 1222,
+    "kategori": "makanan",
     "calories": 54,
     "proteins": 11,
     "fat": 0,
@@ -10999,6 +12221,7 @@
   },
   {
     "id": 1223,
+    "kategori": "makanan",
     "calories": 54,
     "proteins": 11,
     "fat": 0,
@@ -11008,6 +12231,7 @@
   },
   {
     "id": 1224,
+    "kategori": "makanan",
     "calories": 320,
     "proteins": 15.1,
     "fat": 30.5,
@@ -11017,6 +12241,7 @@
   },
   {
     "id": 1225,
+    "kategori": "makanan",
     "calories": 301,
     "proteins": 20,
     "fat": 23.7,
@@ -11026,6 +12251,7 @@
   },
   {
     "id": 1226,
+    "kategori": "makanan",
     "calories": 187,
     "proteins": 10.9,
     "fat": 12.4,
@@ -11035,6 +12261,7 @@
   },
   {
     "id": 1227,
+    "kategori": "makanan",
     "calories": 195,
     "proteins": 13.6,
     "fat": 13.6,
@@ -11044,6 +12271,7 @@
   },
   {
     "id": 1228,
+    "kategori": "makanan",
     "calories": 116,
     "proteins": 10.7,
     "fat": 7,
@@ -11053,6 +12281,7 @@
   },
   {
     "id": 1229,
+    "kategori": "makanan",
     "calories": 144,
     "proteins": 12,
     "fat": 10.2,
@@ -11062,6 +12291,7 @@
   },
   {
     "id": 1230,
+    "kategori": "makanan",
     "calories": 425,
     "proteins": 31,
     "fat": 28,
@@ -11071,6 +12301,7 @@
   },
   {
     "id": 1231,
+    "kategori": "makanan",
     "calories": 119,
     "proteins": 4.4,
     "fat": 3.5,
@@ -11080,6 +12311,7 @@
   },
   {
     "id": 1232,
+    "kategori": "makanan",
     "calories": 73,
     "proteins": 5.7,
     "fat": 1.3,
@@ -11089,6 +12321,7 @@
   },
   {
     "id": 1233,
+    "kategori": "makanan",
     "calories": 76,
     "proteins": 6.8,
     "fat": 0.7,
@@ -11098,6 +12331,7 @@
   },
   {
     "id": 1234,
+    "kategori": "makanan",
     "calories": 328,
     "proteins": 18.4,
     "fat": 23.2,
@@ -11107,6 +12341,7 @@
   },
   {
     "id": 1235,
+    "kategori": "makanan",
     "calories": 139,
     "proteins": 12.5,
     "fat": 0.8,
@@ -11116,6 +12351,7 @@
   },
   {
     "id": 1236,
+    "kategori": "makanan",
     "calories": 212,
     "proteins": 17.5,
     "fat": 10,
@@ -11125,6 +12361,7 @@
   },
   {
     "id": 1237,
+    "kategori": "makanan",
     "calories": 143,
     "proteins": 12,
     "fat": 5.5,
@@ -11134,6 +12371,7 @@
   },
   {
     "id": 1238,
+    "kategori": "makanan",
     "calories": 350,
     "proteins": 24.5,
     "fat": 26.6,
@@ -11143,6 +12381,7 @@
   },
   {
     "id": 1239,
+    "kategori": "makanan",
     "calories": 201,
     "proteins": 20.8,
     "fat": 8.8,
@@ -11152,6 +12391,7 @@
   },
   {
     "id": 1240,
+    "kategori": "makanan",
     "calories": 141,
     "proteins": 10.2,
     "fat": 1.3,
@@ -11161,6 +12401,7 @@
   },
   {
     "id": 1241,
+    "kategori": "makanan",
     "calories": 146,
     "proteins": 11.7,
     "fat": 2.3,
@@ -11170,6 +12411,7 @@
   },
   {
     "id": 1242,
+    "kategori": "makanan",
     "calories": 131,
     "proteins": 18,
     "fat": 0.8,
@@ -11179,6 +12421,7 @@
   },
   {
     "id": 1243,
+    "kategori": "makanan",
     "calories": 150,
     "proteins": 14,
     "fat": 7.7,
@@ -11188,6 +12431,7 @@
   },
   {
     "id": 1244,
+    "kategori": "makanan",
     "calories": 336,
     "proteins": 20,
     "fat": 28,
@@ -11197,6 +12441,7 @@
   },
   {
     "id": 1245,
+    "kategori": "makanan",
     "calories": 240,
     "proteins": 6,
     "fat": 2.7,
@@ -11206,6 +12451,7 @@
   },
   {
     "id": 1246,
+    "kategori": "makanan",
     "calories": 110,
     "proteins": 1.7,
     "fat": 1.3,
@@ -11215,6 +12461,7 @@
   },
   {
     "id": 1247,
+    "kategori": "makanan",
     "calories": 126,
     "proteins": 1.1,
     "fat": 2.2,
@@ -11224,6 +12471,7 @@
   },
   {
     "id": 1248,
+    "kategori": "bahan",
     "calories": 355,
     "proteins": 0.7,
     "fat": 0.2,
@@ -11233,6 +12481,7 @@
   },
   {
     "id": 1249,
+    "kategori": "bahan",
     "calories": 364,
     "proteins": 7,
     "fat": 0.5,
@@ -11242,6 +12491,7 @@
   },
   {
     "id": 1250,
+    "kategori": "bahan",
     "calories": 353,
     "proteins": 7,
     "fat": 0.5,
@@ -11251,6 +12501,7 @@
   },
   {
     "id": 1251,
+    "kategori": "bahan",
     "calories": 353,
     "proteins": 0.8,
     "fat": 1.7,
@@ -11260,6 +12511,7 @@
   },
   {
     "id": 1252,
+    "kategori": "bahan",
     "calories": 363,
     "proteins": 1.1,
     "fat": 0.5,
@@ -11269,6 +12521,7 @@
   },
   {
     "id": 1253,
+    "kategori": "bahan",
     "calories": 355,
     "proteins": 0.7,
     "fat": 0.2,
@@ -11278,6 +12531,7 @@
   },
   {
     "id": 1254,
+    "kategori": "bahan",
     "calories": 364,
     "proteins": 4.5,
     "fat": 1,
@@ -11287,6 +12541,7 @@
   },
   {
     "id": 1255,
+    "kategori": "bahan",
     "calories": 316,
     "proteins": 60.1,
     "fat": 6.5,
@@ -11296,6 +12551,7 @@
   },
   {
     "id": 1256,
+    "kategori": "bahan",
     "calories": 355,
     "proteins": 9.2,
     "fat": 3.9,
@@ -11305,6 +12561,7 @@
   },
   {
     "id": 1257,
+    "kategori": "bahan",
     "calories": 355,
     "proteins": 9.2,
     "fat": 3.9,
@@ -11314,6 +12571,7 @@
   },
   {
     "id": 1258,
+    "kategori": "bahan",
     "calories": 388,
     "proteins": 19,
     "fat": 7.5,
@@ -11323,6 +12581,7 @@
   },
   {
     "id": 1259,
+    "kategori": "bahan",
     "calories": 347,
     "proteins": 35.9,
     "fat": 20.6,
@@ -11332,6 +12591,7 @@
   },
   {
     "id": 1260,
+    "kategori": "bahan",
     "calories": 347,
     "proteins": 0.3,
     "fat": 0.1,
@@ -11341,6 +12601,7 @@
   },
   {
     "id": 1261,
+    "kategori": "bahan",
     "calories": 350,
     "proteins": 1.2,
     "fat": 0.6,
@@ -11350,6 +12611,7 @@
   },
   {
     "id": 1262,
+    "kategori": "bahan",
     "calories": 338,
     "proteins": 2.9,
     "fat": 0.4,
@@ -11359,6 +12621,7 @@
   },
   {
     "id": 1263,
+    "kategori": "bahan",
     "calories": 353,
     "proteins": 0.7,
     "fat": 0.2,
@@ -11368,6 +12631,7 @@
   },
   {
     "id": 1264,
+    "kategori": "bahan",
     "calories": 326,
     "proteins": 4,
     "fat": 0.4,
@@ -11377,6 +12641,7 @@
   },
   {
     "id": 1265,
+    "kategori": "bahan",
     "calories": 363,
     "proteins": 1.1,
     "fat": 0.5,
@@ -11386,6 +12651,7 @@
   },
   {
     "id": 1266,
+    "kategori": "bahan",
     "calories": 353,
     "proteins": 2.9,
     "fat": 0.5,
@@ -11395,6 +12661,7 @@
   },
   {
     "id": 1267,
+    "kategori": "bahan",
     "calories": 509,
     "proteins": 24.6,
     "fat": 30,
@@ -11404,6 +12671,7 @@
   },
   {
     "id": 1268,
+    "kategori": "bahan",
     "calories": 418,
     "proteins": 19,
     "fat": 9,
@@ -11413,6 +12681,7 @@
   },
   {
     "id": 1269,
+    "kategori": "bahan",
     "calories": 362,
     "proteins": 35.6,
     "fat": 1,
@@ -11422,6 +12691,7 @@
   },
   {
     "id": 1270,
+    "kategori": "bahan",
     "calories": 332,
     "proteins": 5.7,
     "fat": 0.6,
@@ -11431,6 +12701,7 @@
   },
   {
     "id": 1271,
+    "kategori": "bahan",
     "calories": 365,
     "proteins": 8.9,
     "fat": 1.3,
@@ -11440,6 +12711,7 @@
   },
   {
     "id": 1272,
+    "kategori": "bahan",
     "calories": 354,
     "proteins": 2.8,
     "fat": 0.6,
@@ -11449,6 +12721,7 @@
   },
   {
     "id": 1273,
+    "kategori": "bahan",
     "calories": 155,
     "proteins": 22.3,
     "fat": 2.9,
@@ -11458,6 +12731,7 @@
   },
   {
     "id": 1274,
+    "kategori": "bahan",
     "calories": 191,
     "proteins": 33.1,
     "fat": 3.6,
@@ -11467,6 +12741,7 @@
   },
   {
     "id": 1275,
+    "kategori": "bahan",
     "calories": 174,
     "proteins": 30,
     "fat": 3.5,
@@ -11476,6 +12751,7 @@
   },
   {
     "id": 1276,
+    "kategori": "bahan",
     "calories": 174,
     "proteins": 30,
     "fat": 3.5,
@@ -11485,6 +12761,7 @@
   },
   {
     "id": 1277,
+    "kategori": "makanan",
     "calories": 365,
     "proteins": 23.7,
     "fat": 22.3,
@@ -11494,6 +12771,7 @@
   },
   {
     "id": 1278,
+    "kategori": "makanan",
     "calories": 462,
     "proteins": 39.1,
     "fat": 32.4,
@@ -11503,6 +12781,7 @@
   },
   {
     "id": 1279,
+    "kategori": "makanan",
     "calories": 24,
     "proteins": 1.1,
     "fat": 0.2,
@@ -11512,6 +12791,7 @@
   },
   {
     "id": 1280,
+    "kategori": "makanan",
     "calories": 285,
     "proteins": 4.3,
     "fat": 25.7,
@@ -11521,6 +12801,7 @@
   },
   {
     "id": 1281,
+    "kategori": "makanan",
     "calories": 39,
     "proteins": 2.3,
     "fat": 1.9,
@@ -11530,6 +12811,7 @@
   },
   {
     "id": 1282,
+    "kategori": "makanan",
     "calories": 48,
     "proteins": 1.5,
     "fat": 0.3,
@@ -11539,6 +12821,7 @@
   },
   {
     "id": 1283,
+    "kategori": "makanan",
     "calories": 45,
     "proteins": 1.9,
     "fat": 0.8,
@@ -11548,6 +12831,7 @@
   },
   {
     "id": 1284,
+    "kategori": "makanan",
     "calories": 23,
     "proteins": 1.8,
     "fat": 0.1,
@@ -11557,6 +12841,7 @@
   },
   {
     "id": 1285,
+    "kategori": "makanan",
     "calories": 28,
     "proteins": 1.1,
     "fat": 0.2,
@@ -11566,6 +12851,7 @@
   },
   {
     "id": 1286,
+    "kategori": "makanan",
     "calories": 52,
     "proteins": 2.1,
     "fat": 1.1,
@@ -11575,6 +12861,7 @@
   },
   {
     "id": 1287,
+    "kategori": "makanan",
     "calories": 52,
     "proteins": 1.1,
     "fat": 0.4,
@@ -11584,6 +12871,7 @@
   },
   {
     "id": 1288,
+    "kategori": "makanan",
     "calories": 25,
     "proteins": 2.1,
     "fat": 0.1,
@@ -11593,6 +12881,7 @@
   },
   {
     "id": 1289,
+    "kategori": "makanan",
     "calories": 23,
     "proteins": 1.8,
     "fat": 0.1,
@@ -11602,6 +12891,7 @@
   },
   {
     "id": 1290,
+    "kategori": "bahan",
     "calories": 59,
     "proteins": 2.9,
     "fat": 0.3,
@@ -11611,6 +12901,7 @@
   },
   {
     "id": 1291,
+    "kategori": "makanan",
     "calories": 120,
     "proteins": 2.4,
     "fat": 0.4,
@@ -11620,6 +12911,7 @@
   },
   {
     "id": 1292,
+    "kategori": "makanan",
     "calories": 33,
     "proteins": 1.2,
     "fat": 1.3,
@@ -11629,6 +12921,7 @@
   },
   {
     "id": 1293,
+    "kategori": "makanan",
     "calories": 516,
     "proteins": 17.7,
     "fat": 49.5,
@@ -11638,6 +12931,7 @@
   },
   {
     "id": 1294,
+    "kategori": "makanan",
     "calories": 355,
     "proteins": 6.2,
     "fat": 1.2,
@@ -11647,6 +12941,7 @@
   },
   {
     "id": 1295,
+    "kategori": "makanan",
     "calories": 353,
     "proteins": 2.4,
     "fat": 1.1,
@@ -11656,6 +12951,7 @@
   },
   {
     "id": 1296,
+    "kategori": "makanan",
     "calories": 395,
     "proteins": 3.2,
     "fat": 8.5,
@@ -11665,6 +12961,7 @@
   },
   {
     "id": 1297,
+    "kategori": "makanan",
     "calories": 392,
     "proteins": 5.4,
     "fat": 28.5,
@@ -11674,6 +12971,7 @@
   },
   {
     "id": 1298,
+    "kategori": "makanan",
     "calories": 93.6,
     "proteins": 4.4,
     "fat": 1.8,
@@ -11683,6 +12981,7 @@
   },
   {
     "id": 1299,
+    "kategori": "makanan",
     "calories": 23,
     "proteins": 2.9,
     "fat": 0.2,
@@ -11692,6 +12991,7 @@
   },
   {
     "id": 1300,
+    "kategori": "makanan",
     "calories": 35,
     "proteins": 5,
     "fat": 0.2,
@@ -11701,6 +13001,7 @@
   },
   {
     "id": 1301,
+    "kategori": "makanan",
     "calories": 67,
     "proteins": 9,
     "fat": 2.6,
@@ -11710,6 +13011,7 @@
   },
   {
     "id": 1302,
+    "kategori": "makanan",
     "calories": 28,
     "proteins": 3,
     "fat": 0.8,
@@ -11719,15 +13021,17 @@
   },
   {
     "id": 1303,
+    "kategori": "minuman",
     "calories": 20,
     "proteins": 1,
     "fat": 0.2,
     "carbohydrate": 3.5,
-    "name": "Tomat air (juice) segar",
+    "name": "Jus Tomat",
     "image": "https://assets.ayobandung.com/crop/0x0:0x0/750x500/webp/photo/2022/04/05/2356668642.jpeg"
   },
   {
     "id": 1304,
+    "kategori": "makanan",
     "calories": 20,
     "proteins": 1,
     "fat": 0.3,
@@ -11737,6 +13041,7 @@
   },
   {
     "id": 1305,
+    "kategori": "makanan",
     "calories": 24,
     "proteins": 1.3,
     "fat": 0.5,
@@ -11746,6 +13051,7 @@
   },
   {
     "id": 1306,
+    "kategori": "makanan",
     "calories": 24,
     "proteins": 2,
     "fat": 0.7,
@@ -11755,6 +13061,7 @@
   },
   {
     "id": 1307,
+    "kategori": "makanan",
     "calories": 189,
     "proteins": 11.3,
     "fat": 15.7,
@@ -11764,6 +13071,7 @@
   },
   {
     "id": 1308,
+    "kategori": "makanan",
     "calories": 48,
     "proteins": 1.4,
     "fat": 4.2,
@@ -11773,6 +13081,7 @@
   },
   {
     "id": 1309,
+    "kategori": "makanan",
     "calories": 186,
     "proteins": 1.9,
     "fat": 0.2,
@@ -11782,6 +13091,7 @@
   },
   {
     "id": 1310,
+    "kategori": "makanan",
     "calories": 160,
     "proteins": 3.7,
     "fat": 1.3,
@@ -11791,6 +13101,7 @@
   },
   {
     "id": 1311,
+    "kategori": "makanan",
     "calories": 100,
     "proteins": 0.7,
     "fat": 0.3,
@@ -11800,6 +13111,7 @@
   },
   {
     "id": 1312,
+    "kategori": "makanan",
     "calories": 119,
     "proteins": 0.5,
     "fat": 0.4,
@@ -11809,6 +13121,7 @@
   },
   {
     "id": 1313,
+    "kategori": "makanan",
     "calories": 83,
     "proteins": 1.5,
     "fat": 0.2,
@@ -11818,6 +13131,7 @@
   },
   {
     "id": 1314,
+    "kategori": "makanan",
     "calories": 123,
     "proteins": 1.8,
     "fat": 0.7,
@@ -11827,6 +13141,7 @@
   },
   {
     "id": 1315,
+    "kategori": "makanan",
     "calories": 151,
     "proteins": 1.6,
     "fat": 0.3,
@@ -11836,6 +13151,7 @@
   },
   {
     "id": 1316,
+    "kategori": "makanan",
     "calories": 123,
     "proteins": 1.8,
     "fat": 0.7,
@@ -11845,6 +13161,7 @@
   },
   {
     "id": 1317,
+    "kategori": "makanan",
     "calories": 114,
     "proteins": 1.4,
     "fat": 9.6,
@@ -11854,6 +13171,7 @@
   },
   {
     "id": 1318,
+    "kategori": "makanan",
     "calories": 184,
     "proteins": 1.4,
     "fat": 0.3,
@@ -11863,6 +13181,7 @@
   },
   {
     "id": 1319,
+    "kategori": "makanan",
     "calories": 108,
     "proteins": 0.5,
     "fat": 0.4,
@@ -11872,6 +13191,7 @@
   },
   {
     "id": 1320,
+    "kategori": "makanan",
     "calories": 165,
     "proteins": 0.9,
     "fat": 0.2,
@@ -11881,6 +13201,7 @@
   },
   {
     "id": 1321,
+    "kategori": "makanan",
     "calories": 82,
     "proteins": 5.8,
     "fat": 1.3,
@@ -11890,6 +13211,7 @@
   },
   {
     "id": 1322,
+    "kategori": "makanan",
     "calories": 56,
     "proteins": 11.4,
     "fat": 0.6,
@@ -11899,6 +13221,7 @@
   },
   {
     "id": 1323,
+    "kategori": "makanan",
     "calories": 81,
     "proteins": 16.5,
     "fat": 0.3,
@@ -11908,6 +13231,7 @@
   },
   {
     "id": 1324,
+    "kategori": "makanan",
     "calories": 295,
     "proteins": 62.4,
     "fat": 2.3,
@@ -11917,6 +13241,7 @@
   },
   {
     "id": 1325,
+    "kategori": "makanan",
     "calories": 278,
     "proteins": 62.6,
     "fat": 4.1,
@@ -11926,6 +13251,7 @@
   },
   {
     "id": 1326,
+    "kategori": "makanan",
     "calories": 273,
     "proteins": 47.8,
     "fat": 3.8,
@@ -11935,6 +13261,7 @@
   },
   {
     "id": 1327,
+    "kategori": "makanan",
     "calories": 91,
     "proteins": 21,
     "fat": 0.2,
@@ -11944,6 +13271,7 @@
   },
   {
     "id": 1328,
+    "kategori": "makanan",
     "calories": 380,
     "proteins": 11.9,
     "fat": 30.3,
@@ -11953,6 +13281,7 @@
   },
   {
     "id": 1329,
+    "kategori": "makanan",
     "calories": 241,
     "proteins": 5.8,
     "fat": 21.6,
@@ -11962,6 +13291,7 @@
   },
   {
     "id": 1330,
+    "kategori": "makanan",
     "calories": 120,
     "proteins": 2.8,
     "fat": 0.5,
@@ -11971,6 +13301,7 @@
   },
   {
     "id": 1331,
+    "kategori": "makanan",
     "calories": 34,
     "proteins": 2.4,
     "fat": 0.3,
@@ -11980,6 +13311,7 @@
   },
   {
     "id": 1332,
+    "kategori": "makanan",
     "calories": 130,
     "proteins": 14,
     "fat": 7.2,
@@ -11989,6 +13321,7 @@
   },
   {
     "id": 1333,
+    "kategori": "makanan",
     "calories": 101,
     "proteins": 2,
     "fat": 0.2,
@@ -11998,6 +13331,7 @@
   },
   {
     "id": 1334,
+    "kategori": "makanan",
     "calories": 363,
     "proteins": 8.7,
     "fat": 0.4,
@@ -12007,6 +13341,7 @@
   },
   {
     "id": 1335,
+    "kategori": "makanan",
     "calories": 303,
     "proteins": 6.3,
     "fat": 2.7,
@@ -12016,6 +13351,7 @@
   },
   {
     "id": 1336,
+    "kategori": "makanan",
     "calories": 45,
     "proteins": 0.8,
     "fat": 0.9,
@@ -12025,6 +13361,7 @@
   },
   {
     "id": 1337,
+    "kategori": "makanan",
     "calories": 424,
     "proteins": 1.3,
     "fat": 10.7,
@@ -12034,6 +13371,7 @@
   },
   {
     "id": 1338,
+    "kategori": "bahan",
     "calories": 568,
     "proteins": 19.3,
     "fat": 51.1,
@@ -12043,6 +13381,7 @@
   },
   {
     "id": 1339,
+    "kategori": "makanan",
     "calories": 355,
     "proteins": 3.2,
     "fat": 15.1,
@@ -12052,6 +13391,7 @@
   },
   {
     "id": 1340,
+    "kategori": "makanan",
     "calories": 143,
     "proteins": 3.1,
     "fat": 7.8,
@@ -12061,6 +13401,7 @@
   },
   {
     "id": 1341,
+    "kategori": "makanan",
     "calories": 452,
     "proteins": 14.5,
     "fat": 42.3,
@@ -12070,6 +13411,7 @@
   },
   {
     "id": 1342,
+    "kategori": "makanan",
     "calories": 42,
     "proteins": 1.2,
     "fat": 0.6,
@@ -12079,6 +13421,7 @@
   },
   {
     "id": 1343,
+    "kategori": "makanan",
     "calories": 37,
     "proteins": 1,
     "fat": 0.6,
@@ -12088,6 +13431,7 @@
   },
   {
     "id": 1344,
+    "kategori": "makanan",
     "calories": 28,
     "proteins": 0.7,
     "fat": 0.5,
@@ -12097,6 +13441,7 @@
   },
   {
     "id": 1345,
+    "kategori": "makanan",
     "calories": 254,
     "proteins": 3,
     "fat": 1.1,
@@ -12106,6 +13451,7 @@
   },
   {
     "id": 1346,
+    "kategori": "minuman",
     "calories": 52,
     "proteins": 3.3,
     "fat": 2.5,

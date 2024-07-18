@@ -1,7 +1,7 @@
 package com.aiotechpnj.foodfinder.utils
 
 import android.content.Context
-import com.aiotechpnj.foodfinder.data.PredictResult
+import com.aiotechpnj.foodfinder.data.Item
 import org.json.JSONArray
 import java.io.IOException
 
@@ -20,13 +20,14 @@ class JsonLoader() {
         }
     }
 
-    fun parseJSONFromAsset(jsonString: String): List<PredictResult> {
-        val predictItems = mutableListOf<PredictResult>()
+    fun parseJSONFromAsset(jsonString: String): List<Item> {
+        val predictItems = mutableListOf<Item>()
         val jsonArray = JSONArray(jsonString)
         for (i in 0 until jsonArray.length()) {
             val jsonObject = jsonArray.getJSONObject(i)
-            val item = PredictResult(
+            val item = Item(
                 id = jsonObject.getInt("id"),
+                category = jsonObject.getString("kategori"),
                 calories = jsonObject.getDouble("calories"),
                 protein = jsonObject.getDouble("proteins"),
                 fat = jsonObject.getDouble("fat"),
