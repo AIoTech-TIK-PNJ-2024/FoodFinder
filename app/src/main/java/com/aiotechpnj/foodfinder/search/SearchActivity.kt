@@ -5,6 +5,7 @@ import android.view.View
 import android.widget.TextView
 import androidx.appcompat.app.AppCompatActivity
 import androidx.recyclerview.widget.LinearLayoutManager
+import com.aiotechpnj.foodfinder.R
 import com.aiotechpnj.foodfinder.databinding.ActivitySearchBinding
 import com.aiotechpnj.foodfinder.utils.JsonLoader
 import com.aiotechpnj.foodfinder.utils.search_data
@@ -31,6 +32,7 @@ class SearchActivity : AppCompatActivity() {
 
             searchBar.setText(searchData)
             searchView.setupWithSearchBar(searchBar)
+            searchView.editText.setHintTextColor(getResources().getColor(R.color.black))
             searchView.editText.setOnEditorActionListener { _, _, _ ->
                 searchBar.setText(searchView.text)
                 searchView.hide()

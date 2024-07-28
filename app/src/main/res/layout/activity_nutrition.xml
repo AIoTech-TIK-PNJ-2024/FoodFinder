@@ -75,6 +75,7 @@
                 android:layout_marginHorizontal="10dp"
                 android:layout_marginTop="14dp"
                 android:hint="@string/tv_hint_kalori"
+                android:textColor="@color/black"
                 app:boxCornerRadiusBottomEnd="9dp"
                 app:boxCornerRadiusBottomStart="9dp"
                 app:boxCornerRadiusTopEnd="9dp"
@@ -87,7 +88,8 @@
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:ems="10"
-                    android:inputType="numberDecimal"/>
+                    android:inputType="numberDecimal"
+                    android:textColor="@color/black"/>
 
                 <TextView
                     android:layout_width="wrap_content"
@@ -108,6 +110,7 @@
                 android:layout_marginHorizontal="10dp"
                 android:layout_marginTop="10dp"
                 android:hint="@string/tv_hint_karbo"
+                android:textColor="@color/black"
                 app:boxCornerRadiusBottomEnd="9dp"
                 app:boxCornerRadiusBottomStart="9dp"
                 app:boxCornerRadiusTopEnd="9dp"
@@ -120,6 +123,7 @@
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:ems="10"
+                    android:textColor="@color/black"
                     android:inputType="numberDecimal"/>
 
                 <TextView
@@ -142,6 +146,7 @@
                 android:layout_marginHorizontal="10dp"
                 android:layout_marginTop="10dp"
                 android:hint="@string/tv_hint_prot"
+                android:textColor="@color/black"
                 app:boxCornerRadiusBottomEnd="9dp"
                 app:boxCornerRadiusBottomStart="9dp"
                 app:boxCornerRadiusTopEnd="9dp"
@@ -154,6 +159,7 @@
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:ems="10"
+                    android:textColor="@color/black"
                     android:inputType="numberDecimal"/>
 
                 <TextView
@@ -176,6 +182,7 @@
                 android:layout_marginBottom="16dp"
                 android:layout_marginTop="10dp"
                 android:hint="@string/tv_hint_lemak"
+                android:textColor="@color/black"
                 app:boxCornerRadiusBottomEnd="9dp"
                 app:boxCornerRadiusBottomStart="9dp"
                 app:boxCornerRadiusTopEnd="9dp"
@@ -188,6 +195,7 @@
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:ems="10"
+                    android:textColor="@color/black"
                     android:inputType="numberDecimal"/>
 
                 <TextView
