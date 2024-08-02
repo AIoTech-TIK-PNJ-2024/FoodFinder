@@ -40,17 +40,12 @@ class ItemsFragment : Fragment() {
 
             when (position) {
                 1 -> {
-                    val lowCal = data.filter { it.calories!! in 0.0.. 210.0 }
+                    val lowCal = data.filter { it.calories!! in 0.0.. 245.0}
                     adapter.submitList(lowCal)
                     rvItems.adapter = adapter
                 }
-                2 -> {
-                    val midCal = data.filter { it.calories!! in 211.0..440.0 }
-                    adapter.submitList(midCal)
-                    rvItems.adapter = adapter
-                }
                 else -> {
-                    val highCal = data.filter { it.calories!! >= 444.0 }
+                    val highCal = data.filter { it.calories!! >= 246.0}
                     adapter.submitList(highCal)
                     rvItems.adapter = adapter
                 }

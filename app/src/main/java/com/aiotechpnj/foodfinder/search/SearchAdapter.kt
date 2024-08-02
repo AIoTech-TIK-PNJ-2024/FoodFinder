@@ -31,8 +31,7 @@ class SearchAdapter : ListAdapter<Item, SearchAdapter.ViewHolder>(DIFF_CALLBACK)
                     .into(imgItem)
 
                 nameItem.text = data.name
-                val statCal = if (data.calories!! in 0.0.. 210.0){ "Rendah" }
-                    else if (data.calories in 211.0..440.0){ "Sedang" }
+                val statCal = if (data.calories!! in 0.0.. 245.0){ "Rendah" }
                     else { "Tinggi" }
 
                 statusCaloriesItem.text = statCal

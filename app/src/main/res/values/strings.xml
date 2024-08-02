@@ -1,6 +1,6 @@
 <resources>
     <string name="app_name">Food Finder</string>
-    <string name="tv_main">Lorem ipsum dolor sit amet consectetur adipiscing elit, sollicitudin nulla laoreet platea aptent purus, integer vestibulum dis lectus lacus eget.</string>
+    <string name="tv_main">Masukkan Nilai Kalori, Karbohidrat, Protein, Lemak berdasarkan preferensi Anda untuk mendapatkan rekomendasi Makanan atau Minuman yang tepat untuk Anda.</string>
     <string name="tv_hint_kalori">Kalori (cal)</string>
     <string name="tv_kalori">Masukan kalori 0–10.000</string>
     <string name="tv_karbo">Masukan karbohidrat 0–10.000</string>
@@ -12,7 +12,6 @@
     <string name="tv_heading">Food Finder</string>
     <string name="txt_btn_cari">Cari</string>
     <string name="tab_rendah">Rendah</string>
-    <string name="tab_sedang">Sedang</string>
     <string name="tab_tinggi">Tinggi</string>
     <string name="nutrition_title">Kebutuhan Nutrisimu :</string>
     <string name="calories">Kalori</string>
@@ -36,7 +35,7 @@
     <string name="search">Search</string>
     <string name="hero_title">Pengukuran Nutrisi Yang Dibutuhkan</string>
     <string name="hero_desc">Temukan berbagai makanan sesuai dengan kebutuhan nutrisimu</string>
-    <string name="daftar_title">Makanan/Minuman dengan Nilai Kalori</string>
+    <string name="daftar_title">Makanan/Minuman dengan Tingkat Kalori</string>
     <string name="fab_desc">button to search food with nutrition</string>
     <string name="item_image">Item Image</string>
 </resources>
